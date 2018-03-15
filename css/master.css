@@ -1,0 +1,5 @@
+.uk-navbar-nav>li:not(.uk-active)>a:active, .uk-navbar-nav>li:not(.uk-active)>a:focus {
+  background-color: inherit;
+  border-left-color: rgba(0, 0, 0, 0);
+  border-right-color: rgba(0, 0, 0, 0);
+}
