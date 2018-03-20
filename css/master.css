@@ -9,27 +9,10 @@
   font-weight: bold;
 }
 
-.show {
-  animation: jiggle 1000ms linear;
-}
-
-.hide {
-  transition: all 1000ms ease-in;
-}
-
-@keyframes jiggle {
-  0% {
-    transform: rotate(0);
-  }
-  33% {
-    transform: rotate(15deg);
-  }
-  66% {
-    transform: rotate(-15deg);
-  }
-  100% {
-    transform: rotate(0);
-  }
+p {
+  font-family: "Helvetica";
+  font-size: 18px;
+  line-height: 1.5;
 }
 
 footer {

@@ -15,7 +15,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -33,7 +33,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -51,7 +51,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -69,7 +69,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -87,7 +87,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -105,7 +105,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -123,7 +123,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
   });
 
   new Waypoint({
@@ -141,6 +141,42 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '80%'
+    offset: '50%'
+  });
+
+  new Waypoint({
+    element: document.getElementById('goodstar-9'),
+    handler: (direction) => {
+      let a = document.getElementById('goodstar-svg');
+      let svgDoc = a.contentDocument;
+      let svgItem = svgDoc.getElementsByClassName("goodstar9");
+      if (direction == 'down') {
+        console.log('goodstar9 down');
+        $(svgItem).fadeIn('slow');
+      } else {
+        console.log('goodstar9 up');
+        $(svgItem).fadeOut('slow');
+      };
+    }
+  }, {
+    offset: '50%'
+  });
+
+  new Waypoint({
+    element: document.getElementById('goodstar-10'),
+    handler: (direction) => {
+      let a = document.getElementById('goodstar-svg');
+      let svgDoc = a.contentDocument;
+      let svgItem = svgDoc.getElementsByClassName("goodstar10");
+      if (direction == 'down') {
+        console.log('goodstar10 down');
+        $(svgItem).fadeIn('slow');
+      } else {
+        console.log('goodstar10 up');
+        $(svgItem).fadeOut('slow');
+      };
+    }
+  }, {
+    offset: '50%'
   });
 });

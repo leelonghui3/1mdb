@@ -28,8 +28,8 @@
       </switch>
     </g>
 
-    <rect x="72" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(73.5,971.5)">
+    <rect class="goodstar8" style="display:none" x="72" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(73.5,971.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -43,7 +43,9 @@
         </foreignObject>
         <text x="58" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="352" y="74" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
+    </g>
+
+    <rect x="352" y="74" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
     <g transform="translate(383.5,92.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
@@ -186,8 +188,11 @@
         </foreignObject>
         <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="352" y="594" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(378.5,612.5)">
+    </g>
+
+    <!-- Selune -->
+    <rect class="goodstar8" style="display:none" x="352" y="594" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(378.5,612.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="66" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 67px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -197,8 +202,11 @@
         </foreignObject>
         <text x="33" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="352" y="714" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(363.5,732.5)">
+    </g>
+
+    <!-- DLA Piper -->
+    <rect class="goodstar10" style="display:none" x="352" y="714" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(363.5,732.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -209,8 +217,11 @@
         </foreignObject>
         <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="397" y="798.5" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(400.5,800.5)">
+    </g>
+
+    <!-- Oriole Mansion -->
+    <rect class="goodstar10" style="display:none" x="397" y="798.5" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(400.5,800.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -228,8 +239,11 @@
         </foreignObject>
         <text x="56" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="397" y="884" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(398.5,881.5)">
+    </g>
+
+    <!-- Greene Condominium -->
+    <rect class="goodstar10" style="display:none" x="397" y="884" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(398.5,881.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -319,8 +333,8 @@
     </g>
 
     <!-- EMI -->
-    <rect x="512" y="284" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(515.5,288.5)">
+    <rect class="goodstar9" style="display:none" x="512" y="284" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar9" style="display:none" transform="translate(515.5,288.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -427,8 +441,12 @@
         </foreignObject>
         <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 472 269 L 712 269 L 712 387.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 712 392.88 L 708.5 385.88 L 712 387.63 L 715.5 385.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(647.5,328.5)">
+    </g>
+
+    <!-- US$508,956,027 28/6/201-4/9/2013 -->
+    <path class="goodstar8" style="display:none" d="M 472 269 L 712 269 L 712 387.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 712 392.88 L 708.5 385.88 L 712 387.63 L 715.5 385.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(647.5,328.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="129" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -438,8 +456,12 @@
         </foreignObject>
         <text x="65" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 712 454 L 712 624 L 673.37 624" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 668.12 624 L 675.12 620.5 L 673.37 624 L 675.12 627.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(658.5,471.5)">
+    </g>
+
+    <!-- US$153 million 5/11/2012 -->
+    <path class="goodstar8" style="display:none" d="M 712 454 L 712 624 L 673.37 624" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 668.12 624 L 675.12 620.5 L 673.37 624 L 675.12 627.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(658.5,471.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -450,7 +472,9 @@
         <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
     </g>
-    <g transform="translate(657.5,521.5)">
+
+    <!-- US$54.75 million -->
+    <g class="goodstar8" style="display:none" transform="translate(657.5,521.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -461,7 +485,9 @@
         <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
     </g>
-    <g transform="translate(664.5,565.5)">
+
+    <!-- US$120 million -->
+    <g class="goodstar8" style="display:none" transform="translate(664.5,565.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -471,8 +497,11 @@
         </foreignObject>
         <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 660 600 L 537 600 L 537 454 L 433.37 454" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 428.12 454 L 435.12 450.5 L 433.37 454 L 435.12 457.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(483.5,516.5)">
+    </g>
+
+    <path class="goodstar8" style="display:none" d="M 660 600 L 537 600 L 537 454 L 433.37 454" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 428.12 454 L 435.12 450.5 L 433.37 454 L 435.12 457.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(483.5,516.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -483,7 +512,9 @@
         <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
     </g>
-    <g transform="translate(486.5,463.5)">
+
+    <!-- US$118 million 11/6/2012 -->
+    <g class="goodstar8" style="display:none" transform="translate(486.5,463.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -496,9 +527,9 @@
     </g>
 
     <!-- US$30 million 28/6/2011 -->
-    <path class="goodstar6" style="display:none" d="M 667 624 L 478.37 624" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="goodstar6" style="display:none" d="M 473.12 624 L 480.12 620.5 L 478.37 624 L 480.12 627.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="goodstar6" style="display:none" transform="translate(527.5,608.5)">
+    <path class="goodstar8" style="display:none" d="M 667 624 L 478.37 624" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 473.12 624 L 480.12 620.5 L 478.37 624 L 480.12 627.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(527.5,608.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -513,8 +544,10 @@
       </switch>
     </g>
 
-    <path d="M 412 424 L 412 454 L 412 587.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 412 592.88 L 408.5 585.88 L 412 587.63 L 415.5 585.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(358.5,481.5)">
+    <!-- US$110 million 7/11/2012 -->
+    <path class="goodstar9" style="display:none" d="M 412 424 L 412 454 L 412 587.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar9" style="display:none" d="M 412 592.88 L 408.5 585.88 L 412 587.63 L 415.5 585.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar9" style="display:none" transform="translate(358.5,481.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -525,7 +558,9 @@
         <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
     </g>
-    <g transform="translate(361.5,532.5)">
+
+    <!-- US$36,246,670 -->
+    <g class="goodstar9" style="display:none" transform="translate(361.5,532.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -540,8 +575,11 @@
         </foreignObject>
         <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 412 654 L 412 707.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 412 712.88 L 408.5 705.88 L 412 707.63 L 415.5 705.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(359.5,667.5)">
+    </g>
+
+    <path class="goodstar10" style="display:none" d="M 412 654 L 412 707.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 412 712.88 L 408.5 705.88 L 412 707.63 L 415.5 705.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(359.5,667.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -554,8 +592,12 @@
         </foreignObject>
         <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 397 454 L 292 454 L 292 744 L 345.63 744" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 350.88 744 L 343.88 747.5 L 345.63 744 L 343.88 740.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(236.5,526.5)">
+    </g>
+
+    <!-- US$13.8 million -->
+    <path class="goodstar10" style="display:none" d="M 397 454 L 292 454 L 292 744 L 345.63 744" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 350.88 744 L 343.88 747.5 L 345.63 744 L 343.88 740.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(236.5,526.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -566,8 +608,12 @@
         </foreignObject>
         <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 352 609 L 153.37 609" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 148.12 609 L 155.12 605.5 L 153.37 609 L 155.12 612.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(199.5,592.5)">
+    </g>
+
+    <!-- US$27 million 6/7/2011 -->
+    <path class="goodstar8" style="display:none" d="M 352 609 L 153.37 609" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 148.12 609 L 155.12 605.5 L 153.37 609 L 155.12 612.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(199.5,592.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -587,8 +633,9 @@
     <path class="goodstar7" style="display:none" d="M 70.88 724 L 63.88 727.5 L 65.63 724 L 63.88 720.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
 
 
-    <path d="M 382 774 L 382 829 L 390.63 829" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path d="M 395.88 829 L 388.88 832.5 L 390.63 829 L 388.88 825.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 382 774 L 382 829 L 390.63 829" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 395.88 829 L 388.88 832.5 L 390.63 829 L 388.88 825.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+
     <path d="M 352 119 L 352 119" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
     <path d="M 352 119 L 352 119 L 352 119 L 352 119 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
 
@@ -670,8 +717,8 @@
       </switch>
     </g>
 
-    <rect x="247" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" transform="rotate(180,307,1004)" pointer-events="none"/>
-    <g transform="translate(248.5,980.5)">
+    <rect class="goodstar10" style="display:none" x="247" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" transform="rotate(180,307,1004)" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(248.5,980.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -683,8 +730,11 @@
         </foreignObject>
         <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="607" y="734" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(608.5,734.5)">
+    </g>
+
+    <!-- Stratton -->
+    <rect class="goodstar3" style="display:none" x="607" y="734" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar3" style="display:none" transform="translate(608.5,734.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="59" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -697,8 +747,12 @@
         </foreignObject>
         <text x="58" y="36" fill="#000000" text-anchor="middle" font-size="13px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 147 639 L 277 639 L 277 967.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 277 972.88 L 273.5 965.88 L 277 967.63 L 280.5 965.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(217.5,785.5)">
+    </g>
+
+    <!-- Path of Shearman IOLA to Viceroy -->
+    <path class="goodstar10" style="display:none" d="M 147 639 L 277 639 L 277 967.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 277 972.88 L 273.5 965.88 L 277 967.63 L 280.5 965.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(217.5,785.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -708,8 +762,12 @@
         </foreignObject>
         <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 352 759 L 337 759 L 337 967.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 337 972.88 L 333.5 965.88 L 337 967.63 L 340.5 965.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(284.5,917.5)">
+    </g>
+
+    <!-- DLA Piper to Viceroy -->
+    <path class="goodstar10" style="display:none" d="M 352 759 L 337 759 L 337 967.63" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 337 972.88 L 333.5 965.88 L 337 967.63 L 340.5 965.88 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="display:none" transform="translate(284.5,917.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -723,8 +781,15 @@
         </foreignObject>
         <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 472 254 L 777 254 L 777 764 L 733.37 764" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 728.12 764 L 735.12 760.5 L 733.37 764 L 735.12 767.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="667" cy="892" rx="7.5" ry="7.5" fill="#f8cecc" stroke="#b85450" pointer-events="none"/><path d="M 667 899 L 667 924 M 667 904 L 652 904 M 667 904 L 682 904 M 667 924 L 652 944 M 667 924 L 682 944" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(623.5,951.5)">
+    </g>
+
+    <path class="goodstar3" style="display:none" d="M 472 254 L 777 254 L 777 764 L 733.37 764" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="display:none" d="M 728.12 764 L 735.12 760.5 L 733.37 764 L 735.12 767.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Tarek Obaid -->
+    <ellipse class="goodstar3" style="display:none" cx="667" cy="892" rx="7.5" ry="7.5" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <path class="goodstar3" style="display:none" d="M 667 899 L 667 924 M 667 904 L 652 904 M 667 904 L 682 904 M 667 924 L 652 944 M 667 924 L 682 944" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="display:none" transform="translate(623.5,951.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="86" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -735,8 +800,12 @@
         </foreignObject>
         <text x="43" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 472 239 L 807 239 L 807 914 L 673.37 914" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 668.12 914 L 675.12 910.5 L 673.37 914 L 675.12 917.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(687.5,897.5)">
+    </g>
+
+    <!-- US$153 million 5/10/2009-12/1/2010 -->
+    <path class="goodstar3" style="display:none" d="M 472 239 L 807 239 L 807 914 L 673.37 914" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="display:none" d="M 668.12 914 L 675.12 910.5 L 673.37 914 L 675.12 917.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="display:none" transform="translate(687.5,897.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="138" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -746,8 +815,11 @@
         </foreignObject>
         <text x="69" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="607" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(608.5,971.5)">
+    </g>
+
+    <!-- Palantir Technologies -->
+    <rect class="goodstar3" style="display:none" x="607" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar3" style="display:none" transform="translate(608.5,971.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -760,8 +832,15 @@
         </foreignObject>
         <text x="58" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 667 914 L 587 914 L 587 1004 L 600.63 1004" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 605.88 1004 L 598.88 1007.5 L 600.63 1004 L 598.88 1000.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><rect x="607" y="798.5" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(606.5,798.5)">
+    </g>
+
+    <!-- Path of Tarek Obaid buys Palantir -->
+    <path class="goodstar3" style="display:none"  d="M 667 914 L 587 914 L 587 1004 L 600.63 1004" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="display:none" d="M 605.88 1004 L 598.88 1007.5 L 600.63 1004 L 598.88 1000.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- The Wolf of Wall Street -->
+    <rect class="goodstar3" style="display:none" x="607" y="798.5" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar3" style="display:none" transform="translate(606.5,798.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="120" height="59" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 120px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -779,8 +858,11 @@
         <text x="60" y="36" fill="#000000" text-anchor="middle" font-size="13px" font-family="Helvetica">[Not supported by viewer]</text>
       </switch>
     </g>
-    <path d="M 412 424 L 619 424" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="622" cy="424" rx="3" ry="3" fill="#b85450" stroke="#b85450" pointer-events="none"/>
-    <g transform="translate(497.5,415.5)">
+
+    <!-- Jho Low OWNS ADKMIC -->
+    <path class="goodstar8" style="display:none" d="M 412 424 L 619 424" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="goodstar8" style="display:none" cx="622" cy="424" rx="3" ry="3" fill="#b85450" stroke="#b85450" pointer-events="none"/>
+    <g class="goodstar8" style="display:none" transform="translate(497.5,415.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -790,10 +872,14 @@
         <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
       </switch>
     </g>
-    <path d="M 472 254 L 777 254 L 777 829 L 733.37 829" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path d="M 728.12 829 L 735.12 825.5 L 733.37 829 L 735.12 832.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path d="M 382 774 L 382 914 L 390.63 914" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path d="M 395.88 914 L 388.88 917.5 L 390.63 914 L 388.88 910.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Good Star to The Wolf of Wall Street -->
+    <path class="goodstar3" style="display:none" d="M 472 254 L 777 254 L 777 829 L 733.37 829" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="display:none" d="M 728.12 829 L 735.12 825.5 L 733.37 829 L 735.12 832.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path of DLA Piper to Greene Condominium -->
+    <path class="goodstar10" style="display:none" d="M 382 774 L 382 914 L 390.63 914" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="display:none" d="M 395.88 914 L 388.88 917.5 L 390.63 914 L 388.88 910.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path to Hillcrest Property 1 -->
     <path class="goodstar7" style="display:none" d="M 57 654 L 57 794 L 65.63 794" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
@@ -808,8 +894,8 @@
     <path class="goodstar7" style="display:none" d="M 70.88 934 L 63.88 937.5 L 65.63 934 L 63.88 930.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path to Time Warner Penthouse -->
-    <path d="M 57 654 L 57 1004 L 65.63 1004" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
-    <path d="M 70.88 1004 L 63.88 1007.5 L 65.63 1004 L 63.88 1000.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 57 654 L 57 1004 L 65.63 1004" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="display:none" d="M 70.88 1004 L 63.88 1007.5 L 65.63 1004 L 63.88 1000.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
 
 
     <!-- US$368,539,770 21/10/2009-13/10/2010 -->
@@ -827,7 +913,9 @@
       </switch>
     </g>
 
-    <path d="M 420 400 L 470 400 L 470 314 L 505.63 314" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/><path d="M 510.88 314 L 503.88 317.5 L 505.63 314 L 503.88 310.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <!-- Path of Jho Low buys EMI -->
+    <path class="goodstar9" style="display:none" d="M 420 400 L 470 400 L 470 314 L 505.63 314" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar9" style="display:none" d="M 510.88 314 L 503.88 317.5 L 505.63 314 L 503.88 310.5 Z" fill="#b85450" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/>
 
       <!-- Eric Tan == Jho Low -->
     <path class="goodstar4" style="display:none" d="M 412 426 L 322 426 M 322 422 L 412 422 M 322 422" fill="none" stroke="#b85450" stroke-miterlimit="10" pointer-events="none"/></g>
