@@ -15,7 +15,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -33,7 +33,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -51,7 +51,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -69,7 +69,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -87,7 +87,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -105,7 +105,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -123,7 +123,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -141,7 +141,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -159,7 +159,7 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 
   new Waypoint({
@@ -177,6 +177,6 @@ $(document).ready(() => {
       };
     }
   }, {
-    offset: '50%'
+    offset: 500
   });
 });
