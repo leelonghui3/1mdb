@@ -11,41 +11,49 @@
   <defs>
     <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-ffe6cc-1-ffffff-1-s-0"><stop offset="0%" style="stop-color:#ffe6cc"/><stop offset="100%" style="stop-color:#ffffff"/></linearGradient>
   </defs>
-  <g transform="translate(0.5,0.5)"><rect x="251" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+  <g transform="translate(0.5,0.5)">
+
+    <!-- Aabar -->
+    <rect x="251" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(282.5,88.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar</div>
           </div>
         </foreignObject>
-        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Aabar</text>
+        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Aabar</text>
       </switch>
-    </g><rect x="481" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    </g>
+
+    <!-- 1MDB -->
+    <rect x="481" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(512.5,88.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">1MDB<br style="font-size: 20px"/></div>
           </div>
         </foreignObject>
-        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="31" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    </g>
+
+    <rect x="31" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(71.5,88.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="39" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 39px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 39px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">IPIC</div>
           </div>
         </foreignObject>
-        <text x="20" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">IPIC</text>
+        <text x="20" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">IPIC</text>
       </switch>
     </g><rect x="481" y="192.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(492.5,211.5)">
@@ -53,11 +61,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar-BVI<br style="font-size: 20px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="481" y="395" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(487.5,413.5)">
@@ -65,11 +73,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 108px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 108px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Blackstone</div>
           </div>
         </foreignObject>
-        <text x="53" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Blackstone</text>
+        <text x="53" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Blackstone</text>
       </switch>
     </g><rect x="331" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(341.5,328.5)">
@@ -77,11 +85,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 100px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 100px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Enterprise</div>
           </div>
         </foreignObject>
-        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Enterprise</text>
+        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Enterprise</text>
       </switch>
     </g><rect x="621" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(629.5,328.5)">
@@ -89,13 +97,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Cistenique</span>
             </div>
           </div>
         </foreignObject>
-        <text x="51" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="51" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="31" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(31.5,589.5)">
@@ -103,13 +111,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="118" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 118px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 118px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Vasco Investments</span>
             </div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="131" y="487.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(160.5,506.5)">
@@ -117,11 +125,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="60" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 61px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 61px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Rayan</div>
           </div>
         </foreignObject>
-        <text x="30" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Rayan</text>
+        <text x="30" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Rayan</text>
       </switch>
     </g><rect x="251" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(252.5,589.5)">
@@ -129,11 +137,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">MB Consulting</div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">MB Consulting</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">MB Consulting</text>
       </switch>
     </g><rect x="821" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(822.5,709.5)">
@@ -141,11 +149,11 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Red Granite Capital</div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Red Granite Capital</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Red Granite Capital</text>
       </switch>
     </g><rect x="921" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(922.5,846.5)">
@@ -153,13 +161,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Shearman IOLA</span>
             </div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="741" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(742.5,846.5)">
@@ -167,13 +175,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Red Granite Pictures</span>
             </div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="331" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(332.5,709.5)">
@@ -181,13 +189,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Alsen Chance</span>
             </div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="421" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(422.5,876.5)">
@@ -195,13 +203,13 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Venetian Casino</span>
             </div>
           </div>
         </foreignObject>
-        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><ellipse cx="506" cy="1037" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path
       d="M 506.15 1044.85 L 506.15 1069.85 M 506.15 1049.85 L 491.15 1049.85 M 506.15 1049.85 L 521.15 1049.85 M 506.15 1069.85 L 491.15 1089.85 M 506.15 1069.85 L 521.15 1089.85"
@@ -212,68 +220,68 @@
     <g transform="translate(475.5,1097.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Jho Low<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="31" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="31" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><ellipse cx="766" cy="495" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 766.15 502.5 L 766.15 527.5 M 766.15 507.5 L 751.15 507.5 M 766.15 507.5 L 781.15 507.5 M 766.15 527.5 L 751.15 547.5 M 766.15 527.5 L 781.15 547.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(749.5,555.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">MO1</div>
           </div>
         </foreignObject>
-        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">MO1</text>
+        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">MO1</text>
       </switch>
     </g><ellipse cx="661" cy="495" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 661.06 502.5 L 661.06 527.5 M 661.06 507.5 L 646.06 507.5 M 661.06 507.5 L 676.06 507.5 M 661.06 527.5 L 646.06 547.5 M 661.06 527.5 L 676.06 547.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(614.5,555.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Jasmine Loo</div>
           </div>
         </foreignObject>
-        <text x="46" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Jasmine Loo</text>
+        <text x="46" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Jasmine Loo</text>
       </switch>
     </g><ellipse cx="406" cy="1198" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 406 1205 L 406 1230 M 406 1210 L 391 1210 M 406 1210 L 421 1210 M 406 1230 L 391 1250 M 406 1230 L 421 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(369.5,1257.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="72" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Larry Low</div>
           </div>
         </foreignObject>
-        <text x="36" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Larry Low</text>
+        <text x="36" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Larry Low</text>
       </switch>
     </g><ellipse cx="671" cy="1198" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 671 1205 L 671 1230 M 671 1210 L 656 1210 M 671 1210 L 686 1210 M 671 1230 L 656 1250 M 671 1230 L 686 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(629.5,1257.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="82" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Evelyn Goh</div>
           </div>
         </foreignObject>
-        <text x="41" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Evelyn Goh</text>
+        <text x="41" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Evelyn Goh</text>
       </switch>
     </g><path d="M 481 115 L 461 115 L 461 208 L 474.63 208" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 479.88 208 L 472.88 211.5 L 474.63 208 L 472.88 204.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(404.5,145.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$576,943,490</b><br style="font-size: 15px"/>22/5/2012<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 511 253 L 511 281 L 391 281 L 391 303.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 391 308.88 L 387.5 301.88 L 391 303.63 L 394.5 301.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(393.5,264.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$</b>
@@ -287,25 +295,25 @@
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 571 253 L 571 281 L 681 281 L 681 303.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 681 308.88 L 677.5 301.88 L 681 303.63 L 684.5 301.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(570.5,264.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$291,000,000</b><br style="font-size: 15px"/>
               <span style="font-size: 15px">23/10/2012</span><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 391 370 L 391 410 L 474.63 410" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 479.88 410 L 472.88 413.5 L 474.63 410 L 472.88 406.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(359.5,393.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$170,000,000</b><br style="font-size: 15px"/>
@@ -313,13 +321,13 @@
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 681 370 L 681 410 L 607.37 410" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 602.12 410 L 609.12 406.5 L 607.37 410 L 609.12 413.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(624.5,378.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$285,000,000</b><br style="font-size: 15px"/>
@@ -327,84 +335,84 @@
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 481 425 L 91 425 L 91 576.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 91 581.88 L 87.5 574.88 L 91 576.63 L 94.5 574.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(84.5,408.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$472,750,000</b><br style="font-size: 15px"/>29/5-30/11/2012<br style="font-size: 15px"/></span>
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 511 455 L 511 519 L 341 519 L 341 576.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 341 581.88 L 337.5 574.88 L 341 576.63 L 344.5 574.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(352.5,502.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="147" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$11,600,000</b><br style="font-size: 15px"/>18/12/2012-22/1/2013<br style="font-size: 15px"/></span>
             </div>
           </div>
         </foreignObject>
-        <text x="74" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="74" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 601 425 L 766 425 L 766 481.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 766 486.88 L 762.5 479.88 L 766 481.63 L 769.5 479.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(707.5,419.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$30 million</b><br style="font-size: 15px"/>30/10-19/11/2012<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="59" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="59" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 601 440 L 661 440 L 661 481.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 661 486.88 L 657.5 479.88 L 661 481.63 L 664.5 479.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(613.5,438.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="94" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$ 5 million</b><br style="font-size: 15px"/>6/12/2012</div>
           </div>
         </foreignObject>
-        <text x="47" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="47" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 601 223 L 911 223 L 911 696.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 911 701.88 L 907.5 694.88 L 911 696.63 L 914.5 694.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(856.5,291.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="108" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$238 million</b><br style="font-size: 15px"/>18/6-14/11/2012</div>
           </div>
         </foreignObject>
-        <text x="54" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="54" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 851 763 L 851 801 L 771 801 L 771 833.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 771 838.88 L 767.5 831.88 L 771 833.63 L 774.5 831.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(739.5,784.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="108" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$64 million</b><br style="font-size: 15px"/>
               <span style="font-size: 15px">20/6-20/11/2012</span><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="54" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="54" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="971" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(973.5,1181.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="134" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 16px">Hillcrest Property 1<br style="font-size: 16px"/>
                 <b style="font-size: 16px">US$17.5 million</b><br style="font-size: 16px"/></span>
@@ -413,13 +421,13 @@
             </div>
           </div>
         </foreignObject>
-        <text x="67" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="67" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="971" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(972.5,982.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 16px">Park Laurel Condominium<br style="font-size: 16px"/></span>
               <span style="font-size: 16px">
@@ -429,7 +437,7 @@
             </div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="241" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(252.5,888.5)">
@@ -437,40 +445,40 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Good Star</div>
           </div>
         </foreignObject>
-        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Good Star</text>
+        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Good Star</text>
       </switch>
     </g><path d="M 241 900 L 61 900 L 61 649.37" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 61 644.12 L 64.5 651.12 L 61 649.37 L 57.5 651.12 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(41.5,883.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">
                 <b style="font-size: 15px">US$20.75 million<br style="font-size: 15px"/></b>20/2/2013</font><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 481 440 L 221 440 L 221 481.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 221 486.88 L 217.5 479.88 L 221 481.63 L 224.5 479.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(276.5,423.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="101" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$55 million</b><br style="font-size: 15px"/>29/5-3/12/2012<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="51" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="51" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="971" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(972.5,1077.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 16px">Qentas Townhouse<br style="font-size: 16px"/></span>
               <span style="font-size: 16px">
@@ -478,13 +486,13 @@
               <span style="font-size: 16px">12/7/2012</span><br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="121" y="692.5" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(122.5,698.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">
                 <font style="font-size: 15px">Metropolis movie poster<br style="font-size: 15px"/></font>
@@ -493,13 +501,13 @@
               <span style="font-size: 15px">29/10/2012</span><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="42" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="42" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="581" y="790" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(582.5,792.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <font style="font-size: 16px">
                 <span style="font-size: 16px">
@@ -510,31 +518,31 @@
                 </b><br style="font-size: 16px"/>11/6/2013-11/3/2014</font><br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 541 455 L 541 579 L 391 579 L 391 696.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 391 701.88 L 387.5 694.88 L 391 696.63 L 394.5 694.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(412.5,562.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">
                 <b style="font-size: 15px">US$321.3 million</b><br style="font-size: 15px"/>29/10-24/12/2012</font><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 361 763 L 361 816 L 301 816 L 301 863.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 301 868.88 L 297.5 861.88 L 301 863.63 L 304.5 861.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(245.5,799.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">
                 <b style="font-size: 15px">US$272.5 million</b><br style="font-size: 15px"/>1/11-27/12/2012</font><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="241" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(260.5,1048.5)">
@@ -542,30 +550,30 @@
         <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">ADKMIC</span><br style="font-size: 20px"/></div>
           </div>
         </foreignObject>
-        <text x="40" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="40" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><rect x="601" y="979.8" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(610.5,990.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="121" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 122px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 122px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 17px">Electrum Group<br style="font-size: 17px"/></span>
               <b style="font-size: 17px">US$150 million</b><br style="font-size: 17px"/>31/12/2012<br style="font-size: 17px"/></div>
           </div>
         </foreignObject>
-        <text x="61" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="61" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="791" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(792.5,1172.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <font style="font-size: 16px">
                 <span style="font-size: 16px">Dumb and Dumber To<br style="font-size: 16px"/></span>
@@ -574,60 +582,60 @@
                   <b style="font-size: 16px">23,939,600</b><br style="font-size: 16px"/></span>26/7-19/12/2013</font><br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="791" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(794.5,1085.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="133" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 133px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 133px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 17px">Daddy's Home<br style="font-size: 17px"/></span>
               <b style="font-size: 17px">US$3,650,614.87</b><br style="font-size: 17px"/>22/12/2014<br style="font-size: 17px"/></div>
           </div>
         </foreignObject>
-        <text x="67" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="67" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="614.29" y="600" width="186.67" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(615.5,602.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="183" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 183px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 183px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 16px">One Madison Park Condominium<br style="font-size: 16px"/></span>
               <b style="font-size: 16px">US$4,531,212</b><br style="font-size: 16px"/>24/6/2014<br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="92" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="92" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 661 518 L 661 593.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 661 598.88 L 657.5 591.88 L 661 593.63 L 664.5 591.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 506 1060 L 561 1060 L 561 1105 L 594.63 1105" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 599.88 1105 L 592.88 1108.5 L 594.63 1105 L 592.88 1101.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><rect x="601" y="1065" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(602.5,1070.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <font style="font-size: 15px">
                 <span style="font-size: 15px">Matching Diamond Ring &amp; Earrings<br style="font-size: 15px"/></span>
                 <b style="font-size: 15px">US$2,842,475</b><br style="font-size: 15px"/>5/12/2012</font><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="42" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="42" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><ellipse cx="91" cy="300" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 91.2 307.5 L 91.2 332.5 M 91.2 312.5 L 76.2 312.5 M 91.2 312.5 L 106.2 312.5 M 91.2 332.5 L 76.2 352.5 M 91.2 332.5 L 106.2 352.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(61.5,360.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="59" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Khadem</div>
           </div>
         </foreignObject>
-        <text x="30" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Khadem</text>
+        <text x="30" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Khadem</text>
       </switch>
     </g><ellipse cx="206" cy="200" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 206 207.5 L 206 232.5 M 206 212.5 L 191 212.5 M 206 212.5 L 221 212.5 M 206 232.5 L 191 252.5 M 206 232.5 L 221 252.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(168.5,260.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="74" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <span id="docs-internal-guid-d023c24e-0191-befa-fa9b-e6a085e6edec" style="font-size: 15px">
                 <span style="font-size: 15px">Mohamed
@@ -635,182 +643,182 @@
               </span><br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="37" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="37" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><ellipse cx="861" cy="495" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 861 502.5 L 861 527.5 M 861 507.5 L 846 507.5 M 861 507.5 L 876 507.5 M 861 527.5 L 846 547.5 M 861 527.5 L 876 547.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(828.5,555.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="65" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Riza Aziz</div>
           </div>
         </foreignObject>
-        <text x="33" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Riza Aziz</text>
+        <text x="33" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Riza Aziz</text>
       </switch>
     </g><path d="M 481 100 L 377.37 100" fill="none" stroke="#d79b00" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 372.12 100 L 379.12 96.5 L 377.37 100 L 379.12 103.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 251 100 L 154 100" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="151" cy="100" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(165.5,91.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="70" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Subsidiary<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="35" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="35" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 214 199 L 341 199 L 341 133" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="341" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(295.5,190.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">CEO</font>
             </div>
           </div>
         </foreignObject>
-        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 84 299 L 71 299 L 71 170 L 281 170 L 281 133" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="281" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(83.5,161.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="82" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">Chairperson</font>
             </div>
           </div>
         </foreignObject>
-        <text x="41" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="41" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 91 323 L 61 323 L 61 133" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="61" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(-0.5,232.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="122" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">Managing Director</font>
             </div>
           </div>
         </foreignObject>
-        <text x="61" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="61" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 191 253 L 191 485" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="191" cy="488" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(171.5,362.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">Owns</font>
             </div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 221 253 L 221 380 L 281 380 L 281 580" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="281" cy="583" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(261.5,379.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 15px">Owns</font>
             </div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 911 763 L 911 801 L 951 801 L 951 833.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 951 838.88 L 947.5 831.88 L 951 833.63 L 954.5 831.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(876.5,784.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$94.3 million</b><br style="font-size: 15px"/>20/6-15/11/2012<br style="font-size: 15px"/></span>
             </div>
           </div>
         </foreignObject>
-        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 506 1060 L 561 1060 L 561 1020 L 594.63 1020" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 599.88 1020 L 592.88 1023.5 L 594.63 1020 L 592.88 1016.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 301 930 L 301 1023.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 301 1028.88 L 297.5 1021.88 L 301 1023.63 L 304.5 1021.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(254.5,965.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="28" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 13px">
                 <b>US$153 million</b><br/>2/11/2012</font><br/></div>
           </div>
         </foreignObject>
-        <text x="47" y="20" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="47" y="20" fill="#000000" text-anchor="middle" font-size="11px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 301 1090 L 301 1220 L 399.63 1220" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 404.88 1220 L 397.88 1223.5 L 399.63 1220 L 397.88 1216.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(247.5,1173.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 15px">US$150 million</b><br style="font-size: 15px"/>5/11/2012<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 406 1220 L 506 1220 L 506 1066.37" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 506 1061.12 L 509.5 1068.12 L 506 1066.37 L 502.5 1068.12 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(452.5,1173.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 15px">US$150 million</b><br style="font-size: 15px"/>7/11/2012<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 91 323 L 61 323 L 61 580" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="61" cy="583" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(43.5,431.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="34" height="13" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <font style="font-size: 13px">Owns</font>
             </div>
           </div>
         </foreignObject>
-        <text x="17" y="12" fill="#000000" text-anchor="middle" font-size="11px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="17" y="12" fill="#000000" text-anchor="middle" font-size="11px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 671 1145 L 671 1183.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 671 1188.88 L 667.5 1181.88 L 671 1183.63 L 674.5 1181.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="571" cy="608" rx="7.5" ry="7.5" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/><path d="M 571 615 L 571 640 M 571 620 L 556 620 M 571 620 L 586 620 M 571 640 L 556 660 M 571 640 L 586 660" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(535.5,667.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="71" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Eric Tan<br/>(Jho Low)<br/></div>
           </div>
         </foreignObject>
-        <text x="36" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="36" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 571 600 L 571 461.37" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 571 456.12 L 574.5 463.12 L 571 461.37 L 567.5 463.12 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(551.5,518.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Owns</div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
       </switch>
     </g><path d="M 571 630 L 421 630 L 421 696.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 421 701.88 L 417.5 694.88 L 421 696.63 L 424.5 694.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(432.5,621.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Director</div>
           </div>
         </foreignObject>
-        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Director</text>
+        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Director</text>
       </switch>
     </g><path d="M 601 115 L 621 115 L 621 208 L 607.37 208" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 602.12 208 L 609.12 204.5 L 607.37 208 L 609.12 211.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(564.5,145.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$790,354,855</b><br style="font-size: 15px"/>
@@ -818,36 +826,36 @@
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="31" y="0" width="310" height="45" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(69.5,6.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="232" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 29px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 29px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar-BVI phase<br style="font-size: 29px"/></div>
           </div>
         </foreignObject>
-        <text x="116" y="31" fill="#000000" text-anchor="middle" font-size="29px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="116" y="31" fill="#000000" text-anchor="middle" font-size="29px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 541 253 L 541 388.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 541 393.88 L 537.5 386.88 L 541 388.63 L 544.5 386.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(484.5,307.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <span style="font-size: 15px">
                 <b style="font-size: 15px">US$637,000,000<br style="font-size: 15px"/></b>25/5-14/12/2012<br style="font-size: 15px"/></span>
             </div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="791" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(792.5,980.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="78" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 17px">The Wolf of Wall Street<br style="font-size: 17px"/>
                 <b style="font-size: 17px">US$</b>
@@ -859,116 +867,116 @@
             </div>
           </div>
         </foreignObject>
-        <text x="68" y="48" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="48" fill="#000000" text-anchor="middle" font-size="17px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 511 930 L 511 980 L 506 980 L 506 1023.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 506 1028.88 L 502.5 1021.88 L 506 1023.63 L 509.5 1021.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(458.5,963.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 15px">US$11 million</b><br style="font-size: 15px"/>10/7/2012</div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 331 733 L 267.37 733" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 262.12 733 L 269.12 729.5 L 267.37 733 L 269.12 736.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 421 763 L 421 816 L 481 816 L 481 863.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 481 868.88 L 477.5 861.88 L 481 863.63 L 484.5 861.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(402.5,799.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 15px">US$11 million</b><br style="font-size: 15px"/>
               <span style="font-size: 15px">10/7/2012</span>
             </div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 361 1060 L 499.63 1060" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 504.88 1060 L 497.88 1063.5 L 499.63 1060 L 497.88 1056.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(378.5,1045.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="28" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 13px">US$142.25 million<br style="font-size: 13px"/></b>28/12/2012</div>
           </div>
         </foreignObject>
-        <text x="55" y="21" fill="#000000" text-anchor="middle" font-size="13px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="55" y="21" fill="#000000" text-anchor="middle" font-size="13px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 821 733 L 457.37 733" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 452.12 733 L 459.12 729.5 L 457.37 733 L 459.12 736.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(500.5,716.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
               <b style="font-size: 15px">US$41 million</b><br style="font-size: 15px"/>21/6-5/11/2012</div>
           </div>
         </foreignObject>
-        <text x="50" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="50" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 861 518 L 861 625 L 851 625 L 851 696.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 851 701.88 L 847.5 694.88 L 851 696.63 L 854.5 694.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(841.5,616.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Owns<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 766 516 L 861 516 M 861 520 L 766 520 M 861 520" fill="none" stroke="#d79b00" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/><path d="M 821 748 L 651 748 L 651 783.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 651 788.88 L 647.5 781.88 L 651 783.63 L 654.5 781.88 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 771 900 L 771 1115 L 784.63 1115" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 789.88 1115 L 782.88 1118.5 L 784.63 1115 L 782.88 1111.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 771 900 L 771 1210 L 784.63 1210" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 789.88 1210 L 782.88 1213.5 L 784.63 1210 L 782.88 1206.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 771 900 L 771 1020 L 784.63 1020" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 789.88 1020 L 782.88 1023.5 L 784.63 1020 L 782.88 1016.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 951 900 L 951 1115 L 964.63 1115" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 969.88 1115 L 962.88 1118.5 L 964.63 1115 L 962.88 1111.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 951 900 L 951 1210 L 964.63 1210" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 969.88 1210 L 962.88 1213.5 L 964.63 1210 L 962.88 1206.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 951 900 L 951 1020 L 964.63 1020" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 969.88 1020 L 962.88 1023.5 L 964.63 1020 L 962.88 1016.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 571 70 L 571 70" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 571 70 L 571 70 L 571 70 L 571 70 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 206 223 L 474.63 223" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 479.88 223 L 472.88 226.5 L 474.63 223 L 472.88 219.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(317.5,214.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Director</div>
           </div>
         </foreignObject>
-        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Director</text>
+        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Director</text>
       </switch>
     </g><path d="M 99 299 L 321 299 L 321 238 L 474.63 238" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 479.88 238 L 472.88 241.5 L 474.63 238 L 472.88 234.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
     <g transform="translate(294.5,290.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Director</div>
           </div>
         </foreignObject>
-        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Director</text>
+        <text x="27" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Director</text>
       </switch>
     </g><rect x="46" y="1050" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(47.5,1052.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Laurel Beverly Hills Mansion<br style="font-size: 16px"/>
               <b style="font-size: 16px">US$31 million</b><br style="font-size: 16px"/>5/2/2014<br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="46" y="1140" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(48.5,1151.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="134" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Hillcrest Property 2<br style="font-size: 16px"/>
               <b style="font-size: 16px">US$15 million</b><br style="font-size: 16px"/>24/3/2014<br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="67" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="67" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><rect x="46" y="960" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
     <g transform="translate(47.5,962.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="136" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 136px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Walker Tower Penthouse<br style="font-size: 16px"/>
               <b style="font-size: 16px">US$50,912,500</b><br style="font-size: 16px"/>21/1/2014<br style="font-size: 16px"/></div>
           </div>
         </foreignObject>
-        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="68" y="46" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g><path d="M 31 613 L 11 613 L 11 1000 L 39.63 1000" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 44.88 1000 L 37.88 1003.5 L 39.63 1000 L 37.88 996.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 31 613 L 11 613 L 11 1090 L 39.63 1090" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 44.88 1090 L 37.88 1093.5 L 39.63 1090 L 37.88 1086.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 31 613 L 11 613 L 11 1180 L 39.63 1180" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/><path d="M 44.88 1180 L 37.88 1183.5 L 39.63 1180 L 37.88 1176.5 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/></g>
 </svg>

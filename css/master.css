@@ -9,8 +9,20 @@
   font-weight: bold;
 }
 
+.para-padding-top {
+  padding-top: 5em;
+}
+
+.para-margin-bottom {
+  margin-bottom: 20em;
+}
+
+.phase-margin-bottom {
+  margin-bottom: 20em;
+}
+
 p {
-  font-family: "Helvetica";
+  font-family: "Arial";
   font-size: 18px;
   line-height: 1.5;
 }
@@ -23,7 +35,7 @@ footer {
 }
 
 footer p {
-  font-family: "Helvetica";
+  font-family: "Arial";
   font-style: italic;
   font-size: 16px;
   padding: 5px;

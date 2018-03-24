@@ -1,16 +1,16 @@
 $(document).ready(function() {
 
   new Waypoint({
-    element: document.getElementById('goodstar-1'),
+    element: document.getElementById('aabarbvi-1'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar1");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi1");
       if (direction == 'down') {
-        console.log('goodstar1 down');
+        console.log('aabarbvi1 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar1 up');
+        console.log('aabarbvi1 up');
         $(svgItem).fadeOut('slow');
       }
     }
@@ -18,144 +18,144 @@ $(document).ready(function() {
 
 
   new Waypoint({
-    element: document.getElementById('goodstar-2'),
+    element: document.getElementById('aabarbvi-2'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar2");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi2");
       if (direction == 'down') {
-        console.log('goodstar2 down');
+        console.log('aabarbvi2 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar2 up');
+        console.log('aabarbvi2 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-3'),
+    element: document.getElementById('aabarbvi-3'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar3");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi3");
       if (direction == 'down') {
-        console.log('goodstar3 down');
+        console.log('aabarbvi3 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar3 up');
+        console.log('aabarbvi3 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-4'),
+    element: document.getElementById('aabarbvi-4'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar4");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi4");
       if (direction == 'down') {
-        console.log('goodstar4 down');
+        console.log('aabarbvi4 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar4 up');
+        console.log('aabarbvi4 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-5'),
+    element: document.getElementById('aabarbvi-5'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar5");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi5");
       if (direction == 'down') {
-        console.log('goodstar5 down');
+        console.log('aabarbvi5 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar5 up');
+        console.log('aabarbvi5 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-6'),
+    element: document.getElementById('aabarbvi-6'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar6");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi6");
       if (direction == 'down') {
-        console.log('goodstar6 down');
+        console.log('aabarbvi6 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar6 up');
+        console.log('aabarbvi6 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-7'),
+    element: document.getElementById('aabarbvi-7'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar7");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi7");
       if (direction == 'down') {
-        console.log('goodstar7 down');
+        console.log('aabarbvi7 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar7 up');
+        console.log('aabarbvi7 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-8'),
+    element: document.getElementById('aabarbvi-8'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar8");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi8");
       if (direction == 'down') {
-        console.log('goodstar8 down');
+        console.log('aabarbvi8 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar8 up');
+        console.log('aabarbvi8 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-9'),
+    element: document.getElementById('aabarbvi-9'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar9");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi9");
       if (direction == 'down') {
-        console.log('goodstar9 down');
+        console.log('aabarbvi9 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar9 up');
+        console.log('aabarbvi9 up');
         $(svgItem).fadeOut('slow');
       }
     }
   }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
 
   new Waypoint({
-    element: document.getElementById('goodstar-10'),
+    element: document.getElementById('aabarbvi-10'),
     handler: function(direction) {
-      var a = document.getElementById('goodstar-svg');
+      var a = document.getElementById('aabarbvi-svg');
       var svgDoc = a.contentDocument;
-      var svgItem = svgDoc.getElementsByClassName("goodstar10");
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi10");
       if (direction == 'down') {
-        console.log('goodstar10 down');
+        console.log('aabarbvi10 down');
         $(svgItem).fadeIn('slow');
       } else {
-        console.log('goodstar10 up');
+        console.log('aabarbvi10 up');
         $(svgItem).fadeOut('slow');
       }
     }
