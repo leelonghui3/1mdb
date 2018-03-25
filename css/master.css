@@ -9,8 +9,12 @@
   font-weight: bold;
 }
 
+.firstpara-padding-top {
+  padding-top: 2.5em;
+}
+
 .para-padding-top {
-  padding-top: 5em;
+  padding-top: 10em;
 }
 
 .para-margin-bottom {

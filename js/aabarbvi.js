@@ -14,7 +14,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
 
   new Waypoint({
@@ -31,7 +33,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-3'),
@@ -47,7 +51,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-4'),
@@ -63,7 +69,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-5'),
@@ -79,7 +87,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-6'),
@@ -95,7 +105,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-7'),
@@ -111,7 +123,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-8'),
@@ -127,7 +141,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-9'),
@@ -143,7 +159,9 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 
   new Waypoint({
     element: document.getElementById('aabarbvi-10'),
@@ -159,5 +177,79 @@ $(document).ready(function() {
         $(svgItem).fadeOut('slow');
       }
     }
-  }, {offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100});
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
+
+  new Waypoint({
+    element: document.getElementById('aabarbvi-11'),
+    handler: function(direction) {
+      var a = document.getElementById('aabarbvi-svg');
+      var svgDoc = a.contentDocument;
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi11");
+      if (direction == 'down') {
+        console.log('aabarbvi11 down');
+        $(svgItem).fadeIn('slow');
+      } else {
+        console.log('aabarbvi11 up');
+        $(svgItem).fadeOut('slow');
+      }
+    }
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
+
+  new Waypoint({
+    element: document.getElementById('aabarbvi-12'),
+    handler: function(direction) {
+      var a = document.getElementById('aabarbvi-svg');
+      var svgDoc = a.contentDocument;
+      var svgItem = svgDoc.getElementsByClassName("aabarbvi12");
+      if (direction == 'down') {
+        console.log('aabarbvi12 down');
+        $(svgItem).fadeIn('slow');
+      } else {
+        console.log('aabarbvi12 up');
+        $(svgItem).fadeOut('slow');
+      }
+    }
+  }, {
+    offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
+
+  new Waypoint({
+  element: document.getElementById('aabarbvi-13'),
+  handler: function(direction) {
+    var a = document.getElementById('aabarbvi-svg');
+    var svgDoc = a.contentDocument;
+    var svgItem = svgDoc.getElementsByClassName("aabarbvi13");
+    if (direction == 'down') {
+      console.log('aabarbvi13 down');
+      $(svgItem).fadeIn('slow');
+    } else {
+      console.log('aabarbvi13 up');
+      $(svgItem).fadeOut('slow');
+    }
+  }
+  }, {
+  offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
+
+  new Waypoint({
+  element: document.getElementById('aabarbvi-14'),
+  handler: function(direction) {
+    var a = document.getElementById('aabarbvi-svg');
+    var svgDoc = a.contentDocument;
+    var svgItem = svgDoc.getElementsByClassName("aabarbvi14");
+    if (direction == 'down') {
+      console.log('aabarbvi14 down');
+      $(svgItem).fadeIn('slow');
+    } else {
+      console.log('aabarbvi14 up');
+      $(svgItem).fadeOut('slow');
+    }
+  }
+  }, {
+  offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
+  });
 });
