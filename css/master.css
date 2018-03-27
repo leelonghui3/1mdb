@@ -10,7 +10,7 @@
 }
 
 .firstpara-padding-top {
-  padding-top: 2.5em;
+  padding-top: 4em;
 }
 
 .para-padding-top {
@@ -25,7 +25,7 @@
   margin-bottom: 20em;
 }
 
-p {
+p, li {
   font-family: "Arial";
   font-size: 18px;
   line-height: 1.5;

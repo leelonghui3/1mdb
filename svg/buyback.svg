@@ -11,298 +11,392 @@
   <defs>
     <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-d5e8d4-1-ffffff-1-s-0"><stop offset="0%" style="stop-color:#d5e8d4"/><stop offset="100%" style="stop-color:#ffffff"/></linearGradient>
   </defs>
-  <g transform="translate(0.5,0.5)"><rect x="20" y="12" width="310" height="40" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(24.5,-1.5)">
+  <g transform="translate(0.5,0.5)">
+
+    <!-- Title -->
+    <rect class="buyback1" style="display:none" x="20" y="12" width="310" height="40" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(24.5,-1.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="298" height="64" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 26px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 299px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 26px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 299px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <h1 style="font-size: 26px">Options Buyback Phase</h1>
             </div>
           </div>
         </foreignObject>
-        <text x="149" y="45" fill="#000000" text-anchor="middle" font-size="26px" font-family="Helvetica">&lt;h1 style="font-size: 26px"&gt;Options Buyback Phase&lt;/h1&gt;</text>
+        <text x="149" y="45" fill="#000000" text-anchor="middle" font-size="26px" font-family="Arial">&lt;h1 style="font-size: 26px"&gt;Options Buyback Phase&lt;/h1&gt;</text>
       </switch>
-    </g><rect x="490" y="202" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    </g>
+
+    <!-- 1MDB -->
+    <rect x="490" y="202" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
     <g transform="translate(520.5,219.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">1MDB</div>
           </div>
         </foreignObject>
-        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">1MDB</text>
+        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">1MDB</text>
       </switch>
-    </g><rect x="490" y="52" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(490.5,57.5)">
+    </g>
+
+    <!-- Deutsche Back -->
+    <rect class="buyback1" style="display:none" x="490" y="52" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(490.5,57.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Deutsche Bank</div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Deutsche Bank</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Deutsche Bank</text>
       </switch>
-    </g><path d="M 550.47 112.35 L 550.47 195.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 200.65 L 546.97 193.65 L 550.47 195.4 L 553.97 193.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(496.5,140.5)">
+    </g>
+
+    <!-- US$250 million 26/5/2014 -->
+    <path class="buyback1" style="display:none" d="M 550.47 112.35 L 550.47 195.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback1" style="display:none" d="M 550.47 200.65 L 546.97 193.65 L 550.47 195.4 L 553.97 193.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(496.5,140.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$250 million</b><br style="font-size: 15px"/>26/5/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 610.47 97.06 L 630.47 97.06 L 630.47 481.76 L 550.47 481.76 L 550.47 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 531.23 L 546.97 524.23 L 550.47 525.98 L 553.97 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(512.5,464.5)">
+    </g>
+
+    <!-- US$233,333,000 5/9/2014 -->
+    <path class="buyback1" style="display:none" d="M 610.47 97.06 L 630.47 97.06 L 630.47 481.76 L 550.47 481.76 L 550.47 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback1" style="display:none" d="M 550.47 531.23 L 546.97 524.23 L 550.47 525.98 L 553.97 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(512.5,464.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$223,333,000</b><br style="font-size: 15px"/>5/9/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(490.5,537.5)">
+    </g>
+
+    <!-- Aabar Seychelles -->
+    <rect class="buyback1" style="display:none" x="490" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(490.5,537.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Aabar-Seychelles</span>
             </div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="367" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(500.5,384.5)">
+    </g>
+
+    <!-- Aabar-BVI -->
+    <rect class="buyback1" style="display:none" x="490" y="367" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(500.5,384.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="96" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar BVI</div>
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar-BVI</div>
           </div>
         </foreignObject>
-        <text x="48" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Aabar BVI</text>
+        <text x="48" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Aabar-BVI</text>
       </switch>
-    </g><path d="M 550.47 261.76 L 550.47 360.1" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 365.35 L 546.97 358.35 L 550.47 360.1 L 553.97 358.35 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(496.5,274.5)">
+    </g>
+
+    <!-- US$175 million 28/5/2014 -->
+    <path class="buyback1" style="display:none" d="M 550.47 261.76 L 550.47 360.1" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback1" style="display:none" d="M 550.47 365.35 L 546.97 358.35 L 550.47 360.1 L 553.97 358.35 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(496.5,274.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$175 million</b><br style="font-size: 15px"/>28/5/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="240" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(240.5,537.5)">
+    </g>
+
+    <!-- Affinity Equity -->
+    <rect class="buyback2" style="display:none" x="240" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(240.5,537.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Affinity Equity
             </div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Affinity Equity
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Affinity Equity
         </text>
       </switch>
-    </g><rect x="240" y="902" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(240.5,907.5)">
+    </g>
+
+    <!-- Alpha Synergy -->
+    <rect class="buyback6" style="display:none" x="240" y="902" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback6" style="display:none" transform="translate(240.5,907.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Alpha Synergy
               </span><br style="font-size: 20px"/></div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="0" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(10.5,549.5)">
+    </g>
+
+    <!-- Blackrock -->
+    <rect class="buyback2" style="display:none" x="0" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(10.5,549.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="96" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Blackrock</div>
           </div>
         </foreignObject>
-        <text x="48" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Blackrock</text>
+        <text x="48" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Blackrock</text>
       </switch>
-    </g><path d="M 299.88 961.76 L 299.88 1358.24 L 535.87 1358.24" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 541.12 1358.24 L 534.12 1361.74 L 535.87 1358.24 L 534.12 1354.74 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(246.5,1264.5)">
+    </g>
+
+    <!-- US$142 million 3/6/2014 -->
+    <path class="buyback6" style="display:none" d="M 299.88 961.76 L 299.88 1358.24 L 535.87 1358.24" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback6" style="display:none" d="M 541.12 1358.24 L 534.12 1361.74 L 535.87 1358.24 L 534.12 1354.74 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback6" style="display:none" transform="translate(246.5,1264.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$142 million</b><br style="font-size: 15px"/>3/6/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><ellipse cx="550" cy="1360" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 550 1367 L 550 1392 M 550 1372 L 535 1372 M 550 1372 L 565 1372 M 550 1392 L 535 1412 M 550 1392 L 565 1412" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(520.5,1418.5)">
+    </g>
+
+    <!-- Jho Low -->
+    <ellipse class="buyback4" style="display:none" cx="550" cy="1360" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 550 1367 L 550 1392 M 550 1372 L 535 1372 M 550 1372 L 565 1372 M 550 1392 L 535 1412 M 550 1392 L 565 1412" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(520.5,1418.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="56" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Jho Low</div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Jho Low</div>
           </div>
         </foreignObject>
-        <text x="28" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Jho Low</text>
+        <text x="28" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Jho Low</text>
       </switch>
-    </g><ellipse cx="420" cy="650" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 420 657 L 420 682 M 420 662 L 405 662 M 420 662 L 435 662 M 420 682 L 405 702 M 420 682 L 435 702" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(383.5,708.5)">
+    </g>
+
+    <!-- Eric Tan -->
+    <ellipse class="buyback5" style="display:none" cx="420" cy="650" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback5" style="display:none" d="M 420 657 L 420 682 M 420 662 L 405 662 M 420 662 L 435 662 M 420 682 L 405 702 M 420 682 L 435 702" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback5" style="display:none" transform="translate(383.5,708.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="71" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Eric Tan<br/>(Jho Low)<br/></div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Eric Tan<br/>(Jho Low)<br/></div>
           </div>
         </foreignObject>
-        <text x="36" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="36" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><ellipse cx="60" cy="374" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 60 381.8 L 60 406.8 M 60 386.8 L 45 386.8 M 60 386.8 L 75 386.8 M 60 406.8 L 45 426.8 M 60 406.8 L 75 426.8" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(42.5,433.5)">
+    </g>
+
+    <!-- MO1 -->
+    <ellipse class="buyback2" style="display:none" cx="60" cy="374" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 60 381.8 L 60 406.8 M 60 386.8 L 45 386.8 M 60 386.8 L 75 386.8 M 60 406.8 L 45 426.8 M 60 406.8 L 75 426.8" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(42.5,433.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">MO1</div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">MO1</div>
           </div>
         </foreignObject>
-        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">MO1</text>
+        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">MO1</text>
       </switch>
-    </g><path d="M 59.88 532.35 L 59.88 403.43" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 59.88 398.18 L 63.38 405.18 L 59.88 403.43 L 56.38 405.18 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(11.5,475.5)">
+    </g>
+
+    <path class="buyback2" style="display:none" d="M 59.88 532.35 L 59.88 403.43" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 59.88 398.18 L 63.38 405.18 L 59.88 403.43 L 56.38 405.18 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(11.5,475.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="96" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$1,277,250</b><br style="font-size: 15px"/>18/6/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="48" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="48" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 550.47 1381.76 L 550.47 1452.35 L 375.18 1452.35 L 375.18 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 375.18 1480.65 L 371.68 1473.65 L 375.18 1475.4 L 378.68 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="60" cy="750" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 60 757 L 60 782 M 60 762 L 45 762 M 60 762 L 75 762 M 60 782 L 45 802 M 60 782 L 75 802" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(12.5,808.5)">
+    </g>
+
+    <!-- Path from Jho Low to The Equanimity -->
+    <path class="buyback7" style="display:none" d="M 550.47 1381.76 L 550.47 1452.35 L 375.18 1452.35 L 375.18 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 375.18 1480.65 L 371.68 1473.65 L 375.18 1475.4 L 378.68 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Jasmine loo -->
+    <ellipse class="buyback2" style="display:none" cx="60" cy="750" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 60 757 L 60 782 M 60 762 L 45 762 M 60 762 L 75 762 M 60 782 L 45 802 M 60 782 L 75 802" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(12.5,808.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Jasmine Loo</div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Jasmine Loo</div>
           </div>
         </foreignObject>
-        <text x="46" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Jasmine Loo</text>
+        <text x="46" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Jasmine Loo</text>
       </switch>
-    </g><ellipse cx="765" cy="450" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 765 457 L 765 482 M 765 462 L 750 462 M 765 462 L 780 462 M 765 482 L 750 502 M 765 482 L 780 502" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(728.5,508.5)">
+    </g>
+
+    <!-- Mohamed -->
+    <ellipse class="buyback1" style="display:none" cx="765" cy="450" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback1" style="display:none" d="M 765 457 L 765 482 M 765 462 L 750 462 M 765 462 L 780 462 M 765 482 L 750 502 M 765 482 L 780 502" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(728.5,508.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="70" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Mohamed<br style="font-size: 15px"/></div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mohamed<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="35" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="35" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 610.47 66.47 L 650.47 66.47 L 650.47 512.35 L 579.88 512.35 L 579.88 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 531.23 L 576.38 524.23 L 579.88 525.98 L 583.38 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(593.5,317.5)">
+    </g>
+
+    <!-- US$457,984,607 30/9/2014 -->
+    <path class="buyback1" style="display:none" d="M 610.47 66.47 L 650.47 66.47 L 650.47 512.35 L 579.88 512.35 L 579.88 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback1" style="display:none" d="M 579.88 531.23 L 576.38 524.23 L 579.88 525.98 L 583.38 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(593.5,317.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$457,984,607</b><br style="font-size: 15px"/>30/9/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="315" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(317.5,1485.5)">
+    </g>
+
+    <!-- The Equanimity -->
+    <rect class="buyback7" style="display:none" x="315" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback7" style="display:none" transform="translate(317.5,1485.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">The Equanimity<br style="font-size: 15px"/>
               <b style="font-size: 15px">US$140,636,225<br style="font-size: 15px"/></b>3/6/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="57" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="57" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="742" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(488.5,747.5)">
+    </g>
+
+    <!-- Aabar International -->
+    <rect class="buyback3" style="display:none" x="490" y="742" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(488.5,747.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="121" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 121px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 121px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Aabar International</div>
           </div>
         </foreignObject>
-        <text x="61" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Aabar International</text>
+        <text x="61" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Aabar International</text>
       </switch>
-    </g><rect x="780" y="742" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(817.5,759.5)">
+    </g>
+
+    <!-- SRC -->
+    <rect class="buyback3" style="display:none" x="780" y="742" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(817.5,759.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="42" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 43px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 43px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">SRC</div>
           </div>
         </foreignObject>
-        <text x="21" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">SRC</text>
+        <text x="21" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">SRC</text>
       </switch>
-    </g><path d="M 610.47 772.35 L 773.51 772.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 778.76 772.35 L 771.76 775.85 L 773.51 772.35 L 771.76 768.85 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(642.5,755.5)">
+    </g>
+
+    <!-- US$71,723,000 2-6/10/2014 -->
+    <path class="buyback3" style="display:none" d="M 610.47 772.35 L 773.51 772.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 778.76 772.35 L 771.76 775.85 L 773.51 772.35 L 771.76 768.85 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(642.5,755.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$71,723,000</b><br style="font-size: 15px"/>2-6/10/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="820" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(823.5,549.5)">
+    </g>
+
+    <!-- World Merit -->
+    <rect class="buyback3" style="display:none" x="820" y="532" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(823.5,549.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 111px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 111px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">World Merit</div>
           </div>
         </foreignObject>
-        <text x="55" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">World Merit</text>
+        <text x="55" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">World Merit</text>
       </switch>
-    </g><path d="M 810.47 741.76 L 810.47 577.06 L 616.84 577.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 611.59 577.06 L 618.59 573.56 L 616.84 577.06 L 618.59 580.56 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(757.5,642.5)">
+    </g>
+
+    <!-- US$65 million 7/10/2014 -->
+    <path class="buyback3" style="display:none" d="M 810.47 741.76 L 810.47 577.06 L 616.84 577.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 611.59 577.06 L 618.59 573.56 L 616.84 577.06 L 618.59 580.56 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(757.5,642.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <b style="font-size: 15px">US$65,000,000<br style="font-size: 15px"/></b>7/10/2014<br style="font-size: 15px"/></div>
+              <b style="font-size: 15px">US$65 million<br style="font-size: 15px"/></b>7/10/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="975" y="532" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(975.5,528.5)">
+    </g>
+
+    <!-- Gold Necklaces -->
+    <rect class="buyback3" style="display:none" x="975" y="532" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(975.5,528.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 14px">Gold Necklaces &amp; Bracelets</span><br style="font-size: 14px"/>
               <b style="font-size: 14px">US$1.3 million</b>
@@ -310,196 +404,267 @@
               <span style="font-size: 14px">7/10/2014</span><br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 939.88 561.76 L 968.81 561.76" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 974.06 561.76 L 967.06 565.26 L 968.81 561.76 L 967.06 558.26 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="1035" cy="750" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 1035 757 L 1035 782 M 1035 762 L 1020 762 M 1035 762 L 1050 762 M 1035 782 L 1020 802 M 1035 782 L 1050 802" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(994.5,808.5)">
+    </g>
+
+    <!-- Path from World Merit to Gold Necklaces & Bracelets -->
+    <path class="buyback3" style="display:none" d="M 939.88 561.76 L 968.81 561.76" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 974.06 561.76 L 967.06 565.26 L 968.81 561.76 L 967.06 558.26 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- MO1's wife -->
+    <ellipse class="buyback3" style="display:none" cx="1035" cy="750" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 1035 757 L 1035 782 M 1035 762 L 1020 762 M 1035 762 L 1050 762 M 1035 782 L 1020 802 M 1035 782 L 1050 802" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(994.5,808.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="78" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">MO1's wife<br style="font-size: 15px"/></div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">MO1's wife<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="39" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="39" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 1035.18 592.35 L 1035.18 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 1035.18 740.65 L 1031.68 733.65 L 1035.18 735.4 L 1038.68 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 592.35 L 550.47 652.35 L 550.47 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 740.65 L 546.97 733.65 L 550.47 735.4 L 553.97 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(500.5,655.5)">
+    </g>
+
+    <!-- Path from Gold Necklaces to MO1's wife -->
+    <path class="buyback3" style="display:none" d="M 1035.18 592.35 L 1035.18 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 1035.18 740.65 L 1031.68 733.65 L 1035.18 735.4 L 1038.68 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$92 million 6/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 550.47 592.35 L 550.47 652.35 L 550.47 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 550.47 740.65 L 546.97 733.65 L 550.47 735.4 L 553.97 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(500.5,655.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$92 million<br style="font-size: 15px"/></b>6/11/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 490.47 381.76 L 299.88 381.76 L 299.88 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 299.88 531.23 L 296.38 524.23 L 299.88 525.98 L 303.38 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(348.5,364.5)">
+    </g>
+
+    <!-- US$155 million 30/5/2014 -->
+    <path class="buyback2" style="display:none" d="M 490.47 381.76 L 299.88 381.76 L 299.88 525.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 299.88 531.23 L 296.38 524.23 L 299.88 525.98 L 303.38 524.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(348.5,364.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$155 million</b><br style="font-size: 15px"/>30/5/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 490.47 412.35 L 424.59 412.35 L 424.59 546.47 L 366.25 546.47" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 361 546.47 L 368 542.97 L 366.25 546.47 L 368 549.97 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(375.5,462.5)">
+    </g>
+
+    <!-- US$19 million 17/6/2014 -->
+    <path class="buyback2" style="display:none" d="M 490.47 412.35 L 424.59 412.35 L 424.59 546.47 L 366.25 546.47" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 361 546.47 L 368 542.97 L 366.25 546.47 L 368 549.97 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(375.5,462.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$19 million</b><br style="font-size: 15px"/>17/6/2014</div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 239.88 561.76 L 126.25 561.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 121 561.76 L 128 558.26 L 126.25 561.76 L 128 565.26 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(127.5,545.5)">
+    </g>
+
+    <!-- US$1.89 million 18/6/2014 -->
+    <path class="buyback2" style="display:none" d="M 239.88 561.76 L 126.25 561.76" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 121 561.76 L 128 558.26 L 126.25 561.76 L 128 565.26 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(127.5,545.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 14px">US$1.89 million</b><br style="font-size: 14px"/>18/6/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 299.88 592.35 L 299.88 746.47 L 299.88 895.63" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 299.88 900.88 L 296.38 893.88 L 299.88 895.63 L 303.38 893.88 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(246.5,730.5)">
+    </g>
+
+    <!-- US$142 million 2/6/2014 -->
+    <path class="buyback6" style="display:none" d="M 299.88 592.35 L 299.88 746.47 L 299.88 895.63" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback6" style="display:none" d="M 299.88 900.88 L 296.38 893.88 L 299.88 895.63 L 303.38 893.88 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback6" style="display:none" transform="translate(246.5,730.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$142 million</b><br style="font-size: 15px"/>2/6/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 519.88 592.35 L 519.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 519.88 740.65 L 516.38 733.65 L 519.88 735.4 L 523.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(467.5,604.5)">
+    </g>
+
+    <!-- US$71,773,999 30/9/2014 -->
+    <path class="buyback3" style="display:none" d="M 519.88 592.35 L 519.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 519.88 740.65 L 516.38 733.65 L 519.88 735.4 L 523.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(467.5,604.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$71,773,000</b><br style="font-size: 15px"/>30/9/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 610.47 561.76 L 813.51 561.76" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 818.76 561.76 L 811.76 565.26 L 813.51 561.76 L 811.76 558.26 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(662.5,544.5)">
+    </g>
+
+    <!-- US$39,750,000 7/10/2014 -->
+    <path class="buyback3" style="display:none" d="M 610.47 561.76 L 813.51 561.76" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback3" style="display:none" d="M 818.76 561.76 L 811.76 565.26 L 813.51 561.76 L 811.76 558.26 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback3" style="display:none" transform="translate(662.5,544.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$39,750,000</b><br style="font-size: 15px"/>7/10/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="902" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(491.5,919.5)">
+    </g>
+
+    <!-- Vista Equity -->
+    <rect class="buyback4" style="display:none" x="490" y="902" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(491.5,919.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Vista Equity</div>
           </div>
         </foreignObject>
-        <text x="57" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Vista Equity</text>
+        <text x="57" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Vista Equity</text>
       </switch>
-    </g><path d="M 519.88 801.76 L 519.88 895.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 519.88 900.65 L 516.38 893.65 L 519.88 895.4 L 523.38 893.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(470.5,812.5)">
+    </g>
+
+    <!-- US$92 million 7/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 519.88 801.76 L 519.88 895.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 519.88 900.65 L 516.38 893.65 L 519.88 895.4 L 523.38 893.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(470.5,812.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <b style="font-size: 14px">US$92,000,000<br style="font-size: 14px"/></b>7/11/2014<br style="font-size: 14px"/></div>
+              <b style="font-size: 14px">US$92 million<br style="font-size: 14px"/></b>7/11/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="1062" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(490.5,1069.5)">
+    </g>
+
+    <!-- TKIL -->
+    <rect class="buyback4" style="display:none" x="490" y="1062" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(490.5,1069.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="43" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 19px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 19px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 19px">TKIL Capital Partners</span>
             </div>
           </div>
         </foreignObject>
-        <text x="59" y="31" fill="#000000" text-anchor="middle" font-size="19px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="59" y="31" fill="#000000" text-anchor="middle" font-size="19px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 519.88 961.76 L 519.88 1055.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 519.88 1060.65 L 516.38 1053.65 L 519.88 1055.4 L 523.38 1053.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(470.5,972.5)">
+    </g>
+
+    <!-- US$44,595,000 7/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 519.88 961.76 L 519.88 1055.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 519.88 1060.65 L 516.38 1053.65 L 519.88 1055.4 L 523.38 1053.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(470.5,972.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 14px">US$44,595,000</b><br style="font-size: 14px"/>7/11/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 610.47 1252.35 L 695.18 1252.35 L 773.63 1252.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 778.88 1252.35 L 771.88 1255.85 L 773.63 1252.35 L 771.88 1248.85 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(642.5,1235.5)">
+    </g>
+
+    <!-- US$39,950,000 12/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 610.47 1252.35 L 695.18 1252.35 L 773.63 1252.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 778.88 1252.35 L 771.88 1255.85 L 773.63 1252.35 L 771.88 1248.85 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(642.5,1235.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$39,950,000<br style="font-size: 15px"/></b>12/11/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="1222" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(490.5,1227.5)">
+    </g>
+
+    <!-- Dragon Market -->
+    <rect class="buyback4" style="display:none" x="490" y="1222" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(490.5,1227.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Dragon Market</div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">Dragon Market</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Dragon Market</text>
       </switch>
-    </g><rect x="780" y="1222" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(780.5,1227.5)">
+    </g>
+
+    <!-- Dragon Dynasty -->
+    <rect class="buyback4" style="display:none" x="780" y="1222" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-d5e8d4-1-ffffff-1-s-0)" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(780.5,1227.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
             xmlns="http://www.w3.org/1999/xhtml"
-            style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 20px">Dragon Dynasty</span>
             </div>
           </div>
         </foreignObject>
-        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 519.88 1121.76 L 519.88 1215.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 519.88 1220.65 L 516.38 1213.65 L 519.88 1215.4 L 523.38 1213.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(470.5,1135.5)">
+    </g>
+
+    <!-- US$44,595,000 10/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 519.88 1121.76 L 519.88 1215.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 519.88 1220.65 L 516.38 1213.65 L 519.88 1215.4 L 523.38 1213.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(470.5,1135.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 14px">US$44,595,000</b><br style="font-size: 14px"/>10/11/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="490" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(490.5,1478.5)">
+    </g>
+
+    <!-- Diamonds Jewelry -->
+    <rect class="buyback7" style="display:none" x="490" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback7" style="display:none" transform="translate(490.5,1478.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 14px">Diamond Jewelry Set &amp; Earrings</span>
               <span style="font-size: 14px"><br style="font-size: 14px"/></span>
@@ -507,167 +672,246 @@
               <span style="font-size: 14px">29/10/2014</span><br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><ellipse cx="635" cy="1590" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/><path d="M 635 1597 L 635 1622 M 635 1602 L 620 1602 M 635 1602 L 650 1602 M 635 1622 L 620 1642 M 635 1622 L 650 1642" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(587.5,1648.5)">
+    </g>
+
+    <!-- Miranda Kerr -->
+    <ellipse class="buyback7" style="display:none" cx="635" cy="1590" rx="7.5" ry="7.5" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 635 1597 L 635 1622 M 635 1602 L 620 1602 M 635 1602 L 650 1602 M 635 1622 L 620 1642 M 635 1622 L 650 1642" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback7" style="display:none" transform="translate(587.5,1648.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Miranda Kerr</div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Miranda Kerr</div>
           </div>
         </foreignObject>
-        <text x="47" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica" font-weight="bold">Miranda Kerr</text>
+        <text x="47" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Miranda Kerr</text>
       </switch>
-    </g><path d="M 550.47 1541.76 L 550.47 1561.76 L 635.18 1561.76 L 635.18 1575.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 635.18 1580.65 L 631.68 1573.65 L 635.18 1575.4 L 638.68 1573.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 801.76 L 579.88 895.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 900.65 L 576.38 893.65 L 579.88 895.4 L 583.38 893.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(530.5,848.5)">
+    </g>
+
+    <!-- Path from Diamond Jewelry to Miranda Kerr -->
+    <path class="buyback7" style="display:none" d="M 550.47 1541.76 L 550.47 1561.76 L 635.18 1561.76 L 635.18 1575.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 635.18 1580.65 L 631.68 1573.65 L 635.18 1575.4 L 638.68 1573.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$28 million 27/10/2014 -->
+    <path class="buyback4" style="display:none" d="M 579.88 801.76 L 579.88 895.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 579.88 900.65 L 576.38 893.65 L 579.88 895.4 L 583.38 893.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(530.5,848.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <b style="font-size: 14px">US$28,000,000</b><br style="font-size: 14px"/>27/10/2014<br style="font-size: 14px"/></div>
+              <b style="font-size: 14px">US$28 million</b><br style="font-size: 14px"/>27/10/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 579.88 961.76 L 579.88 1055.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 1060.65 L 576.38 1053.65 L 579.88 1055.4 L 583.38 1053.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(530.5,1014.5)">
+    </g>
+
+    <!-- US$25 million 27/10/2014 -->
+    <path class="buyback4" style="display:none" d="M 579.88 961.76 L 579.88 1055.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 579.88 1060.65 L 576.38 1053.65 L 579.88 1055.4 L 583.38 1053.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(530.5,1014.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
-              <b style="font-size: 14px">US$25,000,000<br style="font-size: 14px"/></b>27/10/2014<br style="font-size: 14px"/></div>
+              <b style="font-size: 14px">US$25 million<br style="font-size: 14px"/></b>27/10/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 579.88 1121.76 L 579.88 1215.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 1220.65 L 576.38 1213.65 L 579.88 1215.4 L 583.38 1213.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(533.5,1174.5)">
+    </g>
+
+    <!-- US$25 million 27/10/2014 -->
+    <path class="buyback4" style="display:none" d="M 579.88 1121.76 L 579.88 1215.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 579.88 1220.65 L 576.38 1213.65 L 579.88 1215.4 L 583.38 1213.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(533.5,1174.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 14px">US$25 million</b><br style="font-size: 14px"/>27/10/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="46" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="46" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 550.47 1281.76 L 550.47 1345.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 1351.23 L 546.97 1344.23 L 550.47 1345.98 L 553.97 1344.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(500.5,1300.5)">
+    </g>
+
+    <!-- US$25 million 28/10/2014 -->
+    <path class="buyback4" style="display:none" d="M 550.47 1281.76 L 550.47 1345.98" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 550.47 1351.23 L 546.97 1344.23 L 550.47 1345.98 L 553.97 1344.23 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(500.5,1300.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$25 million</b><br style="font-size: 15px"/>28/10/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 839.88 1281.76 L 799.88 1281.76 L 799.88 1358.24 L 563.9 1358.24" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 558.65 1358.24 L 565.65 1354.74 L 563.9 1358.24 L 565.65 1361.74 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(683.5,1341.5)">
+    </g>
+
+    <!-- US$39,950,000 12/11/2014 -->
+    <path class="buyback4" style="display:none" d="M 839.88 1281.76 L 799.88 1281.76 L 799.88 1358.24 L 563.9 1358.24" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 558.65 1358.24 L 565.65 1354.74 L 563.9 1358.24 L 565.65 1361.74 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(683.5,1341.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$39,950,000<br style="font-size: 15px"/></b>12/11/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><rect x="660" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(662.5,1486.5)">
+    </g>
+
+    <!-- Diamond Pendant -->
+    <rect class="buyback7" style="display:none" x="660" y="1482" width="120" height="60" fill="#d5e8d4" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback7" style="display:none" transform="translate(662.5,1486.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 14px">Diamond Pendant<br style="font-size: 14px"/></span>
               <b style="font-size: 14px">US$3,800,000<br style="font-size: 14px"/></b>26/12/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="56" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="56" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 719.88 1541.76 L 719.88 1561.76 L 635.18 1561.76 L 635.18 1575.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 635.18 1580.65 L 631.68 1573.65 L 635.18 1575.4 L 638.68 1573.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 1381.76 L 550.47 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 1480.65 L 546.97 1473.65 L 550.47 1475.4 L 553.97 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 550.47 1381.76 L 550.47 1452.35 L 719.88 1452.35 L 719.88 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 719.88 1480.65 L 716.38 1473.65 L 719.88 1475.4 L 723.38 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 59.88 592.35 L 59.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 59.88 740.65 L 56.38 733.65 L 59.88 735.4 L 63.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(17.5,675.5)">
+    </g>
+
+    <!-- Path from Diamon Pendant to Miranda Kerr -->
+    <path class="buyback7" style="display:none" d="M 719.88 1541.76 L 719.88 1561.76 L 635.18 1561.76 L 635.18 1575.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 635.18 1580.65 L 631.68 1573.65 L 635.18 1575.4 L 638.68 1573.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Diamond Jewelry -->
+    <path class="buyback7" style="display:none" d="M 550.47 1381.76 L 550.47 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 550.47 1480.65 L 546.97 1473.65 L 550.47 1475.4 L 553.97 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Diamond Pendant -->
+    <path class="buyback7" style="display:none" d="M 550.47 1381.76 L 550.47 1452.35 L 719.88 1452.35 L 719.88 1475.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback7" style="display:none" d="M 719.88 1480.65 L 716.38 1473.65 L 719.88 1475.4 L 723.38 1473.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$999,975 1/7/2014 -->
+    <path class="buyback2" style="display:none" d="M 59.88 592.35 L 59.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 59.88 740.65 L 56.38 733.65 L 59.88 735.4 L 63.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(17.5,675.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="83" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$999,975</b><br style="font-size: 15px"/>1/7/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="42" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="42" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 412.82 647.65 L 330.47 647.65 L 330.47 595.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="330" cy="592" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(310.5,616.5)">
+    </g>
+
+    <!-- Path of Eric Tan owns Affinity equity -->
+    <path class="buyback5" style="display:none" d="M 412.82 647.65 L 330.47 647.65 L 330.47 595.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback5" style="display:none" cx="330" cy="592" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback5" style="display:none" transform="translate(310.5,616.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
       </switch>
-    </g><path d="M 419.88 672.35 L 90.47 672.35 L 90.47 595.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="90" cy="592" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(195.5,663.5)">
+    </g>
+
+    <!-- Path of Eric Tan owns Blackrock -->
+    <path class="buyback5" style="display:none" d="M 419.88 672.35 L 90.47 672.35 L 90.47 595.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback5" style="display:none" cx="90" cy="592" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback5" style="display:none" transform="translate(195.5,663.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
       </switch>
-    </g><path d="M 435.18 701.76 L 435.18 932.35 L 487.47 932.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="490" cy="932" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(420.5,923.5)">
+    </g>
+
+    <!-- Path of Eric Tan owns Vista Equity -->
+    <path class="buyback5" style="display:none" d="M 435.18 701.76 L 435.18 932.35 L 487.47 932.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback5" style="display:none" cx="490" cy="932" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback5" style="display:none" transform="translate(420.5,923.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
       </switch>
-    </g><path d="M 404.59 701.76 L 404.59 1092.35 L 487.47 1092.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="490" cy="1092" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(432.5,1083.5)">
+    </g>
+
+    <!-- Path of Eric Tan owns TKIL -->
+    <path class="buyback5" style="display:none" d="M 404.59 701.76 L 404.59 1092.35 L 487.47 1092.35" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback5" style="display:none" cx="490" cy="1092" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback5" style="display:none" transform="translate(432.5,1083.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
-            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">Owns</div>
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
           </div>
         </foreignObject>
-        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">Owns</text>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
       </switch>
-    </g><path d="M 764.59 472.35 L 679.88 472.35 L 679.88 546.47 L 613.47 546.47" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="610" cy="546" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
-    <g transform="translate(696.5,465.5)">
+    </g>
+
+    <!-- Path of Mohamed director of Aabar Seychelles -->
+    <path class="buyback1" style="display:none" d="M 764.59 472.35 L 679.88 472.35 L 679.88 546.47 L 613.47 546.47" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback1" style="display:none" cx="610" cy="546" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/>
+    <g class="buyback1" style="display:none" transform="translate(696.5,465.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="46" height="13" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Director</div>
           </div>
         </foreignObject>
-        <text x="23" y="13" fill="#000000" text-anchor="middle" font-size="13px" font-family="Helvetica">Director</text>
+        <text x="23" y="13" fill="#000000" text-anchor="middle" font-size="13px" font-family="Arial">Director</text>
       </switch>
-    </g><path d="M 490.47 577.06 L 366.25 577.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 361 577.06 L 368 573.56 L 366.25 577.06 L 368 580.56 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(371.5,560.5)">
+    </g>
+
+    <!-- US$103,333,000 4/9/2014 -->
+    <path class="buyback2" style="display:none" d="M 490.47 577.06 L 366.25 577.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback2" style="display:none" d="M 361 577.06 L 368 573.56 L 366.25 577.06 L 368 580.56 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback2" style="display:none" transform="translate(371.5,560.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="105" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 14px">US$103,333,000</b><br style="font-size: 14px"/>4/9/2014<br style="font-size: 14px"/></div>
           </div>
         </foreignObject>
-        <text x="53" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="53" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 579.88 592.35 L 579.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><path d="M 579.88 740.65 L 576.38 733.65 L 579.88 735.4 L 583.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
-    <g transform="translate(530.5,695.5)">
+    </g>
+
+    <!-- US$28 million 24/10/2014 -->
+    <path class="buyback4" style="display:none" d="M 579.88 592.35 L 579.88 735.4" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="buyback4" style="display:none" d="M 579.88 740.65 L 576.38 733.65 L 579.88 735.4 L 583.38 733.65 Z" fill="#82b366" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="buyback4" style="display:none" transform="translate(530.5,695.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <b style="font-size: 15px">US$28 million</b><br style="font-size: 15px"/>24/10/2014<br style="font-size: 15px"/></div>
           </div>
         </foreignObject>
-        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
-    </g><path d="M 764.59 472.35 L 679.88 472.35 L 679.88 397.06 L 613.47 397.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/><ellipse cx="610" cy="397" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/></g>
+    </g>
+
+    <!-- Path of Mohamed director of Aabar-BVI -->
+    <path class="buyback1" style="display:none" d="M 764.59 472.35 L 679.88 472.35 L 679.88 397.06 L 613.47 397.06" fill="none" stroke="#82b366" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="buyback1" style="display:none" cx="610" cy="397" rx="3" ry="3" fill="#82b366" stroke="#82b366" pointer-events="none"/></g>
 </svg>
