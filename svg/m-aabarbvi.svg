@@ -15,7 +15,7 @@
 
     <!-- Aabar -->
     <rect class="aabarbvi1" style="display: none" x="251" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi1" style="display:none" transform="translate(281.5,87.5)">
+    <g class="aabarbvi1" style="" transform="translate(281.5,87.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -29,8 +29,8 @@
     </g>
 
     <!-- 1MDB -->
-    <rect class="aabarbvi1" style="display:none" x="481" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi1" style="display:none" transform="translate(511.5,87.5)">
+    <rect class="aabarbvi1" style="" x="481" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi1" style="" transform="translate(511.5,87.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -44,8 +44,8 @@
     </g>
 
     <!-- IPIC -->
-    <rect class="aabarbvi1" style="display:none" x="31" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi1" style="display:none" transform="translate(70.5,87.5)">
+    <rect class="aabarbvi1" style="" x="31" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi1" style="" transform="translate(70.5,87.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -59,8 +59,8 @@
     </g>
 
     <!-- Aabar-BVI -->
-    <rect class="aabarbvi2" style="display:none" x="481" y="192.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi2" style="display:none" transform="translate(491.5,210.5)">
+    <rect class="aabarbvi2" style="" x="481" y="192.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi2" style="" transform="translate(491.5,210.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -74,8 +74,8 @@
     </g>
 
     <!-- Blackstone -->
-    <rect class="aabarbvi4" style="display:none"  x="481" y="395" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(486.5,412.5)">
+    <rect class="aabarbvi4" style=""  x="481" y="395" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(486.5,412.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="107" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -89,8 +89,8 @@
     </g>
 
     <!-- Enterprise -->
-    <rect class="aabarbvi4" style="display:none" x="331" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(340.5,327.5)">
+    <rect class="aabarbvi4" style="" x="331" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(340.5,327.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="99" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -104,8 +104,8 @@
     </g>
 
     <!-- Cistenique -->
-    <rect class="aabarbvi4" style="display:none" x="621" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(628.5,327.5)">
+    <rect class="aabarbvi4" style="" x="621" y="310" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(628.5,327.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -121,8 +121,8 @@
     </g>
 
     <!-- Vasco Investments -->
-    <rect class="aabarbvi5" style="display:none" x="31" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(30.5,588.5)">
+    <rect class="aabarbvi5" style="" x="31" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(30.5,588.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="118" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -138,8 +138,8 @@
     </g>
 
     <!-- Rayan -->
-    <rect class="aabarbvi5" style="display:none" x="131" y="487.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(159.5,505.5)">
+    <rect class="aabarbvi5" style="" x="131" y="487.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(159.5,505.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="60" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -152,8 +152,8 @@
       </switch>
     </g>
 
-    <rect class="aabarbvi5" style="display:none" x="251" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(251.5,588.5)">
+    <rect class="aabarbvi5" style="" x="251" y="582.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(251.5,588.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -167,8 +167,8 @@
     </g>
 
     <!-- Red Granite Capital -->
-    <rect class="aabarbvi7" style="display:none" x="821" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi7" style="display:none" transform="translate(821.5,708.5)">
+    <rect class="aabarbvi7" style="" x="821" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi7" style="" transform="translate(821.5,708.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -182,8 +182,8 @@
     </g>
 
     <!-- Shearman IOLA -->
-    <rect class="aabarbvi9" style="display:none" x="921" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi9" style="display:none" transform="translate(921.5,845.5)">
+    <rect class="aabarbvi9" style="" x="921" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi9" style="" transform="translate(921.5,845.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -199,8 +199,8 @@
     </g>
 
     <!-- Red Granite Picture -->
-    <rect class="aabarbvi8" style="display:none" x="741" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi8" style="display:none" transform="translate(741.5,845.5)">
+    <rect class="aabarbvi8" style="" x="741" y="840" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi8" style="" transform="translate(741.5,845.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -216,8 +216,8 @@
     </g>
 
     <!-- Alsen Chance -->
-    <rect class="aabarbvi11" style="display:none" x="331" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi11" style="display:none" transform="translate(331.5,708.5)">
+    <rect class="aabarbvi11" style="" x="331" y="702.5" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi11" style="" transform="translate(331.5,708.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -233,8 +233,8 @@
     </g>
 
     <!-- Venetian Casino -->
-    <rect class="aabarbvi12" style="display:none" x="421" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi12" style="display:none" transform="translate(421.5,875.5)">
+    <rect class="aabarbvi12" style="" x="421" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi12" style="" transform="translate(421.5,875.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -250,14 +250,14 @@
     </g>
 
     <!-- Jho Low -->
-    <ellipse class="aabarbvi12" style="display:none" cx="506" cy="1037" rx="7.500000000000001" ry="7.500000000000001" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <ellipse class="aabarbvi12" style="" cx="506" cy="1037" rx="7.500000000000001" ry="7.500000000000001" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
     <path
-      class="aabarbvi12" style="display:none" d="M 506.15 1044.85 L 506.15 1069.85 M 506.15 1049.85 L 491.15 1049.85 M 506.15 1049.85 L 521.15 1049.85 M 506.15 1069.85 L 491.15 1089.85 M 506.15 1069.85 L 521.15 1089.85"
+      class="aabarbvi12" style="" d="M 506.15 1044.85 L 506.15 1069.85 M 506.15 1049.85 L 491.15 1049.85 M 506.15 1049.85 L 521.15 1049.85 M 506.15 1069.85 L 491.15 1089.85 M 506.15 1069.85 L 521.15 1089.85"
       fill="none"
       stroke="#d7191c"
       stroke-miterlimit="10"
       pointer-events="none"/>
-    <g class="aabarbvi12" style="display:none" transform="translate(474.5,1096.5)">
+    <g class="aabarbvi12" style="" transform="translate(474.5,1096.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -269,9 +269,9 @@
     </g>
 
     <!-- MO1 -->
-    <ellipse class="aabarbvi6" style="display:none" cx="766" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
-    <path class="aabarbvi6" style="display:none" d="M 766.15 502.5 L 766.15 527.5 M 766.15 507.5 L 751.15 507.5 M 766.15 507.5 L 781.15 507.5 M 766.15 527.5 L 751.15 547.5 M 766.15 527.5 L 781.15 547.5" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi6" style="display:none" transform="translate(748.5,554.5)">
+    <ellipse class="aabarbvi6" style="" cx="766" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 766.15 502.5 L 766.15 527.5 M 766.15 507.5 L 751.15 507.5 M 766.15 507.5 L 781.15 507.5 M 766.15 527.5 L 751.15 547.5 M 766.15 527.5 L 781.15 547.5" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi6" style="" transform="translate(748.5,554.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #762a83; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -283,9 +283,9 @@
     </g>
 
     <!-- Jasmine Loo -->
-    <ellipse class="aabarbvi6" style="display:none" cx="661" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <path class="aabarbvi6" style="display:none" d="M 661.06 502.5 L 661.06 527.5 M 661.06 507.5 L 646.06 507.5 M 661.06 507.5 L 676.06 507.5 M 661.06 527.5 L 646.06 547.5 M 661.06 527.5 L 676.06 547.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi6" style="display:none" transform="translate(613.5,554.5)">
+    <ellipse class="aabarbvi6" style="" cx="661" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 661.06 502.5 L 661.06 527.5 M 661.06 507.5 L 646.06 507.5 M 661.06 507.5 L 676.06 507.5 M 661.06 527.5 L 646.06 547.5 M 661.06 527.5 L 676.06 547.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi6" style="" transform="translate(613.5,554.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -297,9 +297,9 @@
     </g>
 
     <!-- Larry Low -->
-    <ellipse class="aabarbvi13" style="display:none" cx="406" cy="1197" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 406 1205 L 406 1230 M 406 1210 L 391 1210 M 406 1210 L 421 1210 M 406 1230 L 391 1250 M 406 1230 L 421 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(368.5,1256.5)">
+    <ellipse class="aabarbvi13" style="" cx="406" cy="1197" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 406 1205 L 406 1230 M 406 1210 L 391 1210 M 406 1210 L 421 1210 M 406 1230 L 391 1250 M 406 1230 L 421 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(368.5,1256.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="72" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -311,9 +311,9 @@
     </g>
 
     <!-- Evelyn Goh -->
-    <ellipse class="aabarbvi13" style="display:none" cx="671" cy="1197" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 671 1205 L 671 1230 M 671 1210 L 656 1210 M 671 1210 L 686 1210 M 671 1230 L 656 1250 M 671 1230 L 686 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(628.5,1256.5)">
+    <ellipse class="aabarbvi13" style="" cx="671" cy="1197" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 671 1205 L 671 1230 M 671 1210 L 656 1210 M 671 1210 L 686 1210 M 671 1230 L 656 1250 M 671 1230 L 686 1250" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(628.5,1256.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="82" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -325,9 +325,9 @@
     </g>
 
     <!-- US$576,943,490 22/5/2012 -->
-    <path class="aabarbvi2" style="display:none" d="M 480.57 114.71 L 460.57 114.71 L 460.57 207.57 L 474.2 207.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi2" style="display:none" d="M 479.45 207.57 L 472.45 211.07 L 474.2 207.57 L 472.45 204.07 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi2" style="display:none" transform="translate(403.5,144.5)">
+    <path class="aabarbvi2" style="" d="M 480.57 114.71 L 460.57 114.71 L 460.57 207.57 L 474.2 207.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi2" style="" d="M 479.45 207.57 L 472.45 211.07 L 474.2 207.57 L 472.45 204.07 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi2" style="" transform="translate(403.5,144.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -340,9 +340,9 @@
     </g>
 
     <!-- US$172 mil 22/10-2/11/2012 -->
-    <path class="aabarbvi4" style="display:none" d="M 510.57 251.86 L 510.57 281.86 L 390.57 281.86 L 390.57 304.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 390.57 309.31 L 387.07 302.31 L 390.57 304.06 L 394.07 302.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(393.5,264.5)">
+    <path class="aabarbvi4" style="" d="M 510.57 251.86 L 510.57 281.86 L 390.57 281.86 L 390.57 304.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 390.57 309.31 L 387.07 302.31 L 390.57 304.06 L 394.07 302.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(393.5,264.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -361,9 +361,9 @@
     </g>
 
     <!-- US$291 mil 23/10/2012 -->
-    <path class="aabarbvi4" style="display:none" d="M 570.57 251.86 L 570.57 281.86 L 680.57 281.86 L 680.57 304.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 680.57 309.31 L 677.07 302.31 L 680.57 304.06 L 684.07 302.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(567.5,264.5)">
+    <path class="aabarbvi4" style="" d="M 570.57 251.86 L 570.57 281.86 L 680.57 281.86 L 680.57 304.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 680.57 309.31 L 677.07 302.31 L 680.57 304.06 L 684.07 302.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(567.5,264.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -377,9 +377,9 @@
     </g>
 
     <!-- US$170 mil 25/10-8/11/2012 -->
-    <path class="aabarbvi4" style="display:none" d="M 390.57 370.43 L 390.57 410.43 L 474.2 410.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 479.45 410.43 L 472.45 413.93 L 474.2 410.43 L 472.45 406.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(359.5,393.5)">
+    <path class="aabarbvi4" style="" d="M 390.57 370.43 L 390.57 410.43 L 474.2 410.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 479.45 410.43 L 472.45 413.93 L 474.2 410.43 L 472.45 406.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(359.5,393.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -395,9 +395,9 @@
     </g>
 
     <!-- US$285 mil 24/10/2012 -->
-    <path class="aabarbvi4" style="display:none" d="M 680.57 370.43 L 680.57 410.43 L 606.94 410.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 601.69 410.43 L 608.69 406.93 L 606.94 410.43 L 608.69 413.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(623.5,377.5)">
+    <path class="aabarbvi4" style="" d="M 680.57 370.43 L 680.57 410.43 L 606.94 410.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 601.69 410.43 L 608.69 406.93 L 606.94 410.43 L 608.69 413.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(623.5,377.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -413,9 +413,9 @@
     </g>
 
     <!-- US$472,750,000 29/5-30/11/2012 -->
-    <path class="aabarbvi5" style="display:none" d="M 480.57 424.71 L 90.57 424.71 L 90.57 575.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 90.57 580.74 L 87.07 573.74 L 90.57 575.49 L 94.07 573.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(83.5,407.5)">
+    <path class="aabarbvi5" style="" d="M 480.57 424.71 L 90.57 424.71 L 90.57 575.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 90.57 580.74 L 87.07 573.74 L 90.57 575.49 L 94.07 573.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(83.5,407.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -430,9 +430,9 @@
     </g>
 
     <!-- US$11.6 mil 18/12/2012-22/1/2013 -->
-    <path class="aabarbvi5" style="display:none" d="M 510.57 454.71 L 510.57 519 L 340.57 519 L 340.57 575.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 340.57 580.74 L 337.07 573.74 L 340.57 575.49 L 344.07 573.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(352.5,502.5)">
+    <path class="aabarbvi5" style="" d="M 510.57 454.71 L 510.57 519 L 340.57 519 L 340.57 575.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 340.57 580.74 L 337.07 573.74 L 340.57 575.49 L 344.07 573.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(352.5,502.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="147" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -447,9 +447,9 @@
     </g>
 
     <!-- US$30 mil 30/10-19/11/2012 -->
-    <path class="aabarbvi6" style="display:none" d="M 600.57 424.71 L 766.29 424.71 L 766.29 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi6" style="display:none" d="M 766.29 486.45 L 762.79 479.45 L 766.29 481.2 L 769.79 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi6" style="display:none" transform="translate(707.5,417.5)">
+    <path class="aabarbvi6" style="" d="M 600.57 424.71 L 766.29 424.71 L 766.29 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 766.29 486.45 L 762.79 479.45 L 766.29 481.2 L 769.79 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi6" style="" transform="translate(707.5,417.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -462,9 +462,9 @@
     </g>
 
     <!-- US$5 mil 6/12/2012 -->
-    <path class="aabarbvi6" style="display:none" d="M 600.57 440.43 L 660.57 440.43 L 660.57 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi6" style="display:none" d="M 660.57 486.45 L 657.07 479.45 L 660.57 481.2 L 664.07 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi6" style="display:none" transform="translate(613.5,437.5)">
+    <path class="aabarbvi6" style="" d="M 600.57 440.43 L 660.57 440.43 L 660.57 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 660.57 486.45 L 657.07 479.45 L 660.57 481.2 L 664.07 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi6" style="" transform="translate(613.5,437.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="94" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -477,9 +477,9 @@
     </g>
 
     <!-- US$238 mil 18/6-14/11/2012 -->
-    <path class="aabarbvi7" style="display:none" d="M 600.57 221.86 L 600.57 223.29 L 910.57 223.29 L 910.57 695.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi7" style="display:none" d="M 910.57 700.74 L 907.07 693.74 L 910.57 695.49 L 914.07 693.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi7" style="display:none" transform="translate(856.5,290.5)">
+    <path class="aabarbvi7" style="" d="M 600.57 221.86 L 600.57 223.29 L 910.57 223.29 L 910.57 695.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi7" style="" d="M 910.57 700.74 L 907.07 693.74 L 910.57 695.49 L 914.07 693.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi7" style="" transform="translate(856.5,290.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="108" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -492,9 +492,9 @@
     </g>
 
     <!-- US$64 mil 20/6-20/11/2012 -->
-    <path class="aabarbvi8" style="display:none" d="M 850.57 761.86 L 850.57 801.86 L 770.57 801.86 L 770.57 834.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi8" style="display:none" d="M 770.57 839.31 L 767.07 832.31 L 770.57 834.06 L 774.07 832.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi8" style="display:none" transform="translate(740.5,784.5)">
+    <path class="aabarbvi8" style="" d="M 850.57 761.86 L 850.57 801.86 L 770.57 801.86 L 770.57 834.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 770.57 839.31 L 767.07 832.31 L 770.57 834.06 L 774.07 832.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi8" style="" transform="translate(740.5,784.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="108" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -508,8 +508,8 @@
     </g>
 
     <!-- Hillcrest Property 1 -->
-    <rect class="aabarbvi9" style="display:none" x="971" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi9" style="display:none" transform="translate(972.5,1180.5)">
+    <rect class="aabarbvi9" style="" x="971" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi9" style="" transform="translate(972.5,1180.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="135" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 135px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -526,8 +526,8 @@
     </g>
 
     <!-- Park Laurel Condominium -->
-    <rect class="aabarbvi9" style="display:none" x="971" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi9" style="display:none" transform="translate(971.5,981.5)">
+    <rect class="aabarbvi9" style="" x="971" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi9" style="" transform="translate(971.5,981.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -545,8 +545,8 @@
     </g>
 
     <!-- Good Star -->
-    <rect class="aabarbvi13" style="display:none" x="241" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(251.5,887.5)">
+    <rect class="aabarbvi13" style="" x="241" y="870" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(251.5,887.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -560,9 +560,9 @@
     </g>
 
     <!-- Path from 1MDB to Vasco Investments -->
-    <path class="aabarbvi14" style="display:none" d="M 240.57 900.43 L 90.57 900.43 L 90.57 648.23" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi14" style="display:none" d="M 90.57 642.98 L 94.07 649.98 L 90.57 648.23 L 87.07 649.98 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi14" style="display:none" transform="translate(49.5,883.5)">
+    <path class="aabarbvi14" style="" d="M 240.57 900.43 L 90.57 900.43 L 90.57 648.23" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi14" style="" d="M 90.57 642.98 L 94.07 649.98 L 90.57 648.23 L 87.07 649.98 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi14" style="" transform="translate(49.5,883.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -576,9 +576,9 @@
     </g>
 
     <!-- US$55 mil 29/5-3/12/2012 -->
-    <path class="aabarbvi5" style="display:none" d="M 480.57 440.43 L 220.57 440.43 L 220.57 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 220.57 486.45 L 217.07 479.45 L 220.57 481.2 L 224.07 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(275.5,423.5)">
+    <path class="aabarbvi5" style="" d="M 480.57 440.43 L 220.57 440.43 L 220.57 481.2" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 220.57 486.45 L 217.07 479.45 L 220.57 481.2 L 224.07 479.45 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(275.5,423.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="101" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -591,8 +591,8 @@
     </g>
 
     <!-- Qentas Townhouse -->
-    <rect class="aabarbvi9" style="display:none" x="971" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi9" style="display:none" transform="translate(971.5,1085.5)">
+    <rect class="aabarbvi9" style="" x="971" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi9" style="" transform="translate(971.5,1085.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -608,8 +608,8 @@
     </g>
 
     <!-- Metropolis poster -->
-    <rect class="aabarbvi11" style="display:none" x="121" y="692.5" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi11" style="display:none" transform="translate(121.5,697.5)">
+    <rect class="aabarbvi11" style="" x="121" y="692.5" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi11" style="" transform="translate(121.5,697.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -626,8 +626,8 @@
     </g>
 
     <!-- Movie posters -->
-    <rect class="aabarbvi10" style="display:none" x="581" y="790" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi10" style="display:none" transform="translate(581.5,791.5)">
+    <rect class="aabarbvi10" style="" x="581" y="790" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi10" style="" transform="translate(581.5,791.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -646,9 +646,9 @@
     </g>
 
     <!-- US$321.3 mil 29/10-24/12/2012 -->
-    <path class="aabarbvi11" style="display:none" d="M 540.57 454.71 L 540.57 579 L 390.57 579 L 390.57 695.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi11" style="display:none" d="M 390.57 700.74 L 387.07 693.74 L 390.57 695.49 L 394.07 693.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi11" style="display:none" transform="translate(412.5,562.5)">
+    <path class="aabarbvi11" style="" d="M 540.57 454.71 L 540.57 579 L 390.57 579 L 390.57 695.49" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi11" style="" d="M 390.57 700.74 L 387.07 693.74 L 390.57 695.49 L 394.07 693.74 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi11" style="" transform="translate(412.5,562.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -662,9 +662,9 @@
     </g>
 
     <!-- US$272.5 mil 1/11-27/12/2012 -->
-    <path class="aabarbvi13" style="display:none" d="M 360.57 761.86 L 360.57 816.14 L 300.57 816.14 L 300.57 864.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 300.57 869.31 L 297.07 862.31 L 300.57 864.06 L 304.07 862.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(246.5,799.5)">
+    <path class="aabarbvi13" style="" d="M 360.57 761.86 L 360.57 816.14 L 300.57 816.14 L 300.57 864.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 300.57 869.31 L 297.07 862.31 L 300.57 864.06 L 304.07 862.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(246.5,799.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -678,8 +678,8 @@
     </g>
 
     <!-- AKDMIC -->
-    <rect class="aabarbvi13" style="display:none" x="241" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(259.5,1047.5)">
+    <rect class="aabarbvi13" style="" x="241" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(259.5,1047.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -694,8 +694,8 @@
     </g>
 
     <!-- Electrum Group -->
-    <rect class="aabarbvi13" style="display:none" x="601" y="979.8" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(609.5,989.5)">
+    <rect class="aabarbvi13" style="" x="601" y="979.8" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(609.5,989.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="121" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 123px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -709,8 +709,8 @@
     </g>
 
     <!-- Dumb and Dumber To -->
-    <rect class="aabarbvi8" style="display:none" x="791" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi8" style="display:none" transform="translate(791.5,1171.5)">
+    <rect class="aabarbvi8" style="" x="791" y="1170" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi8" style="" transform="translate(791.5,1171.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -727,8 +727,8 @@
     </g>
 
     <!-- Daddy's Home -->
-    <rect class="aabarbvi8" style="display:none" x="791" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi8" style="display:none" transform="translate(793.5,1084.5)">
+    <rect class="aabarbvi8" style="" x="791" y="1075" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi8" style="" transform="translate(793.5,1084.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="132" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 134px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -742,8 +742,8 @@
     </g>
 
     <!-- One Madison Park Condominium -->
-    <rect class="aabarbvi6" style="display:none" x="614.29" y="600" width="186.67" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi6" style="display:none" transform="translate(614.5,601.5)">
+    <rect class="aabarbvi6" style="" x="614.29" y="600" width="186.67" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi6" style="" transform="translate(614.5,601.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="183" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 183px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -757,16 +757,16 @@
     </g>
 
     <!-- Path from Jasmine Loo to One Madison Park Condominium -->
-    <path class="aabarbvi6" style="display:none" d="M 660.57 517.57 L 660.57 594.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi6" style="display:none" d="M 660.57 599.31 L 657.07 592.31 L 660.57 594.06 L 664.07 592.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 660.57 517.57 L 660.57 594.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi6" style="" d="M 660.57 599.31 L 657.07 592.31 L 660.57 594.06 L 664.07 592.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path of Jho Low to Diamond Ring & Earrings -->
-    <path class="aabarbvi13" style="display:none" d="M 506.29 1060.43 L 560.57 1060.43 L 560.57 1104.71 L 594.2 1104.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 599.45 1104.71 L 592.45 1108.21 L 594.2 1104.71 L 592.45 1101.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 506.29 1060.43 L 560.57 1060.43 L 560.57 1104.71 L 594.2 1104.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 599.45 1104.71 L 592.45 1108.21 L 594.2 1104.71 L 592.45 1101.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Mathing Diamon Ring & Earrings -->
-    <rect class="aabarbvi13" style="display:none" x="601" y="1065" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(601.5,1069.5)">
+    <rect class="aabarbvi13" style="" x="601" y="1065" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(601.5,1069.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="68" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -781,9 +781,9 @@
     </g>
 
     <!-- Khadem -->
-    <ellipse class="aabarbvi3" style="display:none" cx="91" cy="300" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <path class="aabarbvi3" style="display:none" d="M 91.2 307.5 L 91.2 332.5 M 91.2 312.5 L 76.2 312.5 M 91.2 312.5 L 106.2 312.5 M 91.2 332.5 L 76.2 352.5 M 91.2 332.5 L 106.2 352.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(60.5,359.5)">
+    <ellipse class="aabarbvi3" style="" cx="91" cy="300" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <path class="aabarbvi3" style="" d="M 91.2 307.5 L 91.2 332.5 M 91.2 312.5 L 76.2 312.5 M 91.2 312.5 L 106.2 312.5 M 91.2 332.5 L 76.2 352.5 M 91.2 332.5 L 106.2 352.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(60.5,359.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="59" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -795,9 +795,9 @@
     </g>
 
     <!-- Mohamed -->
-    <ellipse class="aabarbvi3" style="display:none" cx="206" cy="200" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <path class="aabarbvi3" style="display:none" d="M 206 207.5 L 206 232.5 M 206 212.5 L 191 212.5 M 206 212.5 L 221 212.5 M 206 232.5 L 191 252.5 M 206 232.5 L 221 252.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(167.5,259.5)">
+    <ellipse class="aabarbvi3" style="" cx="206" cy="200" rx="7.500000000000001" ry="7.500000000000001" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <path class="aabarbvi3" style="" d="M 206 207.5 L 206 232.5 M 206 212.5 L 191 212.5 M 206 212.5 L 221 212.5 M 206 232.5 L 191 252.5 M 206 232.5 L 221 252.5" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(167.5,259.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="74" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -813,9 +813,9 @@
     </g>
 
     <!-- Riza Aziz -->
-    <ellipse class="aabarbvi7" style="display:none" cx="861" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#bf812d" stroke="#8c510a" pointer-events="none"/>
-    <path class="aabarbvi7" style="display:none" d="M 861 502.5 L 861 527.5 M 861 507.5 L 846 507.5 M 861 507.5 L 876 507.5 M 861 527.5 L 846 547.5 M 861 527.5 L 876 547.5" fill="none" stroke="#8c510a" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi7" style="display:none" transform="translate(827.5,554.5)">
+    <ellipse class="aabarbvi7" style="" cx="861" cy="495" rx="7.500000000000001" ry="7.500000000000001" fill="#bf812d" stroke="#8c510a" pointer-events="none"/>
+    <path class="aabarbvi7" style="" d="M 861 502.5 L 861 527.5 M 861 507.5 L 846 507.5 M 861 507.5 L 876 507.5 M 861 527.5 L 846 547.5 M 861 527.5 L 876 547.5" fill="none" stroke="#8c510a" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi7" style="" transform="translate(827.5,554.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="65" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #8c510a; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -827,12 +827,12 @@
     </g>
 
     <!-- Path from 1MDB to Aabar -->
-    <path class="aabarbvi1" style="display:none" d="M 480.57 100.43 L 376.94 100.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
-    <path class="aabarbvi1" style="display:none" d="M 371.69 100.43 L 378.69 96.93 L 376.94 100.43 L 378.69 103.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi1" style="" d="M 480.57 100.43 L 376.94 100.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path class="aabarbvi1" style="" d="M 371.69 100.43 L 378.69 96.93 L 376.94 100.43 L 378.69 103.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
-    <path class="aabarbvi1" style="display:none" d="M 250.57 100.43 L 153.57 100.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi1" style="display:none" cx="151" cy="100" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi1" style="display:none" transform="translate(165.5,91.5)">
+    <path class="aabarbvi1" style="" d="M 250.57 100.43 L 153.57 100.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi1" style="" cx="151" cy="100" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi1" style="" transform="translate(165.5,91.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="70" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -844,9 +844,9 @@
     </g>
 
     <!-- Path Mohamed to Aabar -->
-    <path class="aabarbvi3" style="display:none" d="M 213.43 199 L 340.57 199 L 340.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi3" style="display:none" cx="341" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(295.5,190.5)">
+    <path class="aabarbvi3" style="" d="M 213.43 199 L 340.57 199 L 340.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi3" style="" cx="341" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(295.5,190.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -860,9 +860,9 @@
     </g>
 
     <!-- Path of Khadem to Aabar -->
-    <path class="aabarbvi3" style="display:none" d="M 83.43 299 L 70.57 299 L 70.57 170.43 L 280.57 170.43 L 280.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi3" style="display:none" cx="281" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(83.5,161.5)">
+    <path class="aabarbvi3" style="" d="M 83.43 299 L 70.57 299 L 70.57 170.43 L 280.57 170.43 L 280.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi3" style="" cx="281" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(83.5,161.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="82" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -876,9 +876,9 @@
     </g>
 
     <!-- Path of Khadem to IPIC -->
-    <path class="aabarbvi3" style="display:none" d="M 90.57 321.86 L 90.57 323.29 L 60.57 323.29 L 60.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi3" style="display:none" cx="61" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(-0.5,233.5)">
+    <path class="aabarbvi3" style="" d="M 90.57 321.86 L 90.57 323.29 L 60.57 323.29 L 60.57 133.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi3" style="" cx="61" cy="130" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(-0.5,233.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="122" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -892,9 +892,9 @@
     </g>
 
     <!-- Path of Mohamed owns Rayan -->
-    <path class="aabarbvi5" style="display:none" d="M 190.57 251.86 L 190.57 484.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi5" style="display:none" cx="191" cy="488" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(171.5,361.5)">
+    <path class="aabarbvi5" style="" d="M 190.57 251.86 L 190.57 484.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi5" style="" cx="191" cy="488" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(171.5,361.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -908,9 +908,9 @@
     </g>
 
     <!-- Path of Mohamed owns MB Consulting -->
-    <path class="aabarbvi5" style="display:none" d="M 220.57 251.86 L 220.57 380.43 L 280.57 380.43 L 280.57 578.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi5" style="display:none" cx="281" cy="582" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(261.5,379.5)">
+    <path class="aabarbvi5" style="" d="M 220.57 251.86 L 220.57 380.43 L 280.57 380.43 L 280.57 578.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi5" style="" cx="281" cy="582" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(261.5,379.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -924,9 +924,9 @@
     </g>
 
     <!-- US$94.3 mil 20/6-15/11/2012 -->
-    <path class="aabarbvi9" style="display:none" d="M 910.57 761.86 L 910.57 801.86 L 950.57 801.86 L 950.57 834.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi9" style="display:none" d="M 950.57 839.31 L 947.07 832.31 L 950.57 834.06 L 954.07 832.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi9" style="display:none" transform="translate(874.5,784.5)">
+    <path class="aabarbvi9" style="" d="M 910.57 761.86 L 910.57 801.86 L 950.57 801.86 L 950.57 834.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 950.57 839.31 L 947.07 832.31 L 950.57 834.06 L 954.07 832.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi9" style="" transform="translate(874.5,784.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -941,13 +941,13 @@
     </g>
 
     <!-- Jho Low to Electrum -->
-    <path class="aabarbvi13" style="display:none" d="M 506.29 1060.43 L 560.57 1060.43 L 560.57 1020.43 L 594.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 599.45 1020.43 L 592.45 1023.93 L 594.2 1020.43 L 592.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 506.29 1060.43 L 560.57 1060.43 L 560.57 1020.43 L 594.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 599.45 1020.43 L 592.45 1023.93 L 594.2 1020.43 L 592.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$153 mil 2/11/2012 -->
-    <path class="aabarbvi13" style="display:none" d="M 300.57 930.43 L 300.57 1024.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 300.57 1029.31 L 297.07 1022.31 L 300.57 1024.06 L 304.07 1022.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(247.5,963.5)">
+    <path class="aabarbvi13" style="" d="M 300.57 930.43 L 300.57 1024.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 300.57 1029.31 L 297.07 1022.31 L 300.57 1024.06 L 304.07 1022.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(247.5,963.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -961,9 +961,9 @@
     </g>
 
     <!-- US$150 mil 5/11/2012 -->
-    <path class="aabarbvi13" style="display:none" d="M 300.57 1090.43 L 300.57 1220.43 L 399.92 1220.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 405.17 1220.43 L 398.17 1223.93 L 399.92 1220.43 L 398.17 1216.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(247.5,1173.5)">
+    <path class="aabarbvi13" style="" d="M 300.57 1090.43 L 300.57 1220.43 L 399.92 1220.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 405.17 1220.43 L 398.17 1223.93 L 399.92 1220.43 L 398.17 1216.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(247.5,1173.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -976,9 +976,9 @@
     </g>
 
     <!-- US$150 mil 7/11/2012 -->
-    <path class="aabarbvi13" style="display:none" d="M 406.29 1220.43 L 506.29 1220.43 L 506.29 1066.8" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 506.29 1061.55 L 509.79 1068.55 L 506.29 1066.8 L 502.79 1068.55 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(452.5,1173.5)">
+    <path class="aabarbvi13" style="" d="M 406.29 1220.43 L 506.29 1220.43 L 506.29 1066.8" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 506.29 1061.55 L 509.79 1068.55 L 506.29 1066.8 L 502.79 1068.55 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(452.5,1173.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -991,9 +991,9 @@
     </g>
 
     <!-- Path of Khadem owns Vasco Investments -->
-    <path class="aabarbvi5" style="display:none" d="M 90.57 321.86 L 90.57 323.29 L 60.57 323.29 L 60.57 578.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi5" style="display:none" cx="61" cy="582" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(43.5,430.5)">
+    <path class="aabarbvi5" style="" d="M 90.57 321.86 L 90.57 323.29 L 60.57 323.29 L 60.57 578.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi5" style="" cx="61" cy="582" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(43.5,430.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="34" height="13" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 11px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1007,13 +1007,13 @@
     </g>
 
     <!-- Path of Diamond rings to Evelyn Goh -->
-    <path class="aabarbvi13" style="display:none" d="M 670.57 1145 L 670.57 1167.57 L 670.57 1184.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 670.57 1189.31 L 667.07 1182.31 L 670.57 1184.06 L 674.07 1182.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 670.57 1145 L 670.57 1167.57 L 670.57 1184.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 670.57 1189.31 L 667.07 1182.31 L 670.57 1184.06 L 674.07 1182.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Eric Tan -->
-    <ellipse class="aabarbvi4" style="display:none" cx="571" cy="608" rx="7.500000000000001" ry="7.500000000000001" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 571 615 L 571 640 M 571 620 L 556 620 M 571 620 L 586 620 M 571 640 L 556 660 M 571 640 L 586 660" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(534.5,666.5)">
+    <ellipse class="aabarbvi4" style="" cx="571" cy="608" rx="7.500000000000001" ry="7.500000000000001" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 571 615 L 571 640 M 571 620 L 556 620 M 571 620 L 586 620 M 571 640 L 556 660 M 571 640 L 586 660" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(534.5,666.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="71" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1025,9 +1025,9 @@
     </g>
 
     <!-- Path of Eric Tan owns Blackstone -->
-    <path class="aabarbvi4" style="display:none" d="M 570.57 600.43 L 570.57 457.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi4" style="display:none" cx="571" cy="455" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(551.5,519.5)">
+    <path class="aabarbvi4" style="" d="M 570.57 600.43 L 570.57 457.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi4" style="" cx="571" cy="455" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(551.5,519.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1039,9 +1039,9 @@
     </g>
 
     <!-- Path of Eric Tan director of Alsen Chance -->
-    <path class="aabarbvi11" style="display:none" d="M 570.57 630.43 L 420.57 630.43 L 420.57 698.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi11" style="display:none" cx="421" cy="702" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi11" style="display:none" transform="translate(432.5,621.5)">
+    <path class="aabarbvi11" style="" d="M 570.57 630.43 L 420.57 630.43 L 420.57 698.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi11" style="" cx="421" cy="702" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi11" style="" transform="translate(432.5,621.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1053,9 +1053,9 @@
     </g>
 
     <!-- US$790,354,855 19/10/2012 -->
-    <path class="aabarbvi2" style="display:none" d="M 600.57 114.71 L 620.57 114.71 L 620.57 207.57 L 606.94 207.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi2" style="display:none" d="M 601.69 207.57 L 608.69 204.07 L 606.94 207.57 L 608.69 211.07 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi2" style="display:none" transform="translate(563.5,144.5)">
+    <path class="aabarbvi2" style="" d="M 600.57 114.71 L 620.57 114.71 L 620.57 207.57 L 606.94 207.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi2" style="" d="M 601.69 207.57 L 608.69 204.07 L 606.94 207.57 L 608.69 211.07 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi2" style="" transform="translate(563.5,144.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1070,8 +1070,8 @@
       </switch>
     </g>
 
-    <rect class="aabarbvi1" style="display:none" x="31" y="0" width="310" height="45" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi1" style="display:none" transform="translate(68.5,5.5)">
+    <rect class="aabarbvi1" style="" x="31" y="0" width="310" height="45" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi1" style="" transform="translate(68.5,5.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="232" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 29px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1083,9 +1083,9 @@
     </g>
 
     <!-- US$637,000,000 25/5-14/12/2012 -->
-    <path class="aabarbvi4" style="display:none" d="M 540.57 251.86 L 540.57 388.35" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi4" style="display:none" d="M 540.57 393.6 L 537.07 386.6 L 540.57 388.35 L 544.07 386.6 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi4" style="display:none" transform="translate(483.5,306.5)">
+    <path class="aabarbvi4" style="" d="M 540.57 251.86 L 540.57 388.35" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi4" style="" d="M 540.57 393.6 L 537.07 386.6 L 540.57 388.35 L 544.07 386.6 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi4" style="" transform="translate(483.5,306.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1100,8 +1100,8 @@
     </g>
 
     <!-- The Wolf of Wall Street -->
-    <rect class="aabarbvi8" style="display:none" x="791" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi8" style="display:none" transform="translate(791.5,979.5)">
+    <rect class="aabarbvi8" style="" x="791" y="980" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi8" style="" transform="translate(791.5,979.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="78" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -1121,9 +1121,9 @@
     </g>
 
     <!-- US$11 mil 10/7/2012 -->
-    <path class="aabarbvi12" style="display:none" d="M 506 931 L 506.29 980.43 L 506.29 1024.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi12" style="display:none" d="M 506.29 1029.31 L 502.79 1022.31 L 506.29 1024.06 L 509.79 1022.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi12" style="display:none" transform="translate(456.5,963.5)">
+    <path class="aabarbvi12" style="" d="M 506 931 L 506.29 980.43 L 506.29 1024.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi12" style="" d="M 506.29 1029.31 L 502.79 1022.31 L 506.29 1024.06 L 509.79 1022.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi12" style="" transform="translate(456.5,963.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1136,13 +1136,13 @@
     </g>
 
     <!-- Path from Alsen Chance to Metropolis poster -->
-    <path class="aabarbvi11" style="display:none" d="M 330.57 731.86 L 266.94 731.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi11" style="display:none" d="M 261.69 731.86 L 268.69 728.36 L 266.94 731.86 L 268.69 735.36 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi11" style="" d="M 330.57 731.86 L 266.94 731.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi11" style="" d="M 261.69 731.86 L 268.69 728.36 L 266.94 731.86 L 268.69 735.36 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$11 mil 10/7/2012 -->
-    <path class="aabarbvi12" style="display:none" d="M 420.57 761.86 L 420.57 816.14 L 480.57 816.14 L 480.57 864.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi12" style="display:none" d="M 480.57 869.31 L 477.07 862.31 L 480.57 864.06 L 484.07 862.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi12" style="display:none" transform="translate(401.5,799.5)">
+    <path class="aabarbvi12" style="" d="M 420.57 761.86 L 420.57 816.14 L 480.57 816.14 L 480.57 864.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi12" style="" d="M 480.57 869.31 L 477.07 862.31 L 480.57 864.06 L 484.07 862.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi12" style="" transform="translate(401.5,799.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1157,9 +1157,9 @@
     </g>
 
     <!-- US$142.25 mil 28/12/2012 -->
-    <path class="aabarbvi13" style="display:none" d="M 360.57 1060.43 L 499.92 1060.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi13" style="display:none" d="M 505.17 1060.43 L 498.17 1063.93 L 499.92 1060.43 L 498.17 1056.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi13" style="display:none" transform="translate(373.5,1043.5)">
+    <path class="aabarbvi13" style="" d="M 360.57 1060.43 L 499.92 1060.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi13" style="" d="M 505.17 1060.43 L 498.17 1063.93 L 499.92 1060.43 L 498.17 1056.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi13" style="" transform="translate(373.5,1043.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1172,9 +1172,9 @@
     </g>
 
     <!-- US$41 mil 21/6-5/11/2012 -->
-    <path class="aabarbvi12" style="display:none" d="M 820.57 731.86 L 456.94 731.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi12" style="display:none" d="M 451.69 731.86 L 458.69 728.36 L 456.94 731.86 L 458.69 735.36 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi12" style="display:none" transform="translate(500.5,714.5)">
+    <path class="aabarbvi12" style="" d="M 820.57 731.86 L 456.94 731.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi12" style="" d="M 451.69 731.86 L 458.69 728.36 L 456.94 731.86 L 458.69 735.36 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi12" style="" transform="translate(500.5,714.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1187,9 +1187,9 @@
     </g>
 
     <!-- Path of Riza owns Red Granite Capital -->
-    <path class="aabarbvi7" style="display:none" d="M 860.57 517.57 L 860.57 624.71 L 860.96 695.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi7" style="display:none" d="M 860.99 700.88 L 857.46 693.9 L 860.96 695.63 L 864.45 693.86 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="aabarbvi7" style="display:none" transform="translate(841.5,610.5)">
+    <path class="aabarbvi7" style="" d="M 860.57 517.57 L 860.57 624.71 L 860.96 695.63" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi7" style="" d="M 860.99 700.88 L 857.46 693.9 L 860.96 695.63 L 864.45 693.86 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="aabarbvi7" style="" transform="translate(841.5,610.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1201,41 +1201,41 @@
     </g>
 
     <!-- Path of MO1 and Riza -->
-    <path class="aabarbvi7" style="display:none" d="M 766.29 515.57 L 860.57 515.57 M 860.57 519.57 L 766.29 519.57 M 860.57 519.57" fill="none" stroke="#4d4d4d" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+    <path class="aabarbvi7" style="" d="M 766.29 515.57 L 860.57 515.57 M 860.57 519.57 L 766.29 519.57 M 860.57 519.57" fill="none" stroke="#4d4d4d" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
 
-    <path class="aabarbvi10" style="display:none" d="M 820.57 747.57 L 650.57 747.57 L 650.57 784.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi10" style="display:none" d="M 650.57 789.31 L 647.07 782.31 L 650.57 784.06 L 654.07 782.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi10" style="" d="M 820.57 747.57 L 650.57 747.57 L 650.57 784.06" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi10" style="" d="M 650.57 789.31 L 647.07 782.31 L 650.57 784.06 L 654.07 782.31 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Red Granite Picture to Daddy's Home -->
-    <path class="aabarbvi8" style="display:none" d="M 770.57 900.43 L 770.57 1114.71 L 784.2 1114.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi8" style="display:none" d="M 789.45 1114.71 L 782.45 1118.21 L 784.2 1114.71 L 782.45 1111.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 770.57 900.43 L 770.57 1114.71 L 784.2 1114.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 789.45 1114.71 L 782.45 1118.21 L 784.2 1114.71 L 782.45 1111.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Red Granite Picture to Dumb and Dumber To -->
-    <path class="aabarbvi8" style="display:none" d="M 770.57 900.43 L 770.57 1210.43 L 784.2 1210.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi8" style="display:none" d="M 789.45 1210.43 L 782.45 1213.93 L 784.2 1210.43 L 782.45 1206.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 770.57 900.43 L 770.57 1210.43 L 784.2 1210.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 789.45 1210.43 L 782.45 1213.93 L 784.2 1210.43 L 782.45 1206.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Red Granite Picture to The Wolf of Wall Street -->
-    <path class="aabarbvi8" style="display:none" d="M 770.57 900.43 L 770.57 1020.43 L 784.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi8" style="display:none" d="M 789.45 1020.43 L 782.45 1023.93 L 784.2 1020.43 L 782.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 770.57 900.43 L 770.57 1020.43 L 784.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi8" style="" d="M 789.45 1020.43 L 782.45 1023.93 L 784.2 1020.43 L 782.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Shearman to Qentas Townhouse -->
-    <path class="aabarbvi9" style="display:none" d="M 950.57 900.43 L 950.57 1114.71 L 964.2 1114.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi9" style="display:none" d="M 969.45 1114.71 L 962.45 1118.21 L 964.2 1114.71 L 962.45 1111.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 950.57 900.43 L 950.57 1114.71 L 964.2 1114.71" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 969.45 1114.71 L 962.45 1118.21 L 964.2 1114.71 L 962.45 1111.21 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Shearman to Hillcrest Property 1 -->
-    <path class="aabarbvi9" style="display:none" d="M 950.57 900.43 L 950.57 1210.43 L 964.2 1210.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi9" style="display:none" d="M 969.45 1210.43 L 962.45 1213.93 L 964.2 1210.43 L 962.45 1206.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 950.57 900.43 L 950.57 1210.43 L 964.2 1210.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 969.45 1210.43 L 962.45 1213.93 L 964.2 1210.43 L 962.45 1206.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Shearman to Park Laurel Condominium -->
-    <path class="aabarbvi9" style="display:none" d="M 950.57 900.43 L 950.57 1020.43 L 964.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi9" style="display:none" d="M 969.45 1020.43 L 962.45 1023.93 L 964.2 1020.43 L 962.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 950.57 900.43 L 950.57 1020.43 L 964.2 1020.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi9" style="" d="M 969.45 1020.43 L 962.45 1023.93 L 964.2 1020.43 L 962.45 1016.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <path d="M 570.57 70.43 L 570.57 70.43" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 570.57 70.43 L 570.57 70.43 L 570.57 70.43 L 570.57 70.43 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path of Mohamed to Aabar-BVI -->
-    <path class="aabarbvi3" style="display:none" d="M 206.29 221.86 L 477.57 221.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi3" style="display:none" cx="481" cy="222" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(316.5,213.5)">
+    <path class="aabarbvi3" style="" d="M 206.29 221.86 L 477.57 221.86" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi3" style="" cx="481" cy="222" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(316.5,213.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1247,9 +1247,9 @@
     </g>
 
     <!-- Path of Khadem to Aabar BVI   -->
-    <path class="aabarbvi3" style="display:none" d="M 99.14 299 L 320.57 299 L 320.57 237.57 L 477.57 237.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="aabarbvi3" style="display:none" cx="481" cy="238" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi3" style="display:none" transform="translate(293.5,290.5)">
+    <path class="aabarbvi3" style="" d="M 99.14 299 L 320.57 299 L 320.57 237.57 L 477.57 237.57" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="aabarbvi3" style="" cx="481" cy="238" rx="3" ry="3" fill="#d79b00" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi3" style="" transform="translate(293.5,290.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="53" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1261,8 +1261,8 @@
     </g>
 
     <!-- Laurel Beverly Hills Mansion -->
-    <rect class="aabarbvi5" style="display:none" x="46" y="1050" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(46.5,1051.5)">
+    <rect class="aabarbvi5" style="" x="46" y="1050" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(46.5,1051.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -1275,8 +1275,8 @@
     </g>
 
     <!-- Hillcrest Property 2 -->
-    <rect class="aabarbvi5" style="display:none" x="46" y="1140" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(47.5,1150.5)">
+    <rect class="aabarbvi5" style="" x="46" y="1140" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(47.5,1150.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="135" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 135px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -1289,8 +1289,8 @@
     </g>
 
     <!-- Walker Tower Penthouse -->
-    <rect class="aabarbvi5" style="display:none" x="46" y="960" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
-    <g class="aabarbvi5" style="display:none" transform="translate(46.5,961.5)">
+    <rect class="aabarbvi5" style="" x="46" y="960" width="140" height="80" fill="#ffe6cc" stroke="#d79b00" pointer-events="none"/>
+    <g class="aabarbvi5" style="" transform="translate(46.5,961.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="137" height="75" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 137px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -1303,15 +1303,15 @@
     </g>
 
     <!-- Path of Vasco Investments to Walker Tower Penthouse -->
-    <path class="aabarbvi5" style="display:none" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1000.43 L 39.92 1000.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 45.17 1000.43 L 38.17 1003.93 L 39.92 1000.43 L 38.17 996.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1000.43 L 39.92 1000.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 45.17 1000.43 L 38.17 1003.93 L 39.92 1000.43 L 38.17 996.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path of Vasco Investments to Laurel Beverly Hills Mansion -->
-    <path class="aabarbvi5" style="display:none" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1090.43 L 39.92 1090.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 45.17 1090.43 L 38.17 1093.93 L 39.92 1090.43 L 38.17 1086.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1090.43 L 39.92 1090.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 45.17 1090.43 L 38.17 1093.93 L 39.92 1090.43 L 38.17 1086.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path of Vasco Investments to Hillcrest Property 2 -->
-    <path class="aabarbvi5" style="display:none" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1180.43 L 39.92 1180.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="aabarbvi5" style="display:none" d="M 45.17 1180.43 L 38.17 1183.93 L 39.92 1180.43 L 38.17 1176.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/></g>
+    <path class="aabarbvi5" style="" d="M 30.57 611.86 L 10.57 611.86 L 10.57 1180.43 L 39.92 1180.43" fill="none" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="aabarbvi5" style="" d="M 45.17 1180.43 L 38.17 1183.93 L 39.92 1180.43 L 38.17 1176.93 Z" fill="#d79b00" stroke="#d79b00" stroke-miterlimit="10" pointer-events="none"/></g>
 
 </svg>

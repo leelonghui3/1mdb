@@ -159,58 +159,22 @@ $(document).ready(function() {
         $(path6).fadeIn(4800);
       } else {
         console.log('buyback8 up');
-        $(deutsche).fadeOut('slow');
-        $(path1).fadeOut('slow');
-        $(aabar).fadeOut('slow');
-        $(path2).fadeOut('slow');
-        $(lambasa).fadeOut('slow');
-        $(path3).fadeOut('slow');
-        $(bridge).fadeOut('slow');
-        $(path4).fadeOut('slow');
-        $(brazen).fadeOut('slow');
-        $(path5).fadeOut('slow');
-        $(onemdb).fadeOut('slow');
-        $(path6).fadeOut('slow');
+        $(deutsche).fadeOut('fast');
+        $(path1).fadeOut('fast');
+        $(aabar).fadeOut('fast');
+        $(path2).fadeOut('fast');
+        $(lambasa).fadeOut('fast');
+        $(path3).fadeOut('fast');
+        $(bridge).fadeOut('fast');
+        $(path4).fadeOut('fast');
+        $(brazen).fadeOut('fast');
+        $(path5).fadeOut('fast');
+        $(onemdb).fadeOut('fast');
+        $(path6).fadeOut('fast');
 
       }
     }
   }, {
     offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
   });
-
-  // new Waypoint({
-  //   element: document.getElementById('buyback-9'),
-  //   handler: function(direction) {
-  //     var a = document.getElementById('cycle-svg');
-  //     var svgDoc = a.contentDocument;
-  //     var svgItem = svgDoc.getElementsByClassName("buyback9");
-  //     if (direction == 'down') {
-  //       console.log('buyback9 down');
-  //       $(svgItem).fadeIn('slow');
-  //     } else {
-  //       console.log('buyback9 up');
-  //       $(svgItem).fadeOut('slow');
-  //     }
-  //   }
-  // }, {
-  //   offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
-  // });
-
-  // new Waypoint({
-  //   element: document.getElementById('buyback-10'),
-  //   handler: function(direction) {
-  //     var a = document.getElementById('buyback-svg');
-  //     var svgDoc = a.contentDocument;
-  //     var svgItem = svgDoc.getElementsByClassName("buyback10");
-  //     if (direction == 'down') {
-  //       console.log('buyback10 down');
-  //       $(svgItem).fadeIn('slow');
-  //     } else {
-  //       console.log('buyback10 up');
-  //       $(svgItem).fadeOut('slow');
-  //     }
-  //   }
-  // }, {
-  //   offset: Math.max(document.documentElement.clientHeight, window.innerHeight || 0) - 100
-  // });
 });

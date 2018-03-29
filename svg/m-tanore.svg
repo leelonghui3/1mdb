@@ -14,9 +14,9 @@
   <g transform="translate(0.5,0.5)">
 
     <!-- Jho Low -->
-    <ellipse class="tanore4" style="display:none" cx="551" cy="708" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 551 715 L 551 740 M 551 720 L 536 720 M 551 720 L 566 720 M 551 740 L 536 760 M 551 740 L 566 760" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(519.5,766.5)">
+    <ellipse class="tanore4" style="" cx="551" cy="708" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 551 715 L 551 740 M 551 720 L 536 720 M 551 720 L 566 720 M 551 740 L 536 760 M 551 740 L 566 760" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(519.5,766.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -28,9 +28,9 @@
     </g>
 
     <!-- US$93 mil 13/9/2013 -->
-    <path class="tanore5" style="display:none" d="M 476.18 629.76 L 511.47 629.76 L 511.47 706.24 L 536.87 706.24" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 542.12 706.24 L 535.12 709.74 L 536.87 706.24 L 535.12 702.74 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(461.5,663.5)">
+    <path class="tanore5" style="" d="M 476.18 629.76 L 511.47 629.76 L 511.47 706.24 L 536.87 706.24" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 542.12 706.24 L 535.12 709.74 L 536.87 706.24 L 535.12 702.74 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(461.5,663.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -44,9 +44,9 @@
     </g>
 
     <!-- US$205.9 mil 26/12/2013 -->
-    <path class="tanore5" style="display:none" d="M 451.47 1120.35 L 451.47 940.35 L 551.47 940.35 L 551.47 736.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 551.47 730.88 L 554.97 737.88 L 551.47 736.13 L 547.97 737.88 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(431.5,923.5)">
+    <path class="tanore5" style="" d="M 451.47 1120.35 L 451.47 940.35 L 551.47 940.35 L 551.47 736.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 551.47 730.88 L 554.97 737.88 L 551.47 736.13 L 547.97 737.88 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(431.5,923.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -63,9 +63,9 @@
     </g>
 
     <!-- US$145 mil 5-6/11/2013 -->
-    <path class="tanore5" style="display:none" d="M 271.47 420.35 L 271.47 489.76 L 271.47 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 271.47 539.23 L 267.97 532.23 L 271.47 533.98 L 274.97 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(251.5,483.5)">
+    <path class="tanore5" style="" d="M 271.47 420.35 L 271.47 489.76 L 271.47 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 271.47 539.23 L 267.97 532.23 L 271.47 533.98 L 274.97 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(251.5,483.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -78,9 +78,9 @@
     </g>
 
     <!-- US$378 mil 25/3/2013 -->
-    <path class="tanore5" style="display:none" d="M 240.88 420.35 L 240.88 480.35 L 240.88 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none"  d="M 240.88 539.23 L 237.38 532.23 L 240.88 533.98 L 244.38 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(147.5,432.5)">
+    <path class="tanore5" style="" d="M 240.88 420.35 L 240.88 480.35 L 240.88 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style=""  d="M 240.88 539.23 L 237.38 532.23 L 240.88 533.98 L 244.38 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(147.5,432.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -93,16 +93,16 @@
     </g>
 
     <!-- Path from Enterprise to Tanore -->
-    <path class="tanore1" style="display:none" d="M 680.88 220.35 L 680.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 680.88 220.35 L 680.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Devonshire to Tanore -->
-    <path class="tanore1" style="display:none" d="M 420.88 220.35 L 420.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 420.88 220.35 L 420.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- 1MDB -->
-    <rect class="tanore1" style="display:none" x="491" y="20" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(521.5,37.5)">
+    <rect class="tanore1" style="" x="491" y="20" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(521.5,37.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -116,8 +116,8 @@
     </g>
 
     <!-- Devonshire -->
-    <rect class="tanore1" style="display:none" x="331" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(335.5,177.5)">
+    <rect class="tanore1" style="" x="331" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(335.5,177.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="109" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -133,8 +133,8 @@
     </g>
 
     <!-- Enterprise -->
-    <rect class="tanore1" style="display:none" x="651" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(660.5,177.5)">
+    <rect class="tanore1" style="" x="651" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(660.5,177.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="99" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -150,8 +150,8 @@
     </g>
 
     <!-- Cistenique -->
-    <rect class="tanore1" style="display:none" x="491" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(498.5,177.5)">
+    <rect class="tanore1" style="" x="491" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(498.5,177.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -167,9 +167,9 @@
     </g>
 
     <!-- US$163 mil 30/8/2013 -->
-    <path class="tanore9" style="display:none" d="M 520.88 360.35 L 520.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 520.88 221.47 L 524.38 228.47 L 520.88 226.72 L 517.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(467.5,232.5)">
+    <path class="tanore9" style="" d="M 520.88 360.35 L 520.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 520.88 221.47 L 524.38 228.47 L 520.88 226.72 L 517.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(467.5,232.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -182,8 +182,8 @@
     </g>
 
     <!-- Tanore -->
-    <rect class="tanore1" style="display:none" x="491" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(517.5,377.5)">
+    <rect class="tanore1" style="" x="491" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(517.5,377.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="65" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -197,9 +197,9 @@
     </g>
 
     <!-- US$531,090,534 21-22/3/2013 -->
-    <path class="tanore1" style="display:none" d="M 551.47 80.35 L 551.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 551.47 159.23 L 547.97 152.23 L 551.47 153.98 L 554.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(494.5,103.5)">
+    <path class="tanore1" style="" d="M 551.47 80.35 L 551.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 159.23 L 547.97 152.23 L 551.47 153.98 L 554.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(494.5,103.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -214,9 +214,9 @@
     </g>
 
     <!-- US$414,756,416 21-27/3/2013 -->
-    <path class="tanore1" style="display:none" d="M 611.47 49.76 L 711.47 49.76 L 711.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 711.47 159.23 L 707.97 152.23 L 711.47 153.98 L 714.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(654.5,38.5)">
+    <path class="tanore1" style="" d="M 611.47 49.76 L 711.47 49.76 L 711.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 711.47 159.23 L 707.97 152.23 L 711.47 153.98 L 714.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(654.5,38.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -231,9 +231,9 @@
     </g>
 
     <!-- US$835 mil -->
-    <path class="tanore1" style="display:none" d="M 551.47 220.35 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(497.5,312.5)">
+    <path class="tanore1" style="" d="M 551.47 220.35 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(497.5,312.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -246,8 +246,8 @@
     </g>
 
     <!-- Granton -->
-    <rect class="tanore1" style="display:none" x="211" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(230.5,377.5)">
+    <rect class="tanore1" style="" x="211" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(230.5,377.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="78" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -261,9 +261,9 @@
     </g>
 
     <!-- US$646,464,649 21/3/2013 -->
-    <path class="tanore1" style="display:none" d="M 491.47 49.76 L 391.47 49.76 L 391.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 391.47 159.23 L 387.97 152.23 L 391.47 153.98 L 394.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(334.5,38.5)">
+    <path class="tanore1" style="" d="M 491.47 49.76 L 391.47 49.76 L 391.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 391.47 159.23 L 387.97 152.23 L 391.47 153.98 L 394.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(334.5,38.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -278,9 +278,9 @@
     </g>
 
     <!-- US$430 mil 21/3/2013 -->
-    <path class="tanore1" style="display:none" d="M 360.88 220.35 L 360.88 289.76 L 271.47 289.76 L 271.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 271.47 359.23 L 267.97 352.23 L 271.47 353.98 L 274.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(261.5,272.5)">
+    <path class="tanore1" style="" d="M 360.88 220.35 L 360.88 289.76 L 271.47 289.76 L 271.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 271.47 359.23 L 267.97 352.23 L 271.47 353.98 L 274.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(261.5,272.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -293,8 +293,8 @@
     </g>
 
     <!-- Dragon Market -->
-    <rect class="tanore5" style="display:none" x="211" y="540" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(211.5,545.5)">
+    <rect class="tanore5" style="" x="211" y="540" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,545.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -308,9 +308,9 @@
     </g>
 
     <!-- US$681 mil 21/25/3/2013 -->
-    <path class="tanore2" style="display:none" d="M 611.47 389.76 L 671.47 389.76 L 671.47 340.35 L 805.59 340.35 L 805.59 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore2" style="display:none" d="M 805.59 61.47 L 809.09 68.47 L 805.59 66.72 L 802.09 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore2" style="display:none" transform="translate(752.5,323.5)">
+    <path class="tanore2" style="" d="M 611.47 389.76 L 671.47 389.76 L 671.47 340.35 L 805.59 340.35 L 805.59 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore2" style="" d="M 805.59 61.47 L 809.09 68.47 L 805.59 66.72 L 802.09 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore2" style="" transform="translate(752.5,323.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -323,9 +323,9 @@
     </g>
 
     <!-- MO1 -->
-    <ellipse class="tanore2" style="display:none" cx="806" cy="37" rx="7.5" ry="7.5" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
-    <path class="tanore2" style="display:none" d="M 806 45 L 806 70 M 806 50 L 791 50 M 806 50 L 821 50 M 806 70 L 791 90 M 806 70 L 821 90" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore2" style="display:none" transform="translate(788.5,96.5)">
+    <ellipse class="tanore2" style="" cx="806" cy="37" rx="7.5" ry="7.5" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
+    <path class="tanore2" style="" d="M 806 45 L 806 70 M 806 50 L 791 50 M 806 50 L 821 50 M 806 70 L 791 90 M 806 70 L 821 90" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore2" style="" transform="translate(788.5,96.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #762a83; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -337,8 +337,8 @@
     </g>
 
     <!-- Ryden Work -->
-    <rect class="tanore4" style="display:none" x="921" y="670" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(924.5,673.5)">
+    <rect class="tanore4" style="" x="921" y="670" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(924.5,673.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -353,8 +353,8 @@
     </g>
 
     <!-- Ruscha Work -->
-    <rect class="tanore4" style="display:none" x="921" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(933.5,460.5)">
+    <rect class="tanore4" style="" x="921" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(933.5,460.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 93px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -369,8 +369,8 @@
     </g>
 
     <!-- Fontana piece -->
-    <rect class="tanore4" style="display:none" x="921" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(924.5,603.5)">
+    <rect class="tanore4" style="" x="921" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(924.5,603.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -385,8 +385,8 @@
     </g>
 
     <!-- Rothko piece -->
-    <rect class="tanore4" style="display:none" x="921" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(923.5,534.5)">
+    <rect class="tanore4" style="" x="921" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(923.5,534.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -401,8 +401,8 @@
     </g>
 
     <!-- Dustheads -->
-    <rect class="tanore4" style="display:none" x="778.5" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(781.5,530.5)">
+    <rect class="tanore4" style="" x="778.5" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(781.5,530.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -417,8 +417,8 @@
     </g>
 
     <!-- Calder Standing Mobile -->
-    <rect class="tanore4" style="display:none" x="778.5" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(778.5,456.5)">
+    <rect class="tanore4" style="" x="778.5" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(778.5,456.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -433,8 +433,8 @@
     </g>
 
     <!-- Tic Tac Toe -->
-    <rect class="tanore4" style="display:none" x="778.5" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(786.5,600.5)">
+    <rect class="tanore4" style="" x="778.5" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(786.5,600.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -449,21 +449,21 @@
     </g>
 
     <!-- Path from Tanore to Ryden work -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 700.35 L 1047.25 700.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 1042 700.35 L 1049 696.85 L 1047.25 700.35 L 1049 703.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 700.35 L 1047.25 700.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 700.35 L 1049 696.85 L 1047.25 700.35 L 1049 703.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Tanore to Ruscha work -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 489.76 L 1047.25 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 1042 489.76 L 1049 486.26 L 1047.25 489.76 L 1049 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 489.76 L 1047.25 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 489.76 L 1049 486.26 L 1047.25 489.76 L 1049 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Tanore to Calder Standing Mobile -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 489.76 L 904.9 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 899.65 489.76 L 906.65 486.26 L 904.9 489.76 L 906.65 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 489.76 L 904.9 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 489.76 L 906.65 486.26 L 904.9 489.76 L 906.65 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- McFarland -->
-    <ellipse class="tanore4" style="display:none" cx="981" cy="768" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 981 775 L 981 800 M 981 780 L 966 780 M 981 780 L 996 780 M 981 800 L 966 820 M 981 800 L 996 820" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore4" style="display:none" transform="translate(942.5,826.5)">
+    <ellipse class="tanore4" style="" cx="981" cy="768" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 981 775 L 981 800 M 981 780 L 966 780 M 981 780 L 996 780 M 981 800 L 966 820 M 981 800 L 996 820" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(942.5,826.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="75" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -475,9 +475,9 @@
     </g>
 
     <!-- Eric Tan -->
-    <ellipse class="tanore1" style="display:none" cx="436" cy="478" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 436 485 L 436 510 M 436 490 L 421 490 M 436 490 L 451 490 M 436 510 L 421 530 M 436 510 L 451 530" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(399.5,536.5)">
+    <ellipse class="tanore1" style="" cx="436" cy="478" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 436 485 L 436 510 M 436 490 L 421 490 M 436 490 L 451 490 M 436 510 L 421 530 M 436 510 L 451 530" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(399.5,536.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="71" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -489,13 +489,13 @@
     </g>
 
     <!-- Path from Ryden work to McFarland -->
-    <path class="tanore4" style="display:none" d="M 980.88 729.76 L 980.88 753.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 980.88 759.23 L 977.38 752.23 L 980.88 753.98 L 984.38 752.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 980.88 729.76 L 980.88 753.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 980.88 759.23 L 977.38 752.23 L 980.88 753.98 L 984.38 752.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$476.3 mil 8/11/2013 -->
-    <path class="tanore5" style="display:none" d="M 211.47 585.06 L 191.47 585.06 L 191.47 729.76 L 205.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 210.35 729.76 L 203.35 733.26 L 205.1 729.76 L 203.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(131.5,632.5)">
+    <path class="tanore5" style="" d="M 211.47 585.06 L 191.47 585.06 L 191.47 729.76 L 205.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 210.35 729.76 L 203.35 733.26 L 205.1 729.76 L 203.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(131.5,632.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -508,9 +508,9 @@
     </g>
 
     <!-- Larry Low -->
-    <ellipse class="tanore5" style="display:none" cx="341" cy="858" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 341 865 L 341 890 M 341 870 L 326 870 M 341 870 L 356 870 M 341 890 L 326 910 M 341 890 L 356 910" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(303.5,916.5)">
+    <ellipse class="tanore5" style="" cx="341" cy="858" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 341 865 L 341 890 M 341 870 L 326 870 M 341 870 L 356 870 M 341 890 L 326 910 M 341 890 L 356 910" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(303.5,916.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="72" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -522,29 +522,29 @@
     </g>
 
     <!-- Path from Jho Low to Van Gogh Artwork -->
-    <path class="tanore6" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 800.35 L 772.16 800.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 777.41 800.35 L 770.41 803.85 L 772.16 800.35 L 770.41 796.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 800.35 L 772.16 800.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 800.35 L 770.41 803.85 L 772.16 800.35 L 770.41 796.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Jho Low to Saint Georges Painting -->
-    <path class="tanore6" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 869.76 L 772.16 869.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 777.41 869.76 L 770.41 873.26 L 772.16 869.76 L 770.41 866.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 869.76 L 772.16 869.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 869.76 L 770.41 873.26 L 772.16 869.76 L 770.41 866.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Jho Low to Nympheas Painting -->
-    <path class="tanore6" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 940.35 L 772.16 940.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 777.41 940.35 L 770.41 943.85 L 772.16 940.35 L 770.41 936.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 940.35 L 772.16 940.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 940.35 L 770.41 943.85 L 772.16 940.35 L 770.41 936.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Jho Low to Stratton office -->
-    <path class="tanore6" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1009.76 L 772.16 1009.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 777.41 1009.76 L 770.41 1013.26 L 772.16 1009.76 L 770.41 1006.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1009.76 L 772.16 1009.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 1009.76 L 770.41 1013.26 L 772.16 1009.76 L 770.41 1006.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Jho Low to The Equanimity -->
-    <path class="tanore8" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1149.76 L 772.16 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore8" style="display:none" d="M 777.41 1149.76 L 770.41 1153.26 L 772.16 1149.76 L 770.41 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore8" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1149.76 L 772.16 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore8" style="" d="M 777.41 1149.76 L 770.41 1153.26 L 772.16 1149.76 L 770.41 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$569,102,534 12/11/2013-4/2/2014 -->
-    <path class="tanore5" style="display:none" d="M 347.94 855.65 L 536.18 855.65 L 536.18 766.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 536.18 761.47 L 539.68 768.47 L 536.18 766.72 L 532.68 768.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(380.5,838.5)">
+    <path class="tanore5" style="" d="M 347.94 855.65 L 536.18 855.65 L 536.18 766.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 536.18 761.47 L 539.68 768.47 L 536.18 766.72 L 532.68 768.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(380.5,838.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="138" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -557,9 +557,9 @@
     </g>
 
     <!-- Low Teck Szen -->
-    <ellipse class="tanore5" style="display:none" cx="236" cy="1128" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 236 1135 L 236 1160 M 236 1140 L 221 1140 M 236 1140 L 251 1140 M 236 1160 L 221 1180 M 236 1160 L 251 1180" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(181.5,1186.5)">
+    <ellipse class="tanore5" style="" cx="236" cy="1128" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 236 1135 L 236 1160 M 236 1140 L 221 1140 M 236 1140 L 251 1140 M 236 1160 L 221 1180 M 236 1160 L 251 1180" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(181.5,1186.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -573,8 +573,8 @@
     </g>
 
     <!-- DLA Piper -->
-    <rect class="tanore5" style="display:none" x="391" y="1120" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(401.5,1137.5)">
+    <rect class="tanore5" style="" x="391" y="1120" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(401.5,1137.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -588,8 +588,8 @@
     </g>
 
     <!-- Park Lane Hotel -->
-    <rect class="tanore7" style="display:none" x="391" y="1340" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(391.5,1345.5)">
+    <rect class="tanore7" style="" x="391" y="1340" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(391.5,1345.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -603,8 +603,8 @@
     </g>
 
     <!-- Dragon Dynasty -->
-    <rect class="tanore5" style="display:none" x="211" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(211.5,705.5)">
+    <rect class="tanore5" style="" x="211" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,705.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -620,9 +620,9 @@
     </g>
 
     <!-- Mohamed -->
-    <ellipse class="tanore7" style="display:none" cx="636" cy="1263" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore7" style="display:none" d="M 636 1270 L 636 1295 M 636 1275 L 621 1275 M 636 1275 L 651 1275 M 636 1295 L 621 1315 M 636 1295 L 651 1315" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(599.5,1321.5)">
+    <ellipse class="tanore7" style="" cx="636" cy="1263" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 636 1270 L 636 1295 M 636 1275 L 621 1275 M 636 1275 L 651 1275 M 636 1295 L 621 1315 M 636 1295 L 651 1315" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(599.5,1321.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="70" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -634,8 +634,8 @@
     </g>
 
     <!-- ADKMIC -->
-    <rect class="tanore5" style="display:none" x="356" y="600" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(374.5,617.5)">
+    <rect class="tanore5" style="" x="356" y="600" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(374.5,617.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -651,9 +651,9 @@
     </g>
 
     <!-- US$12.5 mil 12/11/2013 -->
-    <path class="tanore5" style="display:none" d="M 340.88 880.35 L 340.88 980.35 L 236.18 980.35 L 236.18 1113.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 236.18 1119.23 L 232.68 1112.23 L 236.18 1113.98 L 239.68 1112.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(235.5,963.5)">
+    <path class="tanore5" style="" d="M 340.88 880.35 L 340.88 980.35 L 236.18 980.35 L 236.18 1113.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 236.18 1119.23 L 232.68 1112.23 L 236.18 1113.98 L 239.68 1112.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(235.5,963.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -664,7 +664,7 @@
         <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
       </switch>
     </g>
-    <g class="tanore5" style="display:none" transform="translate(179.5,1053.5)">
+    <g class="tanore5" style="" transform="translate(179.5,1053.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -677,9 +677,9 @@
     </g>
 
     <!-- US$202,206,876.48 25/11/2013 -->
-    <path class="tanore7" style="display:none" d="M 451.47 1180.35 L 451.47 1333.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore7" style="display:none" d="M 451.47 1339.23 L 447.97 1332.23 L 451.47 1333.98 L 454.97 1332.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(383.5,1243.5)">
+    <path class="tanore7" style="" d="M 451.47 1180.35 L 451.47 1333.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 451.47 1339.23 L 447.97 1332.23 L 451.47 1333.98 L 454.97 1332.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(383.5,1243.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="134" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -693,9 +693,9 @@
     </g>
 
     <!-- US$2,956,162.03 11/2/2016 -->
-    <path class="tanore7" style="display:none" d="M 778.53 1385.06 L 517.84 1385.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore7" style="display:none" d="M 512.59 1385.06 L 519.59 1381.56 L 517.84 1385.06 L 519.59 1388.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(585.5,1368.5)">
+    <path class="tanore7" style="" d="M 778.53 1385.06 L 517.84 1385.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 512.59 1385.06 L 519.59 1381.56 L 517.84 1385.06 L 519.59 1388.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(585.5,1368.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -708,8 +708,8 @@
     </g>
 
     <!-- Symphony -->
-    <rect class="tanore7" style="display:none" x="778.5" y="1340" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(778.5,1339.5)">
+    <rect class="tanore7" style="" x="778.5" y="1340" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(778.5,1339.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -725,9 +725,9 @@
     </g><path d="M 636.18 1285.06 L 636.18 1285.06" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 636.18 1285.06 L 636.18 1285.06 L 636.18 1285.06 L 636.18 1285.06 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$93 mil 13/9/2013 -->
-    <path class="tanore5" style="display:none" d="M 300.88 700.35 L 300.88 629.76 L 349.81 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 355.06 629.76 L 348.06 633.26 L 349.81 629.76 L 348.06 626.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(251.5,652.5)">
+    <path class="tanore5" style="" d="M 300.88 700.35 L 300.88 629.76 L 349.81 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 355.06 629.76 L 348.06 633.26 L 349.81 629.76 L 348.06 626.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(251.5,652.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -740,8 +740,8 @@
     </g>
 
     <!-- Nymphéas Painting -->
-    <rect class="tanore6" style="display:none" x="778.5" y="910" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(778.5,906.5)">
+    <rect class="tanore6" style="" x="778.5" y="910" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,906.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -755,8 +755,8 @@
     </g>
 
     <!-- Saint Georges Painting -->
-    <rect class="tanore6" style="display:none" x="778.5" y="840" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(778.5,839.5)">
+    <rect class="tanore6" style="" x="778.5" y="840" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,839.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="59" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -770,8 +770,8 @@
     </g>
 
     <!-- Van Gogh Artwork -->
-    <rect class="tanore6" style="display:none" x="778.5" y="770" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(780.5,774.5)">
+    <rect class="tanore6" style="" x="778.5" y="770" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(780.5,774.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -785,16 +785,16 @@
     </g>
 
     <!-- Path from Tanore to Dustheads -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 560.35 L 904.9 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 899.65 560.35 L 906.65 556.85 L 904.9 560.35 L 906.65 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 560.35 L 904.9 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 560.35 L 906.65 556.85 L 904.9 560.35 L 906.65 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Tanore to Tic Tac Toe -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 629.76 L 904.9 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 899.65 629.76 L 906.65 626.26 L 904.9 629.76 L 906.65 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 629.76 L 904.9 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 629.76 L 906.65 626.26 L 904.9 629.76 L 906.65 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- SRG -->
-    <rect class="tanore5" style="display:none" x="71" y="850" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(108.5,867.5)">
+    <rect class="tanore5" style="" x="71" y="850" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(108.5,867.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="43" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -808,8 +808,8 @@
     </g>
 
     <!-- Condor Acquisition -->
-    <rect class="tanore5" style="display:none" x="1" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(1.5,697.5)">
+    <rect class="tanore5" style="" x="1" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(1.5,697.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="63" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -825,8 +825,8 @@
     </g>
 
     <!-- CEPSA -->
-    <rect class="tanore5" style="display:none" x="1" y="990" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(25.5,1007.5)">
+    <rect class="tanore5" style="" x="1" y="990" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(25.5,1007.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="69" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -841,9 +841,9 @@
     </g>
 
     <!-- US$350 mil 27/1/2013 -->
-    <path class="tanore5" style="display:none" d="M 191.47 894.47 L 258.53 894.47 L 258.53 909.76 L 319.22 909.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 324.47 909.76 L 317.47 913.26 L 319.22 909.76 L 317.47 906.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(208.5,886.5)">
+    <path class="tanore5" style="" d="M 191.47 894.47 L 258.53 894.47 L 258.53 909.76 L 319.22 909.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 324.47 909.76 L 317.47 913.26 L 319.22 909.76 L 317.47 906.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(208.5,886.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -856,9 +856,9 @@
     </g>
 
     <!-- US$55.5 mil -->
-    <path class="tanore5" style="display:none" d="M 160.88 849.76 L 161 849.76 L 161 729.76 L 127.25 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 122 729.76 L 129 726.26 L 127.25 729.76 L 129 733.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(105.5,772.5)">
+    <path class="tanore5" style="" d="M 160.88 849.76 L 161 849.76 L 161 729.76 L 127.25 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 122 729.76 L 129 726.26 L 127.25 729.76 L 129 733.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(105.5,772.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -871,9 +871,9 @@
     </g>
 
     <!-- US$50,003,611 24/1/2014 -->
-    <path class="tanore5" style="display:none" d="M 31.47 760.35 L 31.47 875.06 L 31.47 983.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 31.47 988.65 L 27.97 981.65 L 31.47 983.4 L 34.97 981.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(-0.5,932.5)">
+    <path class="tanore5" style="" d="M 31.47 760.35 L 31.47 875.06 L 31.47 983.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 31.47 988.65 L 27.97 981.65 L 31.47 983.4 L 34.97 981.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(-0.5,932.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -886,9 +886,9 @@
     </g>
 
     <!-- US$350 mil -->
-    <path class="tanore5" style="display:none" d="M 120.88 1020.35 L 161 1020.35 L 161 909.76 L 160.89 916.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 160.88 910.88 L 164.39 917.88 L 160.89 916.13 L 157.39 917.89 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(107.5,952.5)">
+    <path class="tanore5" style="" d="M 120.88 1020.35 L 161 1020.35 L 161 909.76 L 160.89 916.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 160.88 910.88 L 164.39 917.88 L 160.89 916.13 L 157.39 917.89 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(107.5,952.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -901,9 +901,9 @@
     </g>
 
     <!-- US$55.5 mil -->
-    <path class="tanore5" style="display:none" d="M 333.82 855.65 L 263.24 855.65 L 263.24 865.06 L 197.84 865.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 192.59 865.06 L 199.59 861.56 L 197.84 865.06 L 199.59 868.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(211.5,845.5)">
+    <path class="tanore5" style="" d="M 333.82 855.65 L 263.24 855.65 L 263.24 865.06 L 197.84 865.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 192.59 865.06 L 199.59 861.56 L 197.84 865.06 L 199.59 868.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,845.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -916,8 +916,8 @@
     </g>
 
     <!-- Stratton Office -->
-    <rect class="tanore6" style="display:none" x="778.5" y="980" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(785.5,983.5)">
+    <rect class="tanore6" style="" x="778.5" y="980" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(785.5,983.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -930,8 +930,8 @@
       </switch>
     </g>
 
-    <rect class="tanore8" style="display:none" x="778.5" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore8" style="display:none" transform="translate(780.5,1123.5)">
+    <rect class="tanore8" style="" x="778.5" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(780.5,1123.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -945,8 +945,8 @@
     </g>
 
     <!-- Sotheby's Financial Services -->
-    <rect class="tanore8" style="display:none" x="361" y="770" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore8" style="display:none" transform="translate(361.5,776.5)">
+    <rect class="tanore8" style="" x="361" y="770" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(361.5,776.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="44" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -963,9 +963,9 @@
     </g>
 
     <!-- US$105,188,722 10/4/2014 -->
-    <path class="tanore8" style="display:none" d="M 420.88 769.76 L 421 769.76 L 421 729.76 L 545.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore8" style="display:none" d="M 550.35 729.76 L 543.35 733.26 L 545.1 729.76 L 543.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore8" style="display:none" transform="translate(383.5,712.5)">
+    <path class="tanore8" style="" d="M 420.88 769.76 L 421 769.76 L 421 729.76 L 545.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore8" style="" d="M 550.35 729.76 L 543.35 733.26 L 545.1 729.76 L 543.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(383.5,712.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -980,9 +980,9 @@
     </g>
 
     <!-- US$1.25 mil 27/12/2013 -->
-    <path class="tanore7" style="display:none" d="M 511.47 1149.76 L 636 1149.76 L 636 1254.47 L 636.17 1248.1" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore7" style="display:none" d="M 636.17 1253.35 L 632.66 1246.36 L 636.17 1248.1 L 639.66 1246.35 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(535.5,1132.5)">
+    <path class="tanore7" style="" d="M 511.47 1149.76 L 636 1149.76 L 636 1254.47 L 636.17 1248.1" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 636.17 1253.35 L 632.66 1246.36 L 636.17 1248.1 L 639.66 1246.35 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(535.5,1132.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -995,8 +995,8 @@
     </g>
 
     <!-- Flywheel -->
-    <rect class="tanore10" style="display:none" x="1" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore10" style="display:none" transform="translate(2.5,1120.5)">
+    <rect class="tanore10" style="" x="1" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore10" style="" transform="translate(2.5,1120.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -1013,9 +1013,9 @@
     </g>
 
     <!-- MO1's wife -->
-    <ellipse class="tanore3" style="display:none" cx="981" cy="37" rx="7.5" ry="7.5" fill="#a6dba0" stroke="#1b7837" pointer-events="none"/>
-    <path class="tanore3" style="display:none" d="M 981 45 L 981 70 M 981 50 L 966 50 M 981 50 L 996 50 M 981 70 L 966 90 M 981 70 L 996 90" fill="none" stroke="#1b7837" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(940.5,96.5)">
+    <ellipse class="tanore3" style="" cx="981" cy="37" rx="7.5" ry="7.5" fill="#a6dba0" stroke="#1b7837" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 981 45 L 981 70 M 981 50 L 966 50 M 981 50 L 996 50 M 981 70 L 966 90 M 981 70 L 996 90" fill="none" stroke="#1b7837" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(940.5,96.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="78" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #1b7837; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1027,8 +1027,8 @@
     </g>
 
     <!-- US$27.3 mil 10/9/2013 -->
-    <rect class="tanore3" style="display:none" x="921" y="140" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(921.5,136.5)">
+    <rect class="tanore3" style="" x="921" y="140" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,136.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -1042,12 +1042,12 @@
     </g>
 
     <!-- Path from Pink Diamond Necklance to MO1's wife -->
-    <path class="tanore3" style="display:none" d="M 980.88 140.35 L 980.88 100.35 L 980.88 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore3" style="display:none" d="M 980.88 61.47 L 984.38 68.47 L 980.88 66.72 L 977.38 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 140.35 L 980.88 100.35 L 980.88 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 61.47 L 984.38 68.47 L 980.88 66.72 L 977.38 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Heart-shaped Diamond -->
-    <rect class="tanore6" style="display:none" x="778.5" y="1050" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(778.5,1046.5)">
+    <rect class="tanore6" style="" x="778.5" y="1050" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,1046.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
@@ -1061,9 +1061,9 @@
     </g>
 
     <!-- Miranda Kerr -->
-    <ellipse class="tanore6" style="display:none" cx="966" cy="1058" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 966.1 1065 L 966.1 1090 M 966.1 1070 L 951.1 1070 M 966.1 1070 L 981.1 1070 M 966.1 1090 L 951.1 1110 M 966.1 1090 L 981.1 1110" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore6" style="display:none" transform="translate(918.5,1116.5)">
+    <ellipse class="tanore6" style="" cx="966" cy="1058" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 966.1 1065 L 966.1 1090 M 966.1 1070 L 951.1 1070 M 966.1 1070 L 981.1 1070 M 966.1 1090 L 951.1 1110 M 966.1 1090 L 981.1 1110" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(918.5,1116.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1075,12 +1075,12 @@
     </g>
 
     <!-- Path from Heart-shaped Diamond to Miranda Kerr -->
-    <path class="tanore6" style="display:none" d="M 898.53 1080.35 L 932.65 1080.35 L 932.65 1080.35 L 959.22 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 964.47 1080.35 L 957.47 1083.85 L 959.22 1080.35 L 957.47 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 898.53 1080.35 L 932.65 1080.35 L 932.65 1080.35 L 959.22 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 964.47 1080.35 L 957.47 1083.85 L 959.22 1080.35 L 957.47 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Midhurst Trading -->
-    <rect class="tanore3" style="display:none" x="921" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(921.5,365.5)">
+    <rect class="tanore3" style="" x="921" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,365.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1096,9 +1096,9 @@
     </g>
 
     <!-- US$32.76 mil 10/9/2013 -->
-    <path class="tanore3" style="display:none" d="M 980.88 360.35 L 981 360.35 L 981 300.35 L 980.89 306.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore3" style="display:none" d="M 980.88 301.47 L 984.4 308.46 L 980.89 306.72 L 977.4 308.48 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(921.5,312.5)">
+    <path class="tanore3" style="" d="M 980.88 360.35 L 981 360.35 L 981 300.35 L 980.89 306.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 301.47 L 984.4 308.46 L 980.89 306.72 L 977.4 308.48 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,312.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1111,9 +1111,9 @@
     </g>
 
     <!-- US$68,049,050 25/3-9/9/2013 -->
-    <path class="tanore3" style="display:none" d="M 611.47 405.06 L 766.76 405.06 L 766.76 405.06 L 914.51 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore3" style="display:none" d="M 919.76 405.06 L 912.76 408.56 L 914.51 405.06 L 912.76 401.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(714.5,388.5)">
+    <path class="tanore3" style="" d="M 611.47 405.06 L 766.76 405.06 L 766.76 405.06 L 914.51 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 919.76 405.06 L 912.76 408.56 L 914.51 405.06 L 912.76 401.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(714.5,388.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1128,8 +1128,8 @@
     </g>
 
     <!-- Blackrock -->
-    <rect class="tanore3" style="display:none" x="921" y="240" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore3" style="display:none" transform="translate(931.5,257.5)">
+    <rect class="tanore3" style="" x="921" y="240" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(931.5,257.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="96" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1143,8 +1143,8 @@
     </g>
 
     <!-- Basquiat Collage -->
-    <rect class="tanore9" style="display:none" x="928.5" y="860" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(930.5,863.5)">
+    <rect class="tanore9" style="" x="928.5" y="860" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(930.5,863.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -1158,16 +1158,16 @@
     </g>
 
     <!-- Path from Blackrock to Pink Diamond Necklace -->
-    <path class="tanore3" style="display:none" d="M 980.88 240.35 L 980.88 206.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore3" style="display:none" d="M 980.88 201.47 L 984.38 208.47 L 980.88 206.72 L 977.38 208.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 240.35 L 980.88 206.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 201.47 L 984.38 208.47 L 980.88 206.72 L 977.38 208.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Midhurst to Basquiat college -->
-    <path class="tanore9" style="display:none" d="M 1040.88 405.06 L 1080.88 405.06 L 1080.88 889.76 L 1054.31 889.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 1049.06 889.76 L 1056.06 886.26 L 1054.31 889.76 L 1056.06 893.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1040.88 405.06 L 1080.88 405.06 L 1080.88 889.76 L 1054.31 889.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1049.06 889.76 L 1056.06 886.26 L 1054.31 889.76 L 1056.06 893.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Alpha Synergy -->
-    <rect class="tanore9" style="display:none" x="601" y="780" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(601.5,785.5)">
+    <rect class="tanore9" style="" x="601" y="780" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,785.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1181,8 +1181,8 @@
     </g>
 
     <!-- Affinity Equity -->
-    <rect class="tanore9" style="display:none" x="601" y="890" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(601.5,895.5)">
+    <rect class="tanore9" style="" x="601" y="890" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,895.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1196,8 +1196,8 @@
     </g>
 
     <!-- Platinum Global -->
-    <rect class="tanore9" style="display:none" x="601" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(601.5,1035.5)">
+    <rect class="tanore9" style="" x="601" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,1035.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1213,9 +1213,9 @@
     </g>
 
     <!-- Leonardo DiCaprio -->
-    <ellipse class="tanore9" style="display:none" cx="1011" cy="1233" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 1011 1240 L 1011 1265 M 1011 1245 L 996 1245 M 1011 1245 L 1026 1245 M 1011 1265 L 996 1285 M 1011 1265 L 1026 1285" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(942.5,1291.5)">
+    <ellipse class="tanore9" style="" cx="1011" cy="1233" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1011 1240 L 1011 1265 M 1011 1245 L 996 1245 M 1011 1245 L 1026 1245 M 1011 1265 L 996 1285 M 1011 1265 L 1026 1285" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(942.5,1291.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="135" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1229,13 +1229,13 @@
     </g>
 
     <!-- Path from Basquiat college to DiCaprio -->
-    <path class="tanore9" style="display:none" d="M 1011.47 920 L 1011.47 949.76 L 1011.47 1218.69" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 1011.47 1223.94 L 1007.97 1216.94 L 1011.47 1218.69 L 1014.97 1216.94 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1011.47 920 L 1011.47 949.76 L 1011.47 1218.69" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1011.47 1223.94 L 1007.97 1216.94 L 1011.47 1218.69 L 1014.97 1216.94 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- US$25.1 mil 30/12/2013 -->
-    <path class="tanore9" style="display:none" d="M 551.47 729.76 L 631.47 729.76 L 631.47 773.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 631.47 779.23 L 627.97 772.23 L 631.47 773.98 L 634.97 772.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(575.5,722.5)">
+    <path class="tanore9" style="" d="M 551.47 729.76 L 631.47 729.76 L 631.47 773.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 779.23 L 627.97 772.23 L 631.47 773.98 L 634.97 772.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(575.5,722.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1248,9 +1248,9 @@
     </g>
 
     <!-- US$25 mil -->
-    <path class="tanore9" style="display:none" d="M 660.88 840.35 L 660.88 883.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 660.88 888.65 L 657.38 881.65 L 660.88 883.4 L 664.38 881.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(614.5,848.5)">
+    <path class="tanore9" style="" d="M 660.88 840.35 L 660.88 883.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 660.88 888.65 L 657.38 881.65 L 660.88 883.4 L 664.38 881.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(614.5,848.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1263,9 +1263,9 @@
     </g>
 
     <!-- US$3.38 mil 2/1/2014 -->
-    <path class="tanore9" style="display:none" d="M 631.47 949.76 L 631.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 631.47 1028.65 L 627.97 1021.65 L 631.47 1023.4 L 634.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(579.5,983.5)">
+    <path class="tanore9" style="" d="M 631.47 949.76 L 631.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 1028.65 L 627.97 1021.65 L 631.47 1023.4 L 634.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(579.5,983.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1279,8 +1279,8 @@
     </g>
 
     <!-- Picasso painting -->
-    <rect class="tanore9" style="display:none" x="778.5" y="1255" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(782.5,1258.5)">
+    <rect class="tanore9" style="" x="778.5" y="1255" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(782.5,1258.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -1293,9 +1293,9 @@
     </g>
 
     <!-- US$171 mil 30/8/2013 -->
-    <path class="tanore9" style="display:none" d="M 611.47 374.47 L 640.88 374.47 L 640.88 320.35 L 740.88 320.35 L 740.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 740.88 221.47 L 744.38 228.47 L 740.88 226.72 L 737.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(687.5,243.5)">
+    <path class="tanore9" style="" d="M 611.47 374.47 L 640.88 374.47 L 640.88 320.35 L 740.88 320.35 L 740.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 740.88 221.47 L 744.38 228.47 L 740.88 226.72 L 737.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(687.5,243.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1308,8 +1308,8 @@
     </g>
 
     <!-- SRC -->
-    <rect class="tanore9" style="display:none" x="601" y="520" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(643.5,540.5)">
+    <rect class="tanore9" style="" x="601" y="520" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(643.5,540.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1323,8 +1323,8 @@
     </g>
 
     <!-- Pacific Harbor Global Growth Fund Ltd -->
-    <rect class="tanore9" style="display:none" x="601" y="650" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(601.5,653.5)">
+    <rect class="tanore9" style="" x="601" y="650" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,653.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div
@@ -1340,9 +1340,9 @@
     </g>
 
     <!-- US$233,442,981 5/9/2013 -->
-    <path class="tanore9" style="display:none" d="M 660.88 580.35 L 660.88 643.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 660.88 648.65 L 657.38 641.65 L 660.88 643.4 L 664.38 641.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(603.5,598.5)">
+    <path class="tanore9" style="" d="M 660.88 580.35 L 660.88 643.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 660.88 648.65 L 657.38 641.65 L 660.88 643.4 L 664.38 641.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(603.5,598.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1355,9 +1355,9 @@
     </g>
 
     <!-- US$228,774,140 -->
-    <path class="tanore9" style="display:none" d="M 720.88 680.35 L 740.88 680.35 L 740.88 920.35 L 727.25 920.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 722 920.35 L 729 916.85 L 727.25 920.35 L 729 923.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(723.5,683.5)">
+    <path class="tanore9" style="" d="M 720.88 680.35 L 740.88 680.35 L 740.88 920.35 L 727.25 920.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 722 920.35 L 729 916.85 L 727.25 920.35 L 729 923.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(723.5,683.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1370,9 +1370,9 @@
     </g>
 
     <!-- US$1 mil 28-30/10/2013 -->
-    <path class="tanore9" style="display:none" d="M 691.47 949.76 L 691.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 691.47 1028.65 L 687.97 1021.65 L 691.47 1023.4 L 694.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(645.5,950.5)">
+    <path class="tanore9" style="" d="M 691.47 949.76 L 691.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 691.47 1028.65 L 687.97 1021.65 L 691.47 1023.4 L 694.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(645.5,950.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1385,8 +1385,8 @@
     </g>
 
     <!-- Arbus Photograph -->
-    <rect class="tanore9" style="display:none" x="778.5" y="1190" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(780.5,1194.5)">
+    <rect class="tanore9" style="" x="778.5" y="1190" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(780.5,1194.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
@@ -1400,16 +1400,16 @@
     </g>
 
     <!-- Path from Tanore to Rothko piece -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 560.35 L 1047.25 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 1042 560.35 L 1049 556.85 L 1047.25 560.35 L 1049 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 560.35 L 1047.25 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 560.35 L 1049 556.85 L 1047.25 560.35 L 1049 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Tanore to Fontana piece -->
-    <path class="tanore4" style="display:none" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 629.76 L 1047.25 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore4" style="display:none" d="M 1042 629.76 L 1049 626.26 L 1047.25 629.76 L 1049 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 629.76 L 1047.25 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 629.76 L 1049 626.26 L 1047.25 629.76 L 1049 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Title -->
-    <rect class="tanore1" style="display:none" x="11" y="0" width="310" height="45" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(67.5,4.5)">
+    <rect class="tanore1" style="" x="11" y="0" width="310" height="45" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(67.5,4.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="194" height="34" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 30px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
@@ -1421,9 +1421,9 @@
     </g>
 
     <!-- US$430 mil 22/3/2013 -->
-    <path class="tanore1" style="display:none" d="M 331.47 374.47 L 485.1 374.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore1" style="display:none" d="M 490.35 374.47 L 483.35 377.97 L 485.1 374.47 L 483.35 370.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(360.5,357.5)">
+    <path class="tanore1" style="" d="M 331.47 374.47 L 485.1 374.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 490.35 374.47 L 483.35 377.97 L 485.1 374.47 L 483.35 370.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(360.5,357.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1436,9 +1436,9 @@
     </g>
 
     <!-- US$378 mil 25/3/2013 -->
-    <path class="tanore5" style="display:none" d="M 491.47 405.06 L 337.84 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 332.59 405.06 L 339.59 401.56 L 337.84 405.06 L 339.59 408.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(360.5,388.5)">
+    <path class="tanore5" style="" d="M 491.47 405.06 L 337.84 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 332.59 405.06 L 339.59 401.56 L 337.84 405.06 L 339.59 408.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(360.5,388.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1451,9 +1451,9 @@
     </g>
 
     <!-- US$61,642,769 5-6/9/2013 -->
-    <path class="tanore9" style="display:none" d="M 711.47 220.35 L 711.47 369.76 L 691.47 369.76 L 691.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 691.47 519.23 L 687.97 512.23 L 691.47 513.98 L 694.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(638.5,463.5)">
+    <path class="tanore9" style="" d="M 711.47 220.35 L 711.47 369.76 L 691.47 369.76 L 691.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 691.47 519.23 L 687.97 512.23 L 691.47 513.98 L 694.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(638.5,463.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1466,9 +1466,9 @@
     </g>
 
     <!-- US$171,300,190 4-5/9/2013 -->
-    <path class="tanore9" style="display:none" d="M 611.47 189.76 L 631.47 189.76 L 631.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 631.47 519.23 L 627.97 512.23 L 631.47 513.98 L 634.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore9" style="display:none" transform="translate(574.5,232.5)">
+    <path class="tanore9" style="" d="M 611.47 189.76 L 631.47 189.76 L 631.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 519.23 L 627.97 512.23 L 631.47 513.98 L 634.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(574.5,232.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1481,9 +1481,9 @@
     </g>
 
     <!-- US$248.5 mil 12/11/2013 -->
-    <path class="tanore5" style="display:none" d="M 240.88 760.35 L 240.88 805.06 L 340.88 805.06 L 340.88 843.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 340.88 848.65 L 337.38 841.65 L 340.88 843.4 L 344.38 841.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(231.5,788.5)">
+    <path class="tanore5" style="" d="M 240.88 760.35 L 240.88 805.06 L 340.88 805.06 L 340.88 843.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 340.88 848.65 L 337.38 841.65 L 340.88 843.4 L 344.38 841.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(231.5,788.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1496,9 +1496,9 @@
     </g>
 
     <!-- US$12,185,189.32 12/11/2013 -->
-    <path class="tanore5" style="display:none" d="M 236.18 1149.76 L 385.1 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore5" style="display:none" d="M 390.35 1149.76 L 383.35 1153.26 L 385.1 1149.76 L 383.35 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore5" style="display:none" transform="translate(250.5,1132.5)">
+    <path class="tanore5" style="" d="M 236.18 1149.76 L 385.1 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 390.35 1149.76 L 383.35 1153.26 L 385.1 1149.76 L 383.35 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(250.5,1132.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="125" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1511,9 +1511,9 @@
     </g>
 
     <!-- US$3,206,162.03 10/2/2016 -->
-    <path class="tanore7" style="display:none" d="M 565.59 760.35 L 565.59 1109.76 L 700.88 1109.76 L 700.88 1354.47 L 772.16 1354.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore7" style="display:none" d="M 777.41 1354.47 L 770.41 1357.97 L 772.16 1354.47 L 770.41 1350.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <g class="tanore7" style="display:none" transform="translate(641.5,1212.5)">
+    <path class="tanore7" style="" d="M 565.59 760.35 L 565.59 1109.76 L 700.88 1109.76 L 700.88 1354.47 L 772.16 1354.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 777.41 1354.47 L 770.41 1357.97 L 772.16 1354.47 L 770.41 1350.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(641.5,1212.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1526,33 +1526,33 @@
     </g>
 
     <!-- Path from Low Teck Szen to Flywheel -->
-    <path class="tanore10" style="display:none" d="M 236.18 1149.76 L 127.25 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore10" style="display:none" d="M 122 1149.76 L 129 1146.26 L 127.25 1149.76 L 129 1153.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore10" style="" d="M 236.18 1149.76 L 127.25 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore10" style="" d="M 122 1149.76 L 129 1146.26 L 127.25 1149.76 L 129 1153.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Platinum Global to Arbus Photograph -->
-    <path class="tanore9" style="display:none" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1220.35 L 772.16 1220.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 777.41 1220.35 L 770.41 1223.85 L 772.16 1220.35 L 770.41 1216.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1220.35 L 772.16 1220.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 777.41 1220.35 L 770.41 1223.85 L 772.16 1220.35 L 770.41 1216.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Platinum Global to Picasso painting -->
-    <path class="tanore9" style="display:none" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1285.06 L 772.16 1285.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 777.41 1285.06 L 770.41 1288.56 L 772.16 1285.06 L 770.41 1281.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1285.06 L 772.16 1285.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 777.41 1285.06 L 770.41 1288.56 L 772.16 1285.06 L 770.41 1281.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Arbus Photograph to DiCaprio -->
-    <path class="tanore9" style="display:none" d="M 898.53 1220.35 L 946.76 1220.35 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 898.53 1220.35 L 946.76 1220.35 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Picasso painting to Dicaprio -->
-    <path class="tanore9" style="display:none" d="M 898.53 1285.06 L 946.76 1285.06 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore9" style="display:none" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 898.53 1285.06 L 946.76 1285.06 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path from Jho Low to Heart-shapred diamond -->
-    <path class="tanore6" style="display:none" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1080.35 L 772.16 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <path class="tanore6" style="display:none" d="M 777.41 1080.35 L 770.41 1083.85 L 772.16 1080.35 L 770.41 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1080.35 L 772.16 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 1080.35 L 770.41 1083.85 L 772.16 1080.35 L 770.41 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
 
     <!-- Path of Eric Tan owns Tanore -->
-    <path class="tanore1" style="display:none" d="M 436.18 469.76 L 436.18 445.06 L 551.47 445.06 L 551.47 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="tanore1" style="display:none" cx="551" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(474.5,436.5)">
+    <path class="tanore1" style="" d="M 436.18 469.76 L 436.18 445.06 L 551.47 445.06 L 551.47 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="tanore1" style="" cx="551" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(474.5,436.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
@@ -1564,9 +1564,9 @@
     </g>
 
     <!-- Eric Tan owns Granton -->
-    <path class="tanore1" style="display:none" d="M 436.18 469.76 L 436.18 445.06 L 300.88 445.06 L 300.88 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
-    <ellipse class="tanore1" style="display:none" cx="301" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
-    <g class="tanore1" style="display:none" transform="translate(348.5,436.5)">
+    <path class="tanore1" style="" d="M 436.18 469.76 L 436.18 445.06 L 300.88 445.06 L 300.88 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="tanore1" style="" cx="301" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(348.5,436.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
           <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
