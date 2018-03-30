@@ -1,0 +1,1580 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="1090px"
+  height="1403px"
+  viewBox="0 0 1090 1403"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&quot; version=&quot;8.5.0&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;77b2c0d0-6641-9bb1-094b-813c071cc9f5&quot; name=&quot;Copy of Good Star&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;f91dcf89-bc2c-c2f9-4224-51319909076d&quot; name=&quot;Aabar-BVI&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;55d06464-61c0-84e0-7719-e72090406e39&quot; name=&quot;Tanore&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;b7bcd41b-efc2-aaac-9d0f-f3703828e9bb&quot; name=&quot;Options Buyback&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;0d140cf4-ad98-70ec-af93-4c8747ae97da&quot; name=&quot;Cycle&quot;&gt;7ZlRc6IwEMc/jY/cEAKRPlatvYd27sG5ufYxQATOSLgQqvbTXwJBwDusM5bS0TrjSHY3y5L/LwngCE7X23uO0+iRBYSOLDOLcMA2IzgbWZYpv9K0ZDQoDaA0rLGIWhEpDsnCx5S0wjzsr0LO8kT3rmN/xUGVwXUaOb6TOIyETgLMwgPvRnDKGRPl0Xo7JVQVGgfNEuYdXlAl5yQRp3SwA4SA7YClDxF2MTJ0hhdMc1JdB6Iy18RTwyV2+qrRn1zVOFmyRBhZ/CqttzIAOOlWWmu/PArV74zkIvMjImMmOFlVSWVlXhVSnrk+hVUMJlGVAuneRLEgixT7yruRIkpbJNZUu/dKmqqqmNIpo4wXiWDgEDewdbWLotgZcFQnwdmKNCJdy4MISU/IcRDLQWz4lsVnX+gL4YJsO8cd7NWUyBG2JoLvZIjuMNYY7LQMurmpSQEVbVGDEqRtOCvb4T5xrbE80DKfKLnVk+S32MPcWJCdlJ1Skl275tBti+4OKTrsFD1LcVL3rEQNmJ8ZcSIITzA1wjwOjMC0oG/ZxACejQ0b+dBwQGAaCI5vyNI1zaVnNqk4A6WD2s5PdB7ZD3jt4QzLkHvKPKwG+keaMi7yJBZK8bnaBf6L+95WXsob5uuZHMhqT479ZjvI7LB7WhInPA5C0uDmuldE50B0eDOk6E5PooPH2eRL8qqD/ZnmOeptnuNXonaqxWp37Ypb9mea5G5Piv9cjCzbdlz1vCgViVlybP/3+Fkns25kUvWVMfY75TyCpNnGj2xj8dQ4flYh3xRjkgi+e9I9ikbps0pncMt5wa1PcZbFfmmcx7TK/JsIsdPQ4lwwaZI3VRELmbzpfGAs1XGHbHfNgW7my6slajM+SrUcEZZzn3TQpGME5iERxx6v/p0dnFAs4pf2+d8V9Zs+UYfjj0FdDswcmD2jrjhY6GbCEvkzOYv+uvm8nwyXB791AvxwKPiB2S/9znXTrxHX/IMm/aDF/rdLXfrhCfTbg9Hf12vcD6V//Gnp7177r4R++wT60WD09/VG+4v+N+g/uPMBF0o/OoF+ZzD6u1/tvwf9Drpy+lt3Puao+6l3fKmLvzPcU69s1n+OF77G3/nw7i8=&lt;/diagram&gt;&lt;diagram id=&quot;e978e558-cabf-0cbe-9eba-68858a99c19b&quot; name=&quot;Good Star&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs>
+    <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-dae8fc-1-ffffff-1-s-0"><stop offset="0%" style="stop-color:#dae8fc"/><stop offset="100%" style="stop-color:#ffffff"/></linearGradient>
+  </defs>
+  <g transform="translate(0.5,0.5)">
+
+    <!-- Jho Low -->
+    <ellipse class="tanore4" style="" cx="551" cy="708" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 551 715 L 551 740 M 551 720 L 536 720 M 551 720 L 566 720 M 551 740 L 536 760 M 551 740 L 566 760" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(519.5,766.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Jho Low</div>
+          </div>
+        </foreignObject>
+        <text x="31" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Jho Low</text>
+      </switch>
+    </g>
+
+    <!-- US$93 mil 13/9/2013 -->
+    <path class="tanore5" style="" d="M 476.18 629.76 L 511.47 629.76 L 511.47 706.24 L 536.87 706.24" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 542.12 706.24 L 535.12 709.74 L 536.87 706.24 L 535.12 702.74 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(461.5,663.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$93 mil</b><br style="font-size: 15px"/>
+              <span style="font-size: 15px">13/9/2013</span><br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$205.9 mil 26/12/2013 -->
+    <path class="tanore5" style="" d="M 451.47 1120.35 L 451.47 940.35 L 551.47 940.35 L 551.47 736.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 551.47 730.88 L 554.97 737.88 L 551.47 736.13 L 547.97 737.88 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(431.5,923.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <div style="font-size: 15px">
+                <b style="font-size: 15px">US$205.9 mil</b>
+              </div>
+              <div style="font-size: 15px">26/12/2013</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$145 mil 5-6/11/2013 -->
+    <path class="tanore5" style="" d="M 271.47 420.35 L 271.47 489.76 L 271.47 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 271.47 539.23 L 267.97 532.23 L 271.47 533.98 L 274.97 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(251.5,483.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$140.5 mil</b><br style="font-size: 15px"/>5-6/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$378 mil 25/3/2013 -->
+    <path class="tanore5" style="" d="M 240.88 420.35 L 240.88 480.35 L 240.88 533.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style=""  d="M 240.88 539.23 L 237.38 532.23 L 240.88 533.98 L 244.38 532.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(147.5,432.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$378 mil</b><br style="font-size: 15px"/>25/3/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Enterprise to Tanore -->
+    <path class="tanore1" style="" d="M 680.88 220.35 L 680.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Devonshire to Tanore -->
+    <path class="tanore1" style="" d="M 420.88 220.35 L 420.88 289.76 L 551.47 289.76 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 1MDB -->
+    <rect class="tanore1" style="" x="491" y="20" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(521.5,37.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 58px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">1MDB</div>
+          </div>
+        </foreignObject>
+        <text x="29" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">1MDB</text>
+      </switch>
+    </g>
+
+    <!-- Devonshire -->
+    <rect class="tanore1" style="" x="331" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(335.5,177.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="109" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 111px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Devonshire</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="55" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Enterprise -->
+    <rect class="tanore1" style="" x="651" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(660.5,177.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="99" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 99px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Enterprise</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="50" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Cistenique -->
+    <rect class="tanore1" style="" x="491" y="160" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(498.5,177.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Cistenique</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="51" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$163 mil 30/8/2013 -->
+    <path class="tanore9" style="" d="M 520.88 360.35 L 520.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 520.88 221.47 L 524.38 228.47 L 520.88 226.72 L 517.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(467.5,232.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$163 mil</b><br style="font-size: 15px"/>30/8/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Tanore -->
+    <rect class="tanore1" style="" x="491" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(517.5,377.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="65" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 66px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Tanore</div>
+          </div>
+        </foreignObject>
+        <text x="33" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Tanore</text>
+      </switch>
+    </g>
+
+    <!-- US$531,090,534 21-22/3/2013 -->
+    <path class="tanore1" style="" d="M 551.47 80.35 L 551.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 159.23 L 547.97 152.23 L 551.47 153.98 L 554.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(494.5,103.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">
+                <b style="font-size: 15px">US$531,090,534</b><br style="font-size: 15px"/>21-22/3/2013<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$414,756,416 21-27/3/2013 -->
+    <path class="tanore1" style="" d="M 611.47 49.76 L 711.47 49.76 L 711.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 711.47 159.23 L 707.97 152.23 L 711.47 153.98 L 714.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(654.5,38.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">
+                <b style="font-size: 15px">US$414,756,416</b><br style="font-size: 15px"/>21-27/3/2013<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$835 mil -->
+    <path class="tanore1" style="" d="M 551.47 220.35 L 551.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 551.47 359.23 L 547.97 352.23 L 551.47 353.98 L 554.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(497.5,312.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$835 mil</b><br style="font-size: 15px"/>21-22/3/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Granton -->
+    <rect class="tanore1" style="" x="211" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(230.5,377.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="78" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 79px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Granton</div>
+          </div>
+        </foreignObject>
+        <text x="39" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Granton</text>
+      </switch>
+    </g>
+
+    <!-- US$646,464,649 21/3/2013 -->
+    <path class="tanore1" style="" d="M 491.47 49.76 L 391.47 49.76 L 391.47 153.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 391.47 159.23 L 387.97 152.23 L 391.47 153.98 L 394.97 152.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(334.5,38.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">
+                <b style="font-size: 15px">US$646,464,649</b><br style="font-size: 15px"/>21/3/2013<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$430 mil 21/3/2013 -->
+    <path class="tanore1" style="" d="M 360.88 220.35 L 360.88 289.76 L 271.47 289.76 L 271.47 353.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 271.47 359.23 L 267.97 352.23 L 271.47 353.98 L 274.97 352.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(261.5,272.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$430 mil</b><br style="font-size: 15px"/>21/3/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Dragon Market -->
+    <rect class="tanore5" style="" x="211" y="540" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,545.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Dragon Market</div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Dragon Market</text>
+      </switch>
+    </g>
+
+    <!-- US$681 mil 21/25/3/2013 -->
+    <path class="tanore2" style="" d="M 611.47 389.76 L 671.47 389.76 L 671.47 340.35 L 805.59 340.35 L 805.59 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore2" style="" d="M 805.59 61.47 L 809.09 68.47 L 805.59 66.72 L 802.09 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore2" style="" transform="translate(752.5,323.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$681 mil</b><br style="font-size: 15px"/>21-25/3/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- MO1 -->
+    <ellipse class="tanore2" style="" cx="806" cy="37" rx="7.5" ry="7.5" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
+    <path class="tanore2" style="" d="M 806 45 L 806 70 M 806 50 L 791 50 M 806 50 L 821 50 M 806 70 L 791 90 M 806 70 L 821 90" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore2" style="" transform="translate(788.5,96.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="33" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #762a83; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">MO1</div>
+          </div>
+        </foreignObject>
+        <text x="17" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">MO1</text>
+      </switch>
+    </g>
+
+    <!-- Ryden Work -->
+    <rect class="tanore4" style="" x="921" y="670" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(924.5,673.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Ryden work<br style="font-size: 15px"/>
+                <b style="font-size: 15px">US$7.14 mil<br style="font-size: 15px"/></b>13/5/2013<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="55" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Ruscha Work -->
+    <rect class="tanore4" style="" x="921" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(933.5,460.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 93px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 16px">Ruscha work<br style="font-size: 16px"/>
+                <b style="font-size: 16px">US$367,500</b><br style="font-size: 16px"/>13/5/2013<br style="font-size: 16px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="47" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Fontana piece -->
+    <rect class="tanore4" style="" x="921" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(924.5,603.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Fontana piece<br style="font-size: 15px"/>
+                <b style="font-size: 15px">US$7.95 mil</b><br style="font-size: 15px"/>3/7/2013<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="55" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Rothko piece -->
+    <rect class="tanore4" style="" x="921" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(923.5,534.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Rothko piece<br style="font-size: 14px"/>
+                <b style="font-size: 14px">US$71.55 mil</b><br style="font-size: 14px"/>9/9/2013<br style="font-size: 14px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="56" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Dustheads -->
+    <rect class="tanore4" style="" x="778.5" y="530" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(781.5,530.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="112" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 16px">Dustheads<br style="font-size: 16px"/>
+                <b style="font-size: 16px">US$48,843,750</b><br style="font-size: 16px"/>15/5/2013<br style="font-size: 16px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="56" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Calder Standing Mobile -->
+    <rect class="tanore4" style="" x="778.5" y="460" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(778.5,456.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Calder Standing Mobile<br style="font-size: 14px"/>
+                <b style="font-size: 14px">US$5,387,750<br style="font-size: 14px"/></b>15/5/2013<br style="font-size: 14px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Tic Tac Toe -->
+    <rect class="tanore4" style="" x="778.5" y="600" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(786.5,600.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 103px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 16px">Tic Tac Toe<br style="font-size: 16px"/>
+                <b style="font-size: 16px">US$3,035,750</b><br style="font-size: 16px"/>15/5/2013<br style="font-size: 16px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="51" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Tanore to Ryden work -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 700.35 L 1047.25 700.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 700.35 L 1049 696.85 L 1047.25 700.35 L 1049 703.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Tanore to Ruscha work -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 489.76 L 1047.25 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 489.76 L 1049 486.26 L 1047.25 489.76 L 1049 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Tanore to Calder Standing Mobile -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 489.76 L 904.9 489.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 489.76 L 906.65 486.26 L 904.9 489.76 L 906.65 493.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- McFarland -->
+    <ellipse class="tanore4" style="" cx="981" cy="768" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 981 775 L 981 800 M 981 780 L 966 780 M 981 780 L 996 780 M 981 800 L 966 820 M 981 800 L 996 820" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore4" style="" transform="translate(942.5,826.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="75" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">McFarland</div>
+          </div>
+        </foreignObject>
+        <text x="38" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">McFarland</text>
+      </switch>
+    </g>
+
+    <!-- Eric Tan -->
+    <ellipse class="tanore1" style="" cx="436" cy="478" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 436 485 L 436 510 M 436 490 L 421 490 M 436 490 L 451 490 M 436 510 L 421 530 M 436 510 L 451 530" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(399.5,536.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="71" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #d7191c; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Eric Tan<br/>(Jho Low)<br/></div>
+          </div>
+        </foreignObject>
+        <text x="36" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Ryden work to McFarland -->
+    <path class="tanore4" style="" d="M 980.88 729.76 L 980.88 753.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 980.88 759.23 L 977.38 752.23 L 980.88 753.98 L 984.38 752.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$476.3 mil 8/11/2013 -->
+    <path class="tanore5" style="" d="M 211.47 585.06 L 191.47 585.06 L 191.47 729.76 L 205.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 210.35 729.76 L 203.35 733.26 L 205.1 729.76 L 203.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(131.5,632.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$476.3 mil</b><br style="font-size: 15px"/>8/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Larry Low -->
+    <ellipse class="tanore5" style="" cx="341" cy="858" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 341 865 L 341 890 M 341 870 L 326 870 M 341 870 L 356 870 M 341 890 L 326 910 M 341 890 L 356 910" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(303.5,916.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="72" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Larry Low</div>
+          </div>
+        </foreignObject>
+        <text x="36" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Larry Low</text>
+      </switch>
+    </g>
+
+    <!-- Path from Jho Low to Van Gogh Artwork -->
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 800.35 L 772.16 800.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 800.35 L 770.41 803.85 L 772.16 800.35 L 770.41 796.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Saint Georges Painting -->
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 869.76 L 772.16 869.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 869.76 L 770.41 873.26 L 772.16 869.76 L 770.41 866.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Nympheas Painting -->
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 940.35 L 772.16 940.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 940.35 L 770.41 943.85 L 772.16 940.35 L 770.41 936.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Stratton office -->
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1009.76 L 772.16 1009.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 1009.76 L 770.41 1013.26 L 772.16 1009.76 L 770.41 1006.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to The Equanimity -->
+    <path class="tanore8" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1149.76 L 772.16 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore8" style="" d="M 777.41 1149.76 L 770.41 1153.26 L 772.16 1149.76 L 770.41 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$569,102,534 12/11/2013-4/2/2014 -->
+    <path class="tanore5" style="" d="M 347.94 855.65 L 536.18 855.65 L 536.18 766.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 536.18 761.47 L 539.68 768.47 L 536.18 766.72 L 532.68 768.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(380.5,838.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="138" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$569,102,534</b><br style="font-size: 15px"/>12/11/2013-4/2/2014</div>
+          </div>
+        </foreignObject>
+        <text x="69" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Low Teck Szen -->
+    <ellipse class="tanore5" style="" cx="236" cy="1128" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 236 1135 L 236 1160 M 236 1140 L 221 1140 M 236 1140 L 251 1140 M 236 1160 L 221 1180 M 236 1160 L 251 1180" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(181.5,1186.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Low Teck Szen</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="53" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- DLA Piper -->
+    <rect class="tanore5" style="" x="391" y="1120" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(401.5,1137.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">DLA Piper</div>
+          </div>
+        </foreignObject>
+        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">DLA Piper</text>
+      </switch>
+    </g>
+
+    <!-- Park Lane Hotel -->
+    <rect class="tanore7" style="" x="391" y="1340" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(391.5,1345.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Park Lane Hotel</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Dragon Dynasty -->
+    <rect class="tanore5" style="" x="211" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,705.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              Dragon Dynasty</div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">
+          Dragon Dynasty</text>
+      </switch>
+    </g>
+
+    <!-- Mohamed -->
+    <ellipse class="tanore7" style="" cx="636" cy="1263" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 636 1270 L 636 1295 M 636 1275 L 621 1275 M 636 1275 L 651 1275 M 636 1295 L 621 1315 M 636 1295 L 651 1315" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(599.5,1321.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="70" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Mohamed<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="35" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- ADKMIC -->
+    <rect class="tanore5" style="" x="356" y="600" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(374.5,617.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">ADKMIC</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="40" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$12.5 mil 12/11/2013 -->
+    <path class="tanore5" style="" d="M 340.88 880.35 L 340.88 980.35 L 236.18 980.35 L 236.18 1113.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 236.18 1119.23 L 232.68 1112.23 L 236.18 1113.98 L 239.68 1112.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(235.5,963.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$12.5 mil</b><br style="font-size: 15px"/>12/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+    <g class="tanore5" style="" transform="translate(179.5,1053.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$350,102,534</b><br style="font-size: 15px"/>4/2/2014<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$202,206,876.48 25/11/2013 -->
+    <path class="tanore7" style="" d="M 451.47 1180.35 L 451.47 1333.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 451.47 1339.23 L 447.97 1332.23 L 451.47 1333.98 L 454.97 1332.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(383.5,1243.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="134" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$202,206,876.48</b>
+              <br style="font-size: 15px"/>25/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="67" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$2,956,162.03 11/2/2016 -->
+    <path class="tanore7" style="" d="M 778.53 1385.06 L 517.84 1385.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 512.59 1385.06 L 519.59 1381.56 L 517.84 1385.06 L 519.59 1388.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(585.5,1368.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$2,956,162.03</b><br style="font-size: 15px"/>11/2/2016<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Symphony -->
+    <rect class="tanore7" style="" x="778.5" y="1340" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(778.5,1339.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 17px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">Symphony CP Investments LLC</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g><path d="M 636.18 1285.06 L 636.18 1285.06" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/><path d="M 636.18 1285.06 L 636.18 1285.06 L 636.18 1285.06 L 636.18 1285.06 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$93 mil 13/9/2013 -->
+    <path class="tanore5" style="" d="M 300.88 700.35 L 300.88 629.76 L 349.81 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 355.06 629.76 L 348.06 633.26 L 349.81 629.76 L 348.06 626.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(251.5,652.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="98" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$93 mil</b><br style="font-size: 15px"/>13/9/2013</div>
+          </div>
+        </foreignObject>
+        <text x="49" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Nymphéas Painting -->
+    <rect class="tanore6" style="" x="778.5" y="910" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,906.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Nympheas Painting<br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">US$57.5 mil</b><br style="font-size: 14px"/>23/6/2014<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Saint Georges Painting -->
+    <rect class="tanore6" style="" x="778.5" y="840" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,839.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="59" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 13px">Saint Georges Painting<br style="font-size: 13px"/></span>
+              <b style="font-size: 13px">US$35 mil</b><br style="font-size: 13px"/>18/12/2013<br style="font-size: 13px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="36" fill="#000000" text-anchor="middle" font-size="13px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Van Gogh Artwork -->
+    <rect class="tanore6" style="" x="778.5" y="770" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(780.5,774.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Van Gogh Artwork<br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">US$5,485,000</b><br style="font-size: 14px"/>5/11/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Tanore to Dustheads -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 560.35 L 904.9 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 560.35 L 906.65 556.85 L 904.9 560.35 L 906.65 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Tanore to Tic Tac Toe -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 911.47 440.35 L 911.47 629.76 L 904.9 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 899.65 629.76 L 906.65 626.26 L 904.9 629.76 L 906.65 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- SRG -->
+    <rect class="tanore5" style="" x="71" y="850" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(108.5,867.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="43" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 45px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">SRG</div>
+          </div>
+        </foreignObject>
+        <text x="22" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">SRG</text>
+      </switch>
+    </g>
+
+    <!-- Condor Acquisition -->
+    <rect class="tanore5" style="" x="1" y="700" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(1.5,697.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="63" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 18px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 18px">Condor Acquisition (Cayman) Ltd</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="41" fill="#000000" text-anchor="middle" font-size="18px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- CEPSA -->
+    <rect class="tanore5" style="" x="1" y="990" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(25.5,1007.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="69" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 71px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">CEPSA</span><br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="35" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$350 mil 27/1/2013 -->
+    <path class="tanore5" style="" d="M 191.47 894.47 L 258.53 894.47 L 258.53 909.76 L 319.22 909.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 324.47 909.76 L 317.47 913.26 L 319.22 909.76 L 317.47 906.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(208.5,886.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$350 mil</b><br style="font-size: 14px"/>27/12/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="50" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$55.5 mil -->
+    <path class="tanore5" style="" d="M 160.88 849.76 L 161 849.76 L 161 729.76 L 127.25 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 122 729.76 L 129 726.26 L 127.25 729.76 L 129 733.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(105.5,772.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$55.5 mil</b><br style="font-size: 15px"/>27/12/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$50,003,611 24/1/2014 -->
+    <path class="tanore5" style="" d="M 31.47 760.35 L 31.47 875.06 L 31.47 983.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 31.47 988.65 L 27.97 981.65 L 31.47 983.4 L 34.97 981.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(-0.5,932.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$50,003,611</b><br style="font-size: 15px"/>24/1/2014<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$350 mil -->
+    <path class="tanore5" style="" d="M 120.88 1020.35 L 161 1020.35 L 161 909.76 L 160.89 916.13" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 160.88 910.88 L 164.39 917.88 L 160.89 916.13 L 157.39 917.89 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(107.5,952.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$350 mil</b><br style="font-size: 15px"/>3/2/2014<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$55.5 mil -->
+    <path class="tanore5" style="" d="M 333.82 855.65 L 263.24 855.65 L 263.24 865.06 L 197.84 865.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 192.59 865.06 L 199.59 861.56 L 197.84 865.06 L 199.59 868.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(211.5,845.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$55.5 mil</b><br style="font-size: 14px"/>27/12/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Stratton Office -->
+    <rect class="tanore6" style="" x="778.5" y="980" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(785.5,983.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 106px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Stratton Office<br style="font-size: 15px"/></span>
+              <b style="font-size: 15px">US$70,930,672</b><br style="font-size: 15px"/>13/3/2014<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <rect class="tanore8" style="" x="778.5" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(780.5,1123.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 13px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <font style="font-size: 15px">The Equanimity<br/>
+                <b>US$121,867,805</b><br/>7/1-11/4/2014</font><br/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="32" fill="#000000" text-anchor="middle" font-size="13px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Sotheby's Financial Services -->
+    <rect class="tanore8" style="" x="361" y="770" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(361.5,776.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="44" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <div>Sotheby’s Financial</div>
+              <div>Services</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="29" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$105,188,722 10/4/2014 -->
+    <path class="tanore8" style="" d="M 420.88 769.76 L 421 769.76 L 421 729.76 L 545.1 729.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore8" style="" d="M 550.35 729.76 L 543.35 733.26 L 545.1 729.76 L 543.35 726.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore8" style="" transform="translate(383.5,712.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">
+                <b style="font-size: 15px">US$105,188,722</b><br style="font-size: 15px"/>10/4/2014<br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$1.25 mil 27/12/2013 -->
+    <path class="tanore7" style="" d="M 511.47 1149.76 L 636 1149.76 L 636 1254.47 L 636.17 1248.1" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 636.17 1253.35 L 632.66 1246.36 L 636.17 1248.1 L 639.66 1246.35 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(535.5,1132.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$1.25 mil</b><br style="font-size: 15px"/>27/12/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Flywheel -->
+    <rect class="tanore10" style="" x="1" y="1120" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore10" style="" transform="translate(2.5,1120.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 16px">Flywheel<br style="font-size: 16px"/></span>
+              <b style="font-size: 16px">US$300 mil</b><br style="font-size: 16px"/>
+              <span style="font-size: 16px">31/3/2014</span>
+              <span style="font-size: 16px"><br style="font-size: 16px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- MO1's wife -->
+    <ellipse class="tanore3" style="" cx="981" cy="37" rx="7.5" ry="7.5" fill="#a6dba0" stroke="#1b7837" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 981 45 L 981 70 M 981 50 L 966 50 M 981 50 L 996 50 M 981 70 L 966 90 M 981 70 L 996 90" fill="none" stroke="#1b7837" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(940.5,96.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="78" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: #1b7837; line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">MO1's wife</div>
+          </div>
+        </foreignObject>
+        <text x="39" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">MO1's wife</text>
+      </switch>
+    </g>
+
+    <!-- US$27.3 mil 10/9/2013 -->
+    <rect class="tanore3" style="" x="921" y="140" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,136.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Pink Diamond Necklace<br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">US$27.3 mil</b><br style="font-size: 14px"/>10/9/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Pink Diamond Necklance to MO1's wife -->
+    <path class="tanore3" style="" d="M 980.88 140.35 L 980.88 100.35 L 980.88 66.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 61.47 L 984.38 68.47 L 980.88 66.72 L 977.38 68.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Heart-shaped Diamond -->
+    <rect class="tanore6" style="" x="778.5" y="1050" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(778.5,1046.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Heart-shaped Diamond<br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">US$1,815,520</b><br style="font-size: 14px"/>7/2/2014<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Miranda Kerr -->
+    <ellipse class="tanore6" style="" cx="966" cy="1058" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 966.1 1065 L 966.1 1090 M 966.1 1070 L 951.1 1070 M 966.1 1070 L 981.1 1070 M 966.1 1090 L 951.1 1110 M 966.1 1090 L 981.1 1110" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore6" style="" transform="translate(918.5,1116.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="93" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Miranda Kerr</div>
+          </div>
+        </foreignObject>
+        <text x="47" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">Miranda Kerr</text>
+      </switch>
+    </g>
+
+    <!-- Path from Heart-shaped Diamond to Miranda Kerr -->
+    <path class="tanore6" style="" d="M 898.53 1080.35 L 932.65 1080.35 L 932.65 1080.35 L 959.22 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 964.47 1080.35 L 957.47 1083.85 L 959.22 1080.35 L 957.47 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Midhurst Trading -->
+    <rect class="tanore3" style="" x="921" y="360" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,365.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Midhurst Trading</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$32.76 mil 10/9/2013 -->
+    <path class="tanore3" style="" d="M 980.88 360.35 L 981 360.35 L 981 300.35 L 980.89 306.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 301.47 L 984.4 308.46 L 980.89 306.72 L 977.4 308.48 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(921.5,312.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$32.76 mil</b><br style="font-size: 15px"/>10/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$68,049,050 25/3-9/9/2013 -->
+    <path class="tanore3" style="" d="M 611.47 405.06 L 766.76 405.06 L 766.76 405.06 L 914.51 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 919.76 405.06 L 912.76 408.56 L 914.51 405.06 L 912.76 401.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(714.5,388.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$68,049,050</b>
+              <b style="font-size: 15px"><br style="font-size: 15px"/></b>
+              <span style="font-size: 15px">25/3-9/9/2013</span><br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Blackrock -->
+    <rect class="tanore3" style="" x="921" y="240" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore3" style="" transform="translate(931.5,257.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="96" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 96px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Blackrock<br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="48" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Basquiat Collage -->
+    <rect class="tanore9" style="" x="928.5" y="860" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(930.5,863.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Basquiat Collage<br style="font-size: 15px"/></span>
+              <b style="font-size: 15px">US$9,191,040</b><br style="font-size: 15px"/>25/3/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Blackrock to Pink Diamond Necklace -->
+    <path class="tanore3" style="" d="M 980.88 240.35 L 980.88 206.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore3" style="" d="M 980.88 201.47 L 984.38 208.47 L 980.88 206.72 L 977.38 208.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Midhurst to Basquiat college -->
+    <path class="tanore9" style="" d="M 1040.88 405.06 L 1080.88 405.06 L 1080.88 889.76 L 1054.31 889.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1049.06 889.76 L 1056.06 886.26 L 1054.31 889.76 L 1056.06 893.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Alpha Synergy -->
+    <rect class="tanore9" style="" x="601" y="780" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,785.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Alpha Synergy</div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Alpha Synergy</text>
+      </switch>
+    </g>
+
+    <!-- Affinity Equity -->
+    <rect class="tanore9" style="" x="601" y="890" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,895.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Affinity Equity</div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">Affinity Equity</text>
+      </switch>
+    </g>
+
+    <!-- Platinum Global -->
+    <rect class="tanore9" style="" x="601" y="1030" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,1035.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 20px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">Platinum Global</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Leonardo DiCaprio -->
+    <ellipse class="tanore9" style="" cx="1011" cy="1233" rx="7.5" ry="7.5" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1011 1240 L 1011 1265 M 1011 1245 L 996 1245 M 1011 1245 L 1026 1245 M 1011 1265 L 996 1285 M 1011 1265 L 1026 1285" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(942.5,1291.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="135" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Leonardo DiCaprio</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="68" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Basquiat college to DiCaprio -->
+    <path class="tanore9" style="" d="M 1011.47 920 L 1011.47 949.76 L 1011.47 1218.69" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1011.47 1223.94 L 1007.97 1216.94 L 1011.47 1218.69 L 1014.97 1216.94 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- US$25.1 mil 30/12/2013 -->
+    <path class="tanore9" style="" d="M 551.47 729.76 L 631.47 729.76 L 631.47 773.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 779.23 L 627.97 772.23 L 631.47 773.98 L 634.97 772.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(575.5,722.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="111" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$25.1 mil</b><br style="font-size: 15px"/>30/12/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="56" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$25 mil -->
+    <path class="tanore9" style="" d="M 660.88 840.35 L 660.88 883.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 660.88 888.65 L 657.38 881.65 L 660.88 883.4 L 664.38 881.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(614.5,848.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="92" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$25 mil</b><br style="font-size: 14px"/>2/1/2014<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="46" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$3.38 mil 2/1/2014 -->
+    <path class="tanore9" style="" d="M 631.47 949.76 L 631.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 1028.65 L 627.97 1021.65 L 631.47 1023.4 L 634.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(579.5,983.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="103" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$3.38 mil</b><br style="font-size: 14px"/>
+              <span style="font-size: 14px">2/1/2014</span><br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Picasso painting -->
+    <rect class="tanore9" style="" x="778.5" y="1255" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(782.5,1258.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Picasso Painting<br style="font-size: 15px"/>
+              <b style="font-size: 15px">US$3.2 mil</b><br style="font-size: 15px"/>2/1/2014<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="55" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$171 mil 30/8/2013 -->
+    <path class="tanore9" style="" d="M 611.47 374.47 L 640.88 374.47 L 640.88 320.35 L 740.88 320.35 L 740.88 226.72" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 740.88 221.47 L 744.38 228.47 L 740.88 226.72 L 737.38 228.47 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(687.5,243.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$171 mil<br style="font-size: 15px"/></b>30/8/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- SRC -->
+    <rect class="tanore9" style="" x="601" y="520" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(643.5,540.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="32" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 32px; white-space: nowrap; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">SRC</div>
+          </div>
+        </foreignObject>
+        <text x="16" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">SRC</text>
+      </switch>
+    </g>
+
+    <!-- Pacific Harbor Global Growth Fund Ltd -->
+    <rect class="tanore9" style="" x="601" y="650" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-dae8fc-1-ffffff-1-s-0)" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(601.5,653.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div
+            xmlns="http://www.w3.org/1999/xhtml"
+            style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 117px; white-space: normal; word-wrap: normal; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">Pacific Harbor Global Growth Fund Ltd</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$233,442,981 5/9/2013 -->
+    <path class="tanore9" style="" d="M 660.88 580.35 L 660.88 643.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 660.88 648.65 L 657.38 641.65 L 660.88 643.4 L 664.38 641.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(603.5,598.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$233,442,981<br style="font-size: 15px"/></b>5/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$228,774,140 -->
+    <path class="tanore9" style="" d="M 720.88 680.35 L 740.88 680.35 L 740.88 920.35 L 727.25 920.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 722 920.35 L 729 916.85 L 727.25 920.35 L 729 923.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(723.5,683.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$228,774,140</b><br style="font-size: 15px"/>10/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$1 mil 28-30/10/2013 -->
+    <path class="tanore9" style="" d="M 691.47 949.76 L 691.47 1023.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 691.47 1028.65 L 687.97 1021.65 L 691.47 1023.4 L 694.97 1021.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(645.5,950.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$1 mil</b><br style="font-size: 14px"/>28-30/10/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="45" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Arbus Photograph -->
+    <rect class="tanore9" style="" x="778.5" y="1190" width="120" height="60" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(780.5,1194.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 114px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Arbus Photograph<br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">US$750,000</b><br style="font-size: 14px"/>1/11/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Tanore to Rothko piece -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 560.35 L 1047.25 560.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 560.35 L 1049 556.85 L 1047.25 560.35 L 1049 563.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Tanore to Fontana piece -->
+    <path class="tanore4" style="" d="M 580.88 420.35 L 580.88 440.35 L 1060.88 440.35 L 1060.88 629.76 L 1047.25 629.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore4" style="" d="M 1042 629.76 L 1049 626.26 L 1047.25 629.76 L 1049 633.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Title -->
+    <rect class="tanore1" style="" x="11" y="0" width="310" height="45" fill="#dae8fc" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(67.5,4.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="194" height="34" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 30px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Tanore Phase<br style="font-size: 30px"/></div>
+          </div>
+        </foreignObject>
+        <text x="97" y="32" fill="#000000" text-anchor="middle" font-size="30px" font-family="Arial" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$430 mil 22/3/2013 -->
+    <path class="tanore1" style="" d="M 331.47 374.47 L 485.1 374.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore1" style="" d="M 490.35 374.47 L 483.35 377.97 L 485.1 374.47 L 483.35 370.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(360.5,357.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$430 mil</b><br style="font-size: 14px"/>22/3/2013</div>
+          </div>
+        </foreignObject>
+        <text x="50" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$378 mil 25/3/2013 -->
+    <path class="tanore5" style="" d="M 491.47 405.06 L 337.84 405.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 332.59 405.06 L 339.59 401.56 L 337.84 405.06 L 339.59 408.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(360.5,388.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="100" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">US$378 mil</b><br style="font-size: 14px"/>25/3/2013<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="50" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$61,642,769 5-6/9/2013 -->
+    <path class="tanore9" style="" d="M 711.47 220.35 L 711.47 369.76 L 691.47 369.76 L 691.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 691.47 519.23 L 687.97 512.23 L 691.47 513.98 L 694.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(638.5,463.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="104" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$61,642,769<br style="font-size: 15px"/></b>5-6/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="52" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$171,300,190 4-5/9/2013 -->
+    <path class="tanore9" style="" d="M 611.47 189.76 L 631.47 189.76 L 631.47 513.98" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 631.47 519.23 L 627.97 512.23 L 631.47 513.98 L 634.97 512.23 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore9" style="" transform="translate(574.5,232.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$171,300,190<br style="font-size: 15px"/></b>4-5/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$248.5 mil 12/11/2013 -->
+    <path class="tanore5" style="" d="M 240.88 760.35 L 240.88 805.06 L 340.88 805.06 L 340.88 843.4" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 340.88 848.65 L 337.38 841.65 L 340.88 843.4 L 344.38 841.65 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(231.5,788.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="119" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$248.5 mil</b><br style="font-size: 15px"/>12/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="60" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$12,185,189.32 12/11/2013 -->
+    <path class="tanore5" style="" d="M 236.18 1149.76 L 385.1 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore5" style="" d="M 390.35 1149.76 L 383.35 1153.26 L 385.1 1149.76 L 383.35 1146.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore5" style="" transform="translate(250.5,1132.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="125" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$12,185,189.32</b><br style="font-size: 15px"/>12/11/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="63" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- US$3,206,162.03 10/2/2016 -->
+    <path class="tanore7" style="" d="M 565.59 760.35 L 565.59 1109.76 L 700.88 1109.76 L 700.88 1354.47 L 772.16 1354.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore7" style="" d="M 777.41 1354.47 L 770.41 1357.97 L 772.16 1354.47 L 770.41 1350.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="tanore7" style="" transform="translate(641.5,1212.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="117" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">US$3,206,162.03<br style="font-size: 15px"/></b>10/2/2016<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="59" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Low Teck Szen to Flywheel -->
+    <path class="tanore10" style="" d="M 236.18 1149.76 L 127.25 1149.76" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore10" style="" d="M 122 1149.76 L 129 1146.26 L 127.25 1149.76 L 129 1153.26 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Platinum Global to Arbus Photograph -->
+    <path class="tanore9" style="" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1220.35 L 772.16 1220.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 777.41 1220.35 L 770.41 1223.85 L 772.16 1220.35 L 770.41 1216.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Platinum Global to Picasso painting -->
+    <path class="tanore9" style="" d="M 720.88 1060.35 L 750.29 1060.35 L 750.29 1285.06 L 772.16 1285.06" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 777.41 1285.06 L 770.41 1288.56 L 772.16 1285.06 L 770.41 1281.56 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Arbus Photograph to DiCaprio -->
+    <path class="tanore9" style="" d="M 898.53 1220.35 L 946.76 1220.35 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Picasso painting to Dicaprio -->
+    <path class="tanore9" style="" d="M 898.53 1285.06 L 946.76 1285.06 L 946.76 1254.47 L 1005.1 1254.47" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore9" style="" d="M 1010.35 1254.47 L 1003.35 1257.97 L 1005.1 1254.47 L 1003.35 1250.97 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Jho Low to Heart-shapred diamond -->
+    <path class="tanore6" style="" d="M 565.59 720.35 L 760.88 720.35 L 760.88 1080.35 L 772.16 1080.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="tanore6" style="" d="M 777.41 1080.35 L 770.41 1083.85 L 772.16 1080.35 L 770.41 1076.85 Z" fill="#6c8ebf" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path of Eric Tan owns Tanore -->
+    <path class="tanore1" style="" d="M 436.18 469.76 L 436.18 445.06 L 551.47 445.06 L 551.47 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="tanore1" style="" cx="551" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(474.5,436.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
+          </div>
+        </foreignObject>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
+      </switch>
+    </g>
+
+    <!-- Eric Tan owns Granton -->
+    <path class="tanore1" style="" d="M 436.18 469.76 L 436.18 445.06 L 300.88 445.06 L 300.88 423.35" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="tanore1" style="" cx="301" cy="420" rx="3" ry="3" fill="#6c8ebf" stroke="#6c8ebf" pointer-events="none"/>
+    <g class="tanore1" style="" transform="translate(348.5,436.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="38" height="16" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Arial; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Owns</div>
+          </div>
+        </foreignObject>
+        <text x="19" y="16" fill="#000000" text-anchor="middle" font-size="15px" font-family="Arial">Owns</text>
+      </switch>
+    </g>
+  </g>
+</svg>
