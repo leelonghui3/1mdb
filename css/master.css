@@ -9,6 +9,12 @@
   font-weight: bold;
 }
 
+.title, .byline {
+  font-weight: 900;
+  color: #333 !important;
+  background-color: #dae8fc;
+}
+
 .firstpara-padding-top {
   padding-top: 4em;
 }
@@ -35,17 +41,13 @@ table {
   border: 1px solid #333333;
 }
 
-.container {
-  width: 90%;
-}
-
 th, td {
   text-align: center;
 }
 
 footer {
   max-width: 100%;
-  background-color: #a6dba0;
+  background-color: #dae8fc;
   padding: 30px;
   bottom: 0;
 }
