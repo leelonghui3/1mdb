@@ -141,7 +141,7 @@
 		
 		<nav class="uk-navbar uk-position-z-index uk-hidden-small" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 			<div class="uk-navbar-content uk-text-center">
-				<a href="https://www.malaysiakini.com" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -15px!important;opacity:0.9"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
+				<a href="https://www.malaysiakini.com" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
 				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">Multibillion dollar 1MDB heist</a>
 			</div>
 			<ul class="uk-navbar-nav uk-hidden-small" data-uk-scrollspy-nav="{closest: 'li', smoothscroll: {offset: 60}}">
