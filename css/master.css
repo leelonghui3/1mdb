@@ -37,6 +37,11 @@ p, li {
   line-height: 1.5;
 }
 
+.svg-wrapper {
+  padding: 0.5em;
+  border: 1px solid #ddd;
+}
+
 table {
   border: 1px solid #333333;
 }
