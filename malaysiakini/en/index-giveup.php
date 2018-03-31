@@ -80,15 +80,15 @@
 							</li>
 							<li class="uk-nav-divider"></li>
 							<li>
-								<a href="#m-aabarbvi-svg" style="background-color: #FFE6CC;">Aabar-BVI Phase</a>
+								<a href="#m-aabarbvi-svg" style="background-color: #FFF3E0;">Aabar-BVI Phase</a>
 							</li>
 							<li class="uk-nav-divider"></li>
 							<li>
-								<a href="#m-tanore-svg" style="background-color: #DAE8FC;">Tanore Phase</a>
+								<a href="#m-tanore-svg" style="background-color: #E3F2FD;">Tanore Phase</a>
 							</li>
 							<li class="uk-nav-divider"></li>
 							<li>
-								<a href="#m-buyback-svg" style="background-color: #D5E8D4;">Options Buyback Phase</a>
+								<a href="#m-buyback-svg" style="background-color: #E8F5E9;">Options Buyback Phase</a>
 							</li>
 							<li class="uk-nav-divider"></li>
 							<li>
@@ -296,7 +296,7 @@
 			<div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-display-inline-block uk-position-relative" uk-grid-margin>
 	
 				<div class="uk-hidden@s">
-					<h1 style="background-color: #FFE6CC;">Aabar-BVI Phase</h1>
+					<h1 style="background-color: #FFF3E0;">Aabar-BVI Phase</h1>
 					<object id="m-aabarbvi-svg" type="image/svg+xml" data="svg/m-aabarbvi.svg" width="100%"></object>
 				</div>
 	
@@ -306,7 +306,7 @@
 	
 				<div id="aabarbvi">
 					<div id="aabarbvi-1" uk-parallax="opacity:0,1; viewport:0.4; y:50%">
-						<h1 class="uk-visible@s" style="background-color: #FFE6CC;">Aabar-BVI Phase</h1>
+						<h1 class="uk-visible@s" style="background-color: #FFF3E0;">Aabar-BVI Phase</h1>
 	
 						<div class="firstpara-padding-top" style="z-index: -1;">
 							<object type="image/svg+xml" data="svg/aabarbvi/aabarbvi-1.svg" width="100%"></object>
@@ -475,14 +475,14 @@
 	
 			<div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-display-inline-block uk-position-relative" uk-grid-margin>
 				<div class="uk-hidden@s">
-					<h1 style="background-color: #DAE8FC;">Tanore Phase</h1>
+					<h1 style="background-color: #E3F2FD;">Tanore Phase</h1>
 					<object id="m-tanore-svg" type="image/svg+xml" data="svg/m-tanore.svg" width="100%"></object>
 				</div>
 	
 				<div class="" id="tanore">
 	
 					<div id="tanore-1" uk-parallax="opacity:0,1; viewport:0.4; y:50%">
-						<h1 class="uk-visible@s" style="background-color: #DAE8FC;">Tanore Phase</h1>
+						<h1 class="uk-visible@s" style="background-color: #E3F2FD;">Tanore Phase</h1>
 	
 						<div class="firstpara-padding-top" style="z-index: -1;">
 							<object type="image/svg+xml" data="svg/tanore/tanore-1.svg" width="100%"></object>
@@ -628,7 +628,7 @@
 			<div class="uk-grid uk-child-width-1-1 uk-child-width-1-2@s uk-display-inline-block uk-position-relative" uk-grid-margin>
 	
 				<div class="uk-hidden@s">
-					<h1 style="background-color: #D5E8D4;">Options Buyback Phase</h1>
+					<h1 style="background-color: #E8F5E9;">Options Buyback Phase</h1>
 					<object id="m-buyback-svg" type="image/svg+xml" data="svg/m-buyback.svg" width="100%"></object>
 				</div>
 	
@@ -639,7 +639,7 @@
 				<div id="buyback" class="">
 	
 					<div id="buyback-1" uk-parallax="opacity:0,1; viewport:0.4; y:50%">
-						<h1 class="uk-visible@s" style="background-color: #D5E8D4;">Options Buyback Phase</h1>
+						<h1 class="uk-visible@s" style="background-color: #E8F5E9;">Options Buyback Phase</h1>
 	
 						<div class="firstpara-padding-top" style="z-index: -1;">
 							<object type="image/svg+xml" data="svg/buyback/buyback-1.svg" width="100%"></object>
@@ -730,7 +730,7 @@
 	
 				<div id="cycle" class="">
 					<div uk-parallax="opacity:0,1; viewport:0.4; y:50%">
-						<h2 class="uk-visible@s" style="background-color: #D5E8D4;">Money Cycle</h2>
+						<h2 class="uk-visible@s" style="background-color: #E8F5E9;">Money Cycle</h2>
 	
 						<p class="firstpara-padding-top">The money laundering methods used in Options Buyback phase are similar to the previous stages, but there was one key difference. A significant amount of the Deutsche Bank loan was also used to cover the "hole" in 1MDB’s subsidiary Brazen Sky
 							Limited.
@@ -763,7 +763,7 @@
 					<div id="buyback-8" uk-parallax="opacity:0,1; viewport:'0.3', y:50%" style="z-index: -1">
 	
 						<div class="uk-hidden@s">
-							<h2 style="background-color: #D5E8D4;">Money Cycle</h2>
+							<h2 style="background-color: #E8F5E9;">Money Cycle</h2>
 							<object id="m-cycle-svg" type="image/svg+xml" data="svg/m-cycle.svg" width="100%"></object>
 						</div>
 						
