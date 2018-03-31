@@ -198,7 +198,7 @@
 				</div>
 				<div class="uk-width-medium-3-5">
 					<div class="uk-container uk-container-center uk-container-small">
-						<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;border-left:10px solid #ef9a9a;">Good Star Phase</h2>
+						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #ef9a9a;">Good Star Phase</h2>
 						<div id="goodstar-1" class="uk-block">
 							<p>According to the DOJ, more than US$1 billion was fraudulently diverted from 1MDB in September 2009, soon after its creation.</p>
 							<p>Between 2009 and 2011, 1MDB had entered a joint-venture agreement with PetroSaudi International (PSI), a private Saudi oil extraction company.</p>
@@ -321,7 +321,7 @@
 				</div>
 				<div class="uk-width-medium-3-5">
 					<div class="uk-container uk-container-center">
-						<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;border-left:10px solid #FFCC80;">Aabar-BVI Phase</h2>
+						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #FFCC80;">Aabar-BVI Phase</h2>
 						<div id="aabarbvi-1" class="uk-block">
 							<p>In 2012, 1MDB raised US$3.5 billion in two separate bond offerings to acquire energy assets in Malaysia but a substantial portion of the proceeds - approximately US$1.367 billion - was misappropriated.</p>
 							<p>The bonds were guaranteed by International Petroleum Investments Company (IPIC), an investment entity owned by Abu Dhabi government.</p>
@@ -472,8 +472,8 @@
 				</div>
 				<div class="uk-width-medium-3-5">
 					<div class="uk-container uk-container-center">
+						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #90CAF9;">Tanore Phase</h2>
 						<div id="tanore-1" class="uk-block">
-							<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;border-left:10px solid #90CAF9;">Tanore Phase</h2>
 							<p>In March 2013, 1MDB issued a US$3-billion bonds to generate funds for investment in a joint venture with Aabar called Abu Dhabi Malaysia Investment Company (ADMIC). The money was supposed to be used for the Tun Razak Exchange (TRX) project, a financial centre in Kuala Lumpur that has yet to be completed.</p>
 		
 							<p>However, more than US$1.26 billion in proceeds was diverted to a bank account held in the name of Tanore Finance Corporation through three overseas investments funds and a company, namely Devonshire Capital Growth Fund (Devonshire), Enterprise and Cistenique, and Granton Property Holdings Limited which was owned by Eric Tan (Jho Low). Tanore had no legitimate affiliation with 1MDB or ADMIC, according to the DOJ.</p>
@@ -598,8 +598,8 @@
 				</div>
 				<div class="uk-width-medium-3-5">
 					<div class="uk-container uk-container-center">
+						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #A5D6A7;">Options Buyback Phase</h2>
 						<div id="buyback-1" class="uk-block">
-							<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;border-left:10px solid #A5D6A7;">Options Buyback Phase</h2>
 							<p>In 2014, 1MDB secured two loans totalling US$1.225 billion from Deutsche Bank to buy back the options offered to IPIC’s subsidiary Aabar to acquire interests in energy assets.</p>
 							<p>However, more than US$850 million of the loan went to Aabar-BVI and another offshore entity bearing a similar name incorporated in Seychelles (Aabar-Seychelles).</p>
 							<blockquote class="uk-text-large uk-margin">
@@ -690,8 +690,8 @@
 				</div>
 				<div class="uk-width-medium-3-5">
 					<div class="uk-container uk-container-center">
-						<div id="buyback-8">
-							<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;border-left:10px solid #A5D6A7;">Money Cycle</h2>
+						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #A5D6A7;">Money Cycle</h2>
+						<div id="buyback-8" class="uk-block">
 							<p>The money laundering methods used in Options Buyback phase are similar to the previous stages, but there was one key difference. A significant amount of the Deutsche Bank loan was also used to cover the "hole" in 1MDB’s subsidiary Brazen Sky Limited.</p>
 							<p>It can be traced back to the money trail in <a href="#goodstar" data-uk-smooth-scroll="{top:50}">Good Star phase</a> in 2009, where 1MDB had supposedly invested US$1.83 billion to the 1MDB-PSI joint venture but US$1.03 billion of it was allegedly siphoned for the personal benefit of Jho Low and his associates.</p>
 							<p>On Oct 10, 2015, 1MDB claimed that Brazen Sky was holding a US$2.318 billion in "fund units" which was redeemed from the joint venture. 1MDB claimed the "fund units" comprised its initial US$1.83 billion investment which was redeemed on top of a US$488 million profit.</p>
@@ -809,9 +809,9 @@
 		</section>
 		
 		<!-- What's Next? -->
-		<section id="next" class="uk-block" style="background:#f5f5f5;border-top:3px solid #212121">
+		<section id="next" class="uk-block" style="background:#f5f5f5;border-top:3px solid #212121;">
 			<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-container uk-container-center">
-				<h2 class="uk-article-title uk-text-bold" style="display:inline-block;color:#fff;background:#212121;">What’s Next?</h2>
+				<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #444">What’s Next?</h2>
 				<p>Several banks in Switzerland and Singapore were fined and ordered close by the authorities. Among others, the Swiss government will absorb CHF95 million (approximately US$100 million) from 1MDB-linked funds seized from several banks as there are no claimants.</p>
 				<p>Before that in Jan 2017, Jho Low’s family also won a court action in New Zealand to transferred several assets to a new trustee, in a bit to protect the assets from being seized by the DOJ.</p>
 				<p>The assets, worth US$256 million, include the Bombardier Jet, the Hillcrest property in Beverly Hills and three other properties.</p>
