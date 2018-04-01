@@ -2,10 +2,42 @@
   box-sizing: border-box;
 }
 
-.uk-navbar-nav>li:not(.uk-active)>a:active, .uk-navbar-nav>li:not(.uk-active)>a:focus {
+/* .uk-navbar-nav>li:not(.uk-active)>a:active, .uk-navbar-nav>li:not(.uk-active)>a:focus {
   background-color: inherit;
   border-left-color: rgba(0, 0, 0, 0);
   border-right-color: rgba(0, 0, 0, 0);
+  font-weight: bold;
+} */
+
+.uk-navbar .uk-navbar-nav li:hover a {
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(1):hover a, .uk-navbar .uk-navbar-nav li:nth-child(1).uk-active a {
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(2):hover a, .uk-navbar .uk-navbar-nav li:nth-child(2).uk-active a {
+  background-color: #F8CECC;
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(3):hover a, .uk-navbar .uk-navbar-nav li:nth-child(3).uk-active a {
+  background-color: #FFE6CC;
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(4):hover a, .uk-navbar .uk-navbar-nav li:nth-child(4).uk-active a {
+  background-color: #DAE8FC;
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(5):hover a, .uk-navbar .uk-navbar-nav li:nth-child(5).uk-active a {
+  background-color: #A5D6A7;
+  font-weight: bold;
+}
+
+.uk-navbar .uk-navbar-nav li:nth-child(6):hover a, .uk-navbar .uk-navbar-nav li:nth-child(6).uk-active a {
   font-weight: bold;
 }
 
@@ -35,6 +67,11 @@ p, li {
   font-family: "Arial";
   font-size: 18px;
   line-height: 1.5;
+}
+
+.svg-wrapper {
+  padding: 0.5em;
+  border: 1px solid #ddd;
 }
 
 table {
