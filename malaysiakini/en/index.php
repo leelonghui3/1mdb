@@ -69,18 +69,21 @@
 		</script>
 		
 		<script type='text/javascript' defer>
+			
+			var mrec1_slot, mre2_slot;
 
-				googletag.cmd.push(function() {
-					
-					//googletag.defineSlot('/6929183/MK-EN//News//MRec1', [300, 250], 'div-gpt-ad-1438234989904-MRec1').addService(googletag.pubads());
-	
-					
-		       		googletag.pubads().enableSingleRequest();
-			        googletag.pubads().enableAsyncRendering();
-			        googletag.enableServices();
-			        
-					//googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438234989904-MRec1'); });
-				});
+			googletag.cmd.push(function() {
+				mrec1_slot = googletag.defineSlot('/6929183/mk_en_mobile_hp_mrec1', [300, 250], 'div-gpt-ad-1446540080416-1').addService(googletag.pubads());
+				mrec2_slot = googletag.defineSlot('/6929183/mk_en_mobile_hp_mrec2', [300, 250], 'div-gpt-ad-1446540080416-2').addService(googletag.pubads());
+
+				googletag.pubads().enableSingleRequest();
+				googletag.pubads().enableAsyncRendering();
+				googletag.pubads().collapseEmptyDivs();
+				googletag.enableServices();
+			});
+			
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446540080416-1'); });
+			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446540080416-2'); });
 
 		</script>
 	</head>
@@ -99,7 +102,10 @@
 			</div>
 			<nav class="uk-navbar uk-position-z-index" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 				<div class="uk-navbar-content">
-					<a href="https://www.malaysiakini.com" style="margin-left:-15px"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="50" height="50" alt="Malaysiakini"></a>
+					<a href="https://www.malaysiakini.com/en" style="margin-left:-15px"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="50" height="50" alt="Malaysiakini"></a>
+				</div>
+				<div class="uk-navbar-content uk-navbar-brand">
+					<a href="#" style="color:#fff" data-uk-smooth-scroll="{offset:50}">1MDB</a>
 				</div>
 				<div class="uk-navbar-content uk-navbar-flip">
 					<a href="#modal-menu" class="uk-contrast uk-float-right" style="color:#fff" data-uk-modal><i class="uk-icon-bars"></i> &nbsp; Sections</a>
@@ -141,7 +147,7 @@
 		
 		<nav class="uk-navbar uk-position-z-index uk-hidden-small" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 			<div class="uk-navbar-content uk-text-center">
-				<a href="https://www.malaysiakini.com" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
+				<a href="https://www.malaysiakini.com/en" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
 				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">Multibillion dollar 1MDB heist</a>
 			</div>
 			<ul class="uk-navbar-nav uk-hidden-small" data-uk-scrollspy-nav="{closest: 'li', smoothscroll: {offset: 60}}">
@@ -171,10 +177,6 @@
 		<section id="intro" class="uk-block">
 			<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-container uk-container-center">
 				<p>The seizure of The Equanimity luxury yacht in Bali, Indonesia, in late February this year, has once again brought the civil forfeiture suits by the US Department of Justice (DOJ) into the spotlight.</p>
-				<div class="uk-text-center" style="margin:30px 0" hidden>
-					<!-- /6929183/MK-EN//{{dfp_cat_name}}//MRec1 -->
-					<div id='div-gpt-ad-1438234989904-MRec1' style="width:300px;height:250px;margin:0 auto;"></div>
-				</div>
 				<p>The DOJ had filed a series of the forfeiture suits in 2016 and 2017, seeking to seize assets worth nearly US$1.7 billion allegedly acquired using money siphoned off from the Malaysian fund 1Malaysia Development Berhad (1MDB).</p>
 				<p>According to the DOJ, 1MDB officials and their associates had embezzled US$4.5 billion between 2009 and 2014, which was allegedly laundered through the global financial systems including the US. It is the most extensive action brought under its Kleptocracy Asset Recovery Initiative. The department said that the money was used for personal gain.</p>
 				<p>They include purchasing luxury properties, artworks, a private jet, jewellery, funding movie production company which produced movies like "The Wolf of Wall Street". The Equanimity, which is said to belong to Malaysian businessperson Jho Low, was one of the assets on the list.</p>
@@ -182,6 +184,10 @@
 				<p>Several celebrities, including Hollywood actor Leonardo Dicaprio and model Miranda Kerr were dragged into the matter.</p>
 				<p>The lawsuits had categorised the money-laundering processes over the five-year period into four phases, namely the "Good Star phase", "Aabar BVI phase", "Tanore phase" and "Options Buyback phase".</p>
 				<p>The lawsuits consist several hundred pages long and provide a blow-by-blow account of the complex series of transaction. This article will break down the complexities of the suits and walk readers through the money trail.</p>
+				<div class="uk-text-center" style="margin:30px 0">
+					<div class="uk-article-meta uk-text-uppercase" style="letter-spacing:1px">Advertisement</div>
+					<div id='div-gpt-ad-1446540080416-1' style='height:250px;width:300px;margin:10px auto 0;'></div>
+				</div>
 			</div>
 		</section>
 	
@@ -288,6 +294,10 @@
 							<figure>
 								<img src="svg/goodstar/goodstar-10.svg" alt="" width="100%">
 							</figure>
+						</div>
+						<div class="uk-text-center" style="margin:30px 0">
+							<div class="uk-article-meta uk-text-uppercase" style="letter-spacing:1px">Advertisement</div>
+							<div id='div-gpt-ad-1446540080416-2' style='height:250px;width:300px;margin:10px auto 0;'></div>
 						</div>
 					</div>
 					<div class="uk-visible-small uk-block" style="background:#f5f5f5">
