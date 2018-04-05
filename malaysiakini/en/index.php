@@ -184,7 +184,7 @@
 				<p>The seizure of The Equanimity luxury yacht in Bali, Indonesia, in late February this year, has once again brought the civil forfeiture suits by the US Department of Justice (DOJ) into the spotlight.</p>
 				<p>The DOJ had filed a series of the forfeiture suits in 2016 and 2017, seeking to seize assets worth nearly US$1.7 billion allegedly acquired using money siphoned off from the Malaysian fund 1Malaysia Development Berhad (1MDB).</p>
 				<p>According to the DOJ, 1MDB officials and their associates had embezzled US$4.5 billion between 2009 and 2014, which was allegedly laundered through the global financial systems including the US. It is the most extensive action brought under its Kleptocracy Asset Recovery Initiative. The department said that the money was used for personal gain.</p>
-				<p>They include purchasing luxury properties, artworks, a private jet, jewellery, funding movie production company which produced movies like "The Wolf of Wall Street". The Equanimity, which is said to belong to Malaysian businessperson Jho Low, was one of the assets on the list.</p>
+				<p>They include purchasing luxury properties, artworks, a private jet, jewellery, funding a movie production company which produced movies like "The Wolf of Wall Street". The Equanimity, which is said to belong to Malaysian businessperson Jho Low, was one of the assets on the list.</p>
 				<p>Jho Low, whose full name is Low Taek Jho, was portrayed as the mastermind of the money laundering scheme in the DOJ lawsuit. Several other persons were named in the lawsuits, including Jho Low’s friend Riza Aziz, who is also the stepson of Malaysian Prime Minister Najib Abdul Razak, several 1MDB officers, and an unnamed "Malaysian Official 1", who was said to be Najib himself.</p>
 				<p>Several celebrities, including Hollywood actor Leonardo Dicaprio and model Miranda Kerr were dragged into the matter.</p>
 				<p>The lawsuits had categorised the money-laundering processes over the five-year period into four phases, namely the "Good Star phase", "Aabar BVI phase", "Tanore phase" and "Options Buyback phase".</p>
@@ -227,7 +227,7 @@
 							<figure>
 								<img src="svg/goodstar/goodstar-1.svg" alt="" width="100%">
 							</figure>
-							<p>Two officials, who were named by DOJ as 1MDB Officer 1 and 2, had misrepresented to banks that Good Star was a subsidiary of PSI. 1MDB’s board of director was told that the US$700 million was used to settle the debt owed by the joint venture to PSI.</p>
+							<p>Two officials, who were named by DOJ as 1MDB Officer 1 and 2, had misrepresented to banks that Good Star was a subsidiary of PSI. 1MDB’s board of directors was told that the US$700 million was used to settle the debt owed by the joint venture to PSI.</p>
 							<p>Although Jho Low had no official position in 1MDB, he was an adviser in the formation of 1MDB’s predecessor, the Terengganu Investment Authority (TIA). The investment arm of Terengganu, a Malaysian state, was taken over by the federal government and renamed as 1MDB in early 2009.</p>
 							<p>Jho Low built his relationship with Najib’s family through Riza, whom he has known since his days in university.</p>
 						</div>
@@ -242,7 +242,7 @@
 						</div>
 						<hr>
 						<div id="goodstar-3" class="uk-block">
-							<p>As of 25 Oct 2011, a total of US$1.03 billion of 1MDB’s funds was diverted to Good Star. Low used US$35 million of it to purchase the Stratton Penthouse and the Stratton Flat in London, while diverted US$10,173,104 for the production of the movie The Wolf of Wall Street.</p>
+							<p>As of Oct 25, 2011, a total of US$1.03 billion of 1MDB’s funds was diverted to Good Star. Low used US$35 million of it to purchase the Stratton Penthouse and the Stratton Flat in London, while diverted US$10,173,104 for the production of the movie "The Wolf of Wall Street".</p>
 							<figure>
 								<img src="svg/goodstar/goodstar-3.svg" alt="" width="100%">
 							</figure>
@@ -251,7 +251,7 @@
 						</div>
 						<hr>
 						<div id="goodstar-4" class="uk-block">
-							<p>In Jan 2017, a Singapore court disclosed that <a href="https://www.channelnewsasia.com/news/singapore/1mdb-probe-falcon-bank-s-former-branch-manager-sentenced-to-28-w-7581388" target="_blank">Eric Tan</a> was, in fact, an alias for Jho Low.</p>
+							<p>In January 2017, a Singapore court disclosed that <a href="https://www.channelnewsasia.com/news/singapore/1mdb-probe-falcon-bank-s-former-branch-manager-sentenced-to-28-w-7581388" target="_blank">Eric Tan</a> was, in fact, an alias for Jho Low.</p>
 							<figure>
 								<img src="svg/goodstar/goodstar-4.svg" alt="" width="100%">
 							</figure>
@@ -273,7 +273,7 @@
 						<hr>
 						<div id="goodstar-7" class="uk-block">
 							<p>Jho Low tried to mask the acquisition of assets using the ill-gotten funds in Good Star by going through law firms as well as a web of companies and his father.</p>
-							<p>Between 21 Oct 2009 and 13 Oct 2010, more than US$368 million in 11 wires was moved from Good Star to an Interest on Lawyer Account held by law firm Shearman & Sterling LLP (Shearman IOLA) in the United States.</p>
+							<p>Between Oct 21, 2009 and Oct 13, 2010, more than US$368 million in 11 wires was moved from Good Star to an Interest on Lawyer Account held by law firm Shearman & Sterling LLP (Shearman IOLA) in the United States.</p>
 							<p>Subsequently, the money was used to purchase luxury properties, a hotel and a private jet. They included the L'Ermitage Hotel, a Hillcrest property in Beverly Hill, a Park Laurel Condominium unit, and a Bombardier Global 5000 aircraft worth millions of US dollars respectively.</p>
 							<figure>
 								<img src="svg/goodstar/goodstar-7.svg" alt="" width="100%">
@@ -282,7 +282,7 @@
 						<hr>
 						<div id="goodstar-8" class="uk-block">
 							<p>The DOJ also found that Jho Low purchased assets using his father’s bank account, Larry.</p>
-							<p>Good Star transferred approximately US$508 million to Abu Dhabi-Kuwait-Malaysia Investment Corporation (ADKMIC) between 28 June 2011 and 4 Sept 2013. Low owned ADKMIC for money laundering, DOJ claimed. Good Star’s account was closed on 5 Sept 2013 after the transactions.</p>
+							<p>Good Star transferred approximately US$508 million to Abu Dhabi-Kuwait-Malaysia Investment Corporation (ADKMIC) between June 28, 2011 and Sept 4, 2013. Low used ADKMIC for money laundering, DOJ claimed. Good Star’s account was closed on 5 Sept 2013 after the transactions.</p>
 							<p>Following this, ADKMIC transferred about US$327 million to Larry in three tranches in 2011 and 2012. Larry then wired the funds to an account in the name of Selune Ltd (US$30 million) and Jho Low (US$268 million) respectively.</p>
 							<p>Selune subsequently wired US$27 million to Shearman IOLA. The money was used as part of the funds to purchase Time Warner Penthouse.</p>
 							<figure>
@@ -354,7 +354,7 @@
 						<div id="aabarbvi-2" class="uk-block">
 							<p>1MDB received the proceeds of each of the bond issue in 2012, but the proceeds were almost immediately transferred to an entity called Aabar Investments PJS Limited (Aabar-BVI), a British Virgin Islands-registered corporation.</p>
 		
-							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC or Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
+							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC and Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-2.svg" alt="" width="100%">
 							</figure>
@@ -400,8 +400,8 @@
 						</div>
 						<hr>
 						<div id="aabarbvi-8" class="uk-block">
-							<p>Riza then channelled the money to film production company Red Granite Pictures to produce films such as The Wolf of Wall Street, Daddy’s Home and Dumb and Dumber To.</p>
-							<p>The production of The Wolf of Wall Street received over US$60 million in the <a href="#goodstar" data-uk-smooth-scroll="{top:50}">Good Star phase</a> and Aabar-BVI phase. Red Granite Pictures <a href="https://www.malaysiakini.com/news/414701" target="_blank">reached a settlement</a> with the US government
+							<p>Riza then channelled the money to film production company Red Granite Pictures to produce films such as "The Wolf of Wall Street", "Daddy’s Home" and "Dumb and Dumber To".</p>
+							<p>The production of "The Wolf of Wall Street" received over US$60 million in the <a href="#goodstar" data-uk-smooth-scroll="{top:50}">Good Star phase</a> and Aabar-BVI phase. Red Granite Pictures <a href="https://www.malaysiakini.com/news/414701" target="_blank">reached a settlement</a> with the US government
 								to the tune of US$60 million, and Riza will only draw a limited salary to cover his health insurance until the full settlement amount is paid.</p>
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-8.svg" alt="" width="100%">
@@ -428,7 +428,10 @@
 						</div>
 						<hr>
 						<div id="aabarbvi-11" class="uk-block">
-							<p>Meanwhile, Blackstone also wired a whopping US$321.3 million to Alsen Chance Holdings Limited, which was described as a company that did "consulting works for building and construction projects". US$1.2 million from Alsen Chance then used by Riza to purchase the Metropolis poster, a framed, 3-sheet colour lithograph poster created by the German artist Heinz SchulzNeudamm for the 1927 silent film "Metropolis".</p>
+							<p>Meanwhile, Blackstone also wired a whopping US$321.3 million to Alsen Chance Holdings Limited, which was described as a company that did &quot;consulting works for building and construction projects&quot;.
+US$1.2 million from Alsen Chance then used by Riza to purchase the “Metropolis” poster, a framed,
+three-sheet colour lithograph poster created by the German artist Heinz SchulzNeudamm for the 1927
+silent film &quot;Metropolis&quot;.</p>
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-11.svg" alt="" width="100%">
 							</figure>
@@ -447,7 +450,7 @@
 						</div>
 						<hr>
 						<div id="aabarbvi-13" class="uk-block">
-							<p>Jho Low used the same modus operandi of creating the impression that he was using his family wealth to purchase a diamond ring & earrings worth US$2,842,475 for his mother, Evelyn Goh. Money from Alsen Chance was masked with pass through transactions through his father’s account before being wired to Jho Low.</p>
+							<p>Jho Low used the same modus operandi of creating the impression that he was using his family wealth to purchase a diamond ring and earrings worth US$2,842,475 for his mother, Evelyn Goh. Money from Alsen Chance was masked with pass through transactions through his father’s account before being wired to Jho Low.</p>
 							<p id="aabarbvi-14" class="para-margin-bottom">Jho Low also used US$142.25 million from Alsen Chance to acquire interests in Electrum Group, a private equity firm in the United States, that worth US$150 million.</p>
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-13.svg" alt="" width="100%">
@@ -503,9 +506,9 @@
 						</div>
 						<hr>
 						<div id="tanore-2" class="uk-block">
-							<p>US$681 million from Tanore was transferred to MO1 between 21 and 25 March 2013. Of this amount, approximately US$620 million was returned to Tanore on 26 Aug 2013.</p>
-							<p>It was consistent with <a href="https://www.wsj.com/articles/SB10130211234592774869404581083700187014570" target="_blank">Wall Street Journal’s exposé in 2015</a> that US$681 million from 1MDB was deposited into Najib’s bank account on 21 and 25 March 2013.</p>
-							<p>Najib denied taking public funds for personal gain, claiming the money was a political donation from the Saudi royal family. The Malaysian attorney-general Mohamed Apandi Ali <a href="https://www.malaysiakini.com/news/328237" target="_blank">cleared Najib of wrong doing</a>, adding that he had <a href="https://www.malaysiakini.com/news/328239" target="_blank">returned</a> US$620 million to the "donor" in August 2013.</p>
+							<p>US$681 million from Tanore was transferred to MO1 between March 21 and March 25, 2013. Of this amount, approximately US$620 million was returned to Tanore on Aug 26, 2013.</p>
+							<p>It was consistent with <a href="https://www.wsj.com/articles/SB10130211234592774869404581083700187014570" target="_blank">Wall Street Journal’s exposé in 2015</a> that US$681 million from 1MDB was deposited into Najib’s bank account on March 21 and March 25, 2013.</p>
+							<p>Najib denied taking public funds for personal gain, claiming the money was a political donation from the Saudi royal family. The Malaysian attorney-general Mohamed Apandi Ali <a href="https://www.malaysiakini.com/news/328237" target="_blank">cleared Najib of wrongdoing</a>, adding that he had <a href="https://www.malaysiakini.com/news/328239" target="_blank">returned</a> US$620 million to the "donor" in August 2013.</p>
 							<figure>
 								<img src="svg/tanore/tanore-2.svg" alt="" width="100%">
 							</figure>
@@ -523,13 +526,13 @@
 							<ul>
 								<li>An unnamed work by Mark Ryden (US$714,000)</li>
 								<li>An unnamed work by Ed Ruscha (US$367,500)</li>
-								<li>Dustheads by Jean-Michel Basquiat (US$48,843,750)</li>
-								<li>Untitled – Standing Mobile by Alexander Calder (US$5,387,750)</li>
-								<li>Tic Tac Toe by Alexander Calder (US$3,035,750)</li>
-								<li>Concetto spaziale, Attese by Lucio Fontana (US$7.95 million)</li>
-								<li>Untitled (Yellow and Blue) by Mark Rothko (US$71.55 million)</li>
+								<li>"Dustheads" by Jean-Michel Basquiat (US$48,843,750)</li>
+								<li>"Untitled – Standing Mobile" by Alexander Calder (US$5,387,750)</li>
+								<li>"Tic Tac Toe" by Alexander Calder (US$3,035,750)</li>
+								<li>"Concetto spaziale, Attese" by Lucio Fontana (US$7.95 million)</li>
+								<li>"Untitled (Yellow and Blue)" by Mark Rothko (US$71.55 million)</li>
 							</ul>
-							<p>Tan later gifted Ryden’s unnamed artwork to Joey McFarland, the co-founder of Red Granite Picture and passed Dustheads, Untitled (Yellow and Blue), Concetto spaziale and Tic Tac Toe pieces to Jho Low.</p>
+							<p>Tan later gifted Ryden’s unnamed artwork to Joey McFarland, the co-founder of Red Granite Picture and passed "Dustheads", "Untitled (Yellow and Blue)", "Concetto spaziale" and "Tic Tac Toe" pieces to Jho Low.</p>
 							<figure>
 								<img src="svg/tanore/tanore-4.svg" alt="" width="100%">
 							</figure>
@@ -543,7 +546,7 @@
 						</div>
 						<hr>
 						<div id="tanore-6" class="uk-block">
-							<p>Jho Low then used the money to purchase the Van Gogh’s La maison de Vincent a Arles painting, Claude Monet’s Saint-Georges Majeur and Nymphéas paintings, Stratton Office in Mayfair, London, and an 11.72-carat heart-shaped diamond as a gift to model Miranda Kerr.</p>
+							<p>Jho Low then used the money to purchase the Van Gogh’s "La maison de Vincent a Arles" painting, Claude Monet’s "Saint-Georges Majeur" and "Nymphéas" paintings, Stratton Office in Mayfair, London, and an 11.72-carat heart-shaped diamond as a gift to model Miranda Kerr.</p>
 							<figure>
 								<img src="svg/tanore/tanore-6.svg" alt="" width="100%">
 							</figure>
@@ -566,9 +569,9 @@
 							<figure>
 								<img src="svg/tanore/tanore-8.svg" alt="" width="100%">
 							</figure>
-							<p>The yacht was <a href="https://www.malaysiakini.com/news/413822" target="_blank">seized</a> by the Indonesian authorities and the US Federal Bureau of Intelligence (FBI) in Bali on 28 Feb this year.</p>
+							<p>The yacht was <a href="https://www.malaysiakini.com/news/413822" target="_blank">seized</a> by the Indonesian authorities and the US Federal Bureau of Intelligence (FBI) in Bali on Feb 28 this year.</p>
 							<p><a href="https://www.nst.com.my/news/nation/2018/02/339975/jho-low-disappointed-assets-continue-be-seized-doj" target="_blank">Jho Low</a>, through his spokesperson, expressed disappointment that the DOJ continues to seize assets despite what he claimed was its inability to prove any impropriety.</p>
-							<p>According to a court filing made by the DOJ in March 26,2018, the authority had <a href="https://www.malaysiakini.com/news/417355" target="_blank">applied to be the custodian</a> of The Equanimity but <a href="https://www.malaysiakini.com/news/417351" target="_blank">the claimants</a> to the vessel had sought to halt the seizure in Indonesian court.</p>
+							<p>According to a court filing made by the DOJ in March 26, 2018, the authority had <a href="https://www.malaysiakini.com/news/417355" target="_blank">applied to be the custodian</a> of The Equanimity but <a href="https://www.malaysiakini.com/news/417351" target="_blank">the claimants</a> to the vessel had sought to halt the seizure in Indonesian court.</p>
 						</div>
 						<hr>
 						<div id="tanore-9" class="uk-block">
@@ -658,14 +661,14 @@
 						</div>
 						<hr>
 						<div id="buyback-5" class="uk-block">
-							<p>Based on the DOJ’s document, Eric Tan (Jho Low), owned Affinity Equity, Blackrock, Vista Equity and TKIL Capital Partners. Jho Low held dragon Market and Dragon Dynasty.</p>
+							<p>Based on the DOJ’s document, Eric Tan (Jho Low), owned Affinity Equity, Blackrock, Vista Equity and TKIL Capital Partners. Jho Low held Dragon Market and Dragon Dynasty.</p>
 							<figure>
 								<img src="svg/buyback/buyback-5.svg" alt="" width="100%">
 							</figure>
 						</div>
 						<hr>
 						<div id="buyback-6" class="uk-block">
-							<p>Jho Low also received money from Affinity Equity through Alpha Synergy Limited, a company also owned by him. In total, US$206.96 million of the bond proceeds, which were siphoned from 1MDB, were transferred to Jho Low’s bank account between Jun 3 and Nov 12, 2014.</p>
+							<p>Jho Low also received money from Affinity Equity through Alpha Synergy Limited, a company also owned by him. In total, US$206.96 million of the bond proceeds, which were siphoned from 1MDB, were transferred to Jho Low’s bank account between June 3 and Nov 12, 2014.</p>
 							<figure>
 								<img src="svg/buyback/buyback-6.svg" alt="" width="100%">
 							</figure>
@@ -807,7 +810,7 @@
 							<p>As such, 1MDB had breached the loan agreement. prompting Deutsche Bank to demand early repayment of the US$975 million loan after it had found out the deceit in May 2015.</p>
 							<p>The Malaysian government announced the restructuring plan in the same month which paved the way for IPIC to come in with US$1 billion to help 1MDB for the loan repayment in exchange for certain assets.</p>
 							<p>A year later in April 2016, the white knight deal soured as IPIC argued that 1MDB and the Ministry of Finance did not meet some of their payment obligations, which 1MDB and the ministry had vehemently denied. As a result, the issue turned into an arbitration case.</p>
-							<p>In April 2017, both IPIC and 1MDB had reached a settlement over the matter. 1MDB agreed to pay IPIC US$1.2 billion and both party would discuss the payments made by 1MDB to "certain entities", which were believed referring to Aabar-BVI and Aabar-Seychelles. The Malaysian government had paid US$1.2 billion to IPIC end of last year.</p>
+							<p>In April 2017, both IPIC and 1MDB had reached a settlement over the matter. 1MDB agreed to pay IPIC US$1.2 billion and both parties would discuss the payments made by 1MDB to "certain entities", which were believed referring to Aabar-BVI and Aabar-Seychelles. The Malaysian government had paid US$1.2 billion to IPIC end of last year.</p>
 						</div>
 					</div>
 					<div class="uk-visible-small uk-block" style="background:#f5f5f5">
@@ -833,11 +836,11 @@
 			<div class="uk-width-small-1-1 uk-width-medium-2-3 uk-container uk-container-center">
 				<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #444">What’s Next?</h2>
 				<p>Several banks in Switzerland and Singapore were fined and ordered close by the authorities. Among others, the Swiss government will absorb CHF95 million (approximately US$100 million) from 1MDB-linked funds seized from several banks as there are no claimants.</p>
-				<p>Before that in Jan 2017, Jho Low’s family also won a court action in New Zealand to transferred several assets to a new trustee, in a bit to protect the assets from being seized by the DOJ.</p>
+				<p>Before that in January 2017, Jho Low’s family also won a court action in New Zealand to transferred several assets to a new trustee, in a bit to protect the assets from being seized by the DOJ.</p>
 				<p>The assets, worth US$256 million, include the Bombardier Jet, the Hillcrest property in Beverly Hills and three other properties.</p>
-				<p>The DOJ <a href="https://www.malaysiakini.com/news/391564" target="_blank">applied to stay its civil forfeiture suits</a> in Aug last year, pending an ongoing criminal investigation by the FBI.</p>
+				<p>The DOJ <a href="https://www.malaysiakini.com/news/391564" target="_blank">applied to stay its civil forfeiture suits</a> in August last year, pending an ongoing criminal investigation by the FBI.</p>
 				<p>It was reported that Republican donor <a href="https://www.wsj.com/articles/trump-ally-was-in-talks-to-earn-millions-in-effort-to-end-1mdb-probe-in-u-s-1519919321" target="_blank">Elliott Broidy</a>, a close ally of US President Donald Trump, was trying to negotiate a deal with Jho Low to drop the investigation.</p>
-				<p>The 1MDB probe in Malaysia is stalled with police claming that there had been no new developments. The inspector-general of police Mohamed Fuzi Harun claimed police had determined <a href="https://www.malaysiakini.com/news/414814" target="_blank">there was nothing to link Jho Low with 1MDB</a>.</p>
+				<p>The 1MDB probe in Malaysia is stalled with police claiming that there had been no new developments. The Inspector-general of police Mohamed Fuzi Harun claimed police had determined <a href="https://www.malaysiakini.com/news/414814" target="_blank">there was nothing to link Jho Low with 1MDB</a>.</p>
 				<p>The 1MDB issue has become a hot potato for the Malaysian government since the last general election in 2013. The opposition is expected to leverage on this in its campaign to unseat Najib and the ruling coalition in the coming general election, which is widely speculated to be held in late April or early May this year.</p>
 				<p>Any new developments on the 1MDB case on the global front, coupled with inaction locally, will harm the Barisan Nasional’s standing in the national polls.</p>
 				<hr>

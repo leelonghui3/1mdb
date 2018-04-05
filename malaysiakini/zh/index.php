@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zh">
 	<head>
-		<title>被窃走的一马资金：重温美国充公行动</title>
+		<title>重温一马公司案：从吉隆坡烧起的全球洗钱网络</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
@@ -10,23 +10,25 @@
 		<meta property="og:locale" content="zh_cn">
 		<meta property="og:type" content="article">
 		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/zh/">
-		<meta property="og:title" content="被窃走的一马资金：重温美国充公行动">
-		<meta property="og:description" content="In light of the seizure of The Equanimity, Malaysiakini revisits the DOJ's forfeiture suits and walk through the money trail.">
+		<meta property="og:title" content="重温一马公司案">
+		<meta property="og:description" content="从吉隆坡烧起的全球洗钱网络">
 		<meta property="og:site_name" content="Malaysiakini">
 		<meta property="article:author" content="https://www.facebook.com/mkinicn/">
-		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/zh/img/fb-1200x630.png">
+		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/zh/img/zh_fb_1200x630.png">
 		<meta property="article:publisher" content="https://www.facebook.com/mkinicn/">
-		<meta property="article:published_time" content="2018-04-XXT12:30:00+08:00">
+		<meta property="article:published_time" content="2018-04-05T22:30:00+08:00">
 		<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.5/css/uikit.min.css">
 		<style>
 			html,
 			body {
-				font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Verdana, Tahoma, Roboto, Arial, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif!important;
+				font-family:STHeitiSC-Light,Helvetica,Tahoma,Arial,STXihei,"华文细黑","Microsoft YaHei","微软雅黑",SimSun,"宋体",Heiti,"黑体",sans-serif
 				-webkit-font-smoothing: antialiased;
 				-moz-osx-font-smoothing: grayscale;
 				font-size:18px;
-				line-height: 1.35em;
+				font-weight:400;
+				line-height: 1.8em;
 				margin: 0;
+				letter-spacing:0.5px;
 				padding-bottom:30px;
 			}
 			figure{margin:1em 0;padding:1em;border:1px solid #ddd;-webkit-filter: grayscale(100%);filter: grayscale(100%);}
@@ -92,9 +94,9 @@
 		<section class="uk-visible-small">
 			<div class="uk-block uk-text-center uk-visible-small" style="padding-bottom:0">
 				<div class="uk-container uk-container-center uk-margin-top">
-					<h1 class="uk-article-title">被窃走的一马资金</h1>
-					<p class="uk-article-lead" style="font-size:24px;letter-spacing:1px;">重温美国充公行动</p>
-					<p style="font-size:16px">李龙辉与《当今大马》 &nbsp; | &nbsp; 2018年4月X日</p>
+					<h1 class="uk-article-title" style="margin:0;letter-spacing:1px;font-weight:900;">重温一马公司案</h1>
+					<p class="uk-article-lead" style="margin:5px 0 0;font-size:20px;letter-spacing:3px;">从吉隆坡烧起的全球洗钱网络</p>
+					<p class="uk-article-meta uk-margin-top" style="font-size:16px">李龙辉 与《当今大马》 &nbsp; | &nbsp; 2018年4月5日</p>
 				</div>
 				<div class="">
 					<img src="../en/img/cover-1920x1080.jpg" width="100%">
@@ -105,7 +107,7 @@
 					<a href="https://www.malaysiakini.com/zh" style="margin-left:-15px"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="50" height="50" alt="《当今大马》"></a>
 				</div>
 				<div class="uk-navbar-content uk-navbar-brand">
-					<a href="#" style="color:#fff" data-uk-smooth-scroll="{offset:50}">被窃走的一马资金</a>
+					<a href="#" style="color:#fff" data-uk-smooth-scroll="{offset:50}">重温一马公司案</a>
 				</div>
 				<div class="uk-navbar-content uk-navbar-flip">
 					<a href="#modal-menu" class="uk-contrast uk-float-right" style="color:#fff" data-uk-modal><i class="uk-icon-bars"></i> &nbsp; 章节</a>
@@ -133,8 +135,8 @@
 			<img src="../en/img/cover-1920x1080.jpg" width="100%">
 			<figcaption class="uk-overlay-panel uk-flex uk-flex-center uk-flex-middle uk-text-center">
 				<div style="color:#212121">
-					<h1 class="uk-article-title uk-text-bold" style="font-size:48px;letter-spacing:2px;">被窃走的一马资金</h1>
-					<p class="uk-article-lead" style="margin-top:25px;font-size:45px;font-weight:300;letter-spacing:5px;">重温美国充公行动</p>
+					<h1 class="uk-article-title uk-text-bold" style="font-size:48px;letter-spacing:2px;">重温一马公司案</h1>
+					<p class="uk-article-lead" style="margin-top:35px;font-size:38px;font-weight:300;letter-spacing:5px;">从吉隆坡烧起的全球洗钱网络</p>
 					<p class="uk-margin-large-top" style="font-size:18px;font-weight:300;letter-spacing:1px;">李龙辉 与《当今大马》 &nbsp; | &nbsp; 2018年4月5日</p>
 					<a href="#intro" data-uk-smooth-scroll="{offset:60}"><i class="uk-icon-chevron-down uk-icon-large"></i></a>
 				</div>
@@ -152,7 +154,7 @@
 		<nav class="uk-navbar uk-position-z-index uk-hidden-small" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 			<div class="uk-navbar-content uk-text-center">
 				<a href="https://www.malaysiakini.com/en" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
-				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">被窃走的一马资金</a>
+				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">重温一马公司案</a>
 			</div>
 			<ul class="uk-navbar-nav uk-hidden-small" data-uk-scrollspy-nav="{closest: 'li', smoothscroll: {offset: 60}}">
 				<li class="uk-active"><a href="#intro">前言</a></li>
