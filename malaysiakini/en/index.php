@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Multibillion dollar 1MDB heist: The DOJ lawsuit revisited</title>
+		<title>'Stolen' 1MDB Funds: The DOJ lawsuit revisited</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
@@ -10,11 +10,11 @@
 		<meta property="og:locale" content="en_GB">
 		<meta property="og:type" content="article">
 		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/en/">
-		<meta property="og:title" content="【 Multibillion dollar 1MDB heist 】 The DOJ lawsuit revisited">
+		<meta property="og:title" content="'Stolen' 1MDB Funds: The DOJ lawsuit revisited">
 		<meta property="og:description" content="In light of the seizure of The Equanimity, Malaysiakini revisits the DOJ's forfeiture suits and walk through the money trail.">
 		<meta property="og:site_name" content="Malaysiakini">
 		<meta property="article:author" content="https://www.facebook.com/MalaysiaKini/">
-		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/en/img/fb-1200x630.png">
+		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/en/img/fb_share_1200x630.png">
 		<meta property="article:publisher" content="https://www.facebook.com/MalaysiaKini/">
 		<meta property="article:published_time" content="2018-03-31T22:30:00+08:00">
 		<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.5/css/uikit.min.css">
@@ -78,7 +78,7 @@
 
 				googletag.pubads().enableSingleRequest();
 				googletag.pubads().enableAsyncRendering();
-				googletag.pubads().collapseEmptyDivs();
+				googletag.pubads().collapseEmptyDivs(true);
 				googletag.enableServices();
 			});
 			
@@ -92,7 +92,7 @@
 		<section class="uk-visible-small">
 			<div class="uk-block uk-text-center uk-visible-small" style="padding-bottom:0">
 				<div class="uk-container uk-container-center uk-margin-top">
-					<h1 class="uk-article-title">Multibillion dollar 1MDB heist:</h1>
+					<h1 class="uk-article-title">'Stolen' 1MDB Funds:</h1>
 					<p class="uk-article-lead uk-text-uppercase" style="font-family:serif;letter-spacing:1px;">The DOJ lawsuit revisited</p>
 					<p style="font-size:16px">by Lee Long Hui &nbsp; | &nbsp; 31 March 2018</p>
 				</div>
@@ -134,7 +134,7 @@
 			<img src="img/cover-1920x1080.jpg" width="100%">
 			<figcaption class="uk-overlay-panel uk-flex uk-flex-center uk-flex-middle uk-text-center">
 				<div style="color:#212121">
-					<h1 class="uk-article-title uk-text-bold" style="font-size:48px;">Multibillion dollar 1MDB heist:</h1>
+					<h1 class="uk-article-title uk-text-bold" style="font-size:48px;">'Stolen' 1MDB Funds:</h1>
 					<p class="uk-article-lead uk-text-uppercase" style="margin-top:1em;font-family:serif;font-size:24px;font-weight:300;letter-spacing:5px;">The DOJ lawsuit revisited</p>
 					<p class="uk-margin-large-top" style="font-size:16px;font-weight:300;letter-spacing:1px;">by Lee Long Hui &nbsp; | &nbsp; 31 March 2018</p>
 					<a href="#intro" data-uk-smooth-scroll="{offset:60}"><i class="uk-icon-chevron-down uk-icon-large"></i></a>
@@ -143,12 +143,17 @@
 			<div class="uk-position-top-left">
 				<img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini">
 			</div>
+			<div class="uk-position-top-right">
+				<ul class="uk-subnav" style="padding:20px">
+					<li><a href="../zh/">中文版</a></li>
+				</ul>
+			</div>
 		</figure>
 		
 		<nav class="uk-navbar uk-position-z-index uk-hidden-small" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 			<div class="uk-navbar-content uk-text-center">
 				<a href="https://www.malaysiakini.com/en" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
-				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">Multibillion dollar 1MDB heist</a>
+				<a class="uk-navbar-brand uk-hidden-small uk-contrast" href="#" data-uk-smooth-scroll="{top:50}">'Stolen' 1MDB Funds</a>
 			</div>
 			<ul class="uk-navbar-nav uk-hidden-small" data-uk-scrollspy-nav="{closest: 'li', smoothscroll: {offset: 60}}">
 				<li class="uk-active"><a href="#intro">Introduction</a></li>
@@ -167,7 +172,7 @@
 						<div class="fb-share-button" data-href="http://igor.gold.ac.uk/~llee003/1mdb/" data-layout="button" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Figor.gold.ac.uk%2F%7Ellee003%2F1mdb%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
 					</li>
 					<li>
-						<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="Multibillion dollar 1MDB heist: The DOJ lawsuit revisited" data-via="leelonghui" data-hashtags="1mdb" data-related="jho_low,1mdb" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+						<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="'Stolen' 1MDB Funds: The DOJ lawsuit revisited" data-via="leelonghui" data-hashtags="1mdb" data-related="jho_low,1mdb" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 					</li>
 				</ul>
 			</div>
@@ -175,7 +180,7 @@
 	
 		<!-- Introduction -->
 		<section id="intro" class="uk-block">
-			<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-container uk-container-center">
+			<div class="uk-width-small-1-1 uk-width-medium-2-3 uk-container uk-container-center">
 				<p>The seizure of The Equanimity luxury yacht in Bali, Indonesia, in late February this year, has once again brought the civil forfeiture suits by the US Department of Justice (DOJ) into the spotlight.</p>
 				<p>The DOJ had filed a series of the forfeiture suits in 2016 and 2017, seeking to seize assets worth nearly US$1.7 billion allegedly acquired using money siphoned off from the Malaysian fund 1Malaysia Development Berhad (1MDB).</p>
 				<p>According to the DOJ, 1MDB officials and their associates had embezzled US$4.5 billion between 2009 and 2014, which was allegedly laundered through the global financial systems including the US. It is the most extensive action brought under its Kleptocracy Asset Recovery Initiative. The department said that the money was used for personal gain.</p>
@@ -184,10 +189,19 @@
 				<p>Several celebrities, including Hollywood actor Leonardo Dicaprio and model Miranda Kerr were dragged into the matter.</p>
 				<p>The lawsuits had categorised the money-laundering processes over the five-year period into four phases, namely the "Good Star phase", "Aabar BVI phase", "Tanore phase" and "Options Buyback phase".</p>
 				<p>The lawsuits consist several hundred pages long and provide a blow-by-blow account of the complex series of transaction. This article will break down the complexities of the suits and walk readers through the money trail.</p>
-				<div class="uk-text-center" style="margin:30px 0">
-					<div class="uk-article-meta uk-text-uppercase" style="letter-spacing:1px">Advertisement</div>
-					<div id='div-gpt-ad-1446540080416-1' style='height:250px;width:300px;margin:10px auto 0;'></div>
+				<hr>
+				<div class="uk-grid uk-text-center" style="margin:30px 0">
+					<div class="uk-width-1-1">
+						<p class="uk-article-meta uk-text-uppercase" style="letter-spacing:1px">Advertisement</p><br>
+					</div>
+					<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-flex uk-flex-center">
+						<div id='div-gpt-ad-1446540080416-1' style='height:250px;width:300px;'></div>
+					</div>
+					<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-flex uk-flex-center">
+						<div id='div-gpt-ad-1446540080416-2' style='height:250px;width:300px;'></div>
+					</div>
 				</div>
+				<hr>
 			</div>
 		</section>
 	
@@ -294,10 +308,6 @@
 							<figure>
 								<img src="svg/goodstar/goodstar-10.svg" alt="" width="100%">
 							</figure>
-						</div>
-						<div class="uk-text-center" style="margin:30px 0">
-							<div class="uk-article-meta uk-text-uppercase" style="letter-spacing:1px">Advertisement</div>
-							<div id='div-gpt-ad-1446540080416-2' style='height:250px;width:300px;margin:10px auto 0;'></div>
 						</div>
 					</div>
 					<div class="uk-visible-small uk-block" style="background:#f5f5f5">
@@ -820,7 +830,7 @@
 		
 		<!-- What's Next? -->
 		<section id="next" class="uk-block" style="background:#f5f5f5;border-top:3px solid #212121;">
-			<div class="uk-width-small-1-1 uk-width-medium-1-2 uk-container uk-container-center">
+			<div class="uk-width-small-1-1 uk-width-medium-2-3 uk-container uk-container-center">
 				<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #444">What’s Next?</h2>
 				<p>Several banks in Switzerland and Singapore were fined and ordered close by the authorities. Among others, the Swiss government will absorb CHF95 million (approximately US$100 million) from 1MDB-linked funds seized from several banks as there are no claimants.</p>
 				<p>Before that in Jan 2017, Jho Low’s family also won a court action in New Zealand to transferred several assets to a new trustee, in a bit to protect the assets from being seized by the DOJ.</p>
@@ -830,8 +840,11 @@
 				<p>The 1MDB probe in Malaysia is stalled with police claming that there had been no new developments. The inspector-general of police Mohamed Fuzi Harun claimed police had determined <a href="https://www.malaysiakini.com/news/414814" target="_blank">there was nothing to link Jho Low with 1MDB</a>.</p>
 				<p>The 1MDB issue has become a hot potato for the Malaysian government since the last general election in 2013. The opposition is expected to leverage on this in its campaign to unseat Najib and the ruling coalition in the coming general election, which is widely speculated to be held in late April or early May this year.</p>
 				<p>Any new developments on the 1MDB case on the global front, coupled with inaction locally, will harm the Barisan Nasional’s standing in the national polls.</p>
+				<hr>
+				<div class="addthis_inline_share_toolbox" style="margin:30px auto 0"></div>
 			</div>
 		</section>
+		
 		
 		<!-- Footer -->
 		<footer class="uk-block uk-block-secondary">
