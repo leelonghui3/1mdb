@@ -854,7 +854,7 @@ silent film &quot;Metropolis&quot;.</p>
 			<div class="uk-container uk-container-center">
 				<div class="uk-grid uk-grid-width-1-1@s uk-grid-width-medium-1-2">
 					<div>
-						<p class="uk-contrast">Lee Long Hui is a freelance journalist and MA Digital Journalism student at Goldsmiths, University of London. He sees the 1MDB saga as an important issue and he is trying very hard to enlighten the public.</p>
+						<p class="uk-contrast">Lee Long Hui is former Malaysiakini journalist and MA Digital Journalism student at Goldsmiths, University of London. He sees the 1MDB saga as an important issue and he is trying very hard to enlighten the public.</p>
 					</div>
 					<div class="uk-text-right">
 						<p class="uk-block">
