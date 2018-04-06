@@ -14,7 +14,7 @@
   <g transform="translate(0.5,0.5)">
 
     <!-- Aabar -->
-    <rect class="aabarbvi1" style="display: none" x="251" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#FF9800" pointer-events="none"/>
+    <rect class="aabarbvi1" x="251" y="70" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-ffe6cc-1-ffffff-1-s-0)" stroke="#FF9800" pointer-events="none"/>
     <g class="aabarbvi1" style="" transform="translate(281.5,87.5)">
       <switch>
         <foreignObject style="overflow:visible;" pointer-events="all" width="57" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">

@@ -28,6 +28,7 @@
       </switch>
     </g>
 
+    <!-- TIme Warner Penthouse -->
     <rect class="goodstar8" style="display:none" x="72" y="974" width="120" height="60" fill="#f8cecc" stroke="#b85450" pointer-events="none"/>
     <g class="goodstar8" style="display:none" transform="translate(73.5,971.5)">
       <switch>
@@ -343,10 +344,7 @@
             <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
               <span style="font-size: 15px">EMI<br style="font-size: 15px"/></span>
               <span style="font-size: 15px">
-                <b style="font-size: 15px">US$</b>
-              </span>
-              <span style="font-size: 15px">
-                <b style="font-size: 15px">106,666,667</b>
+                <b style="font-size: 15px">US$106,666,667</b>
               </span>
               <span style="font-size: 15px"><br style="font-size: 15px"/></span>
               <span style="font-size: 15px">29/6/2012</span>
