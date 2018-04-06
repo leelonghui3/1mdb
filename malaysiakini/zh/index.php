@@ -844,7 +844,7 @@
 			<div class="uk-container uk-container-center">
 				<div class="uk-grid uk-grid-width-1-1@s uk-grid-width-medium-1-2">
 					<div>
-						<p class="uk-contrast">李龙辉是一名独立记者，同时正在伦敦大学金匠学院修读数码新闻硕士学位。他视一马公司案为一项非常重要的议题，并努力尝试启迪民众。</p>
+						<p class="uk-contrast">李龙辉是一名前《当今大马》记者，同时正在伦敦大学金匠学院修读数码新闻硕士学位。他视一马公司案为一项非常重要的议题，并努力尝试启迪民众。</p>
 					</div>
 					<div class="uk-text-right">
 						<p class="uk-block">
