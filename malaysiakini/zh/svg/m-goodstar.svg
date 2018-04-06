@@ -1,0 +1,929 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  width="845px"
+  height="1040px"
+  viewBox="0 0 845 1040"
+  preserveAspectRatio="xMidYMid meet"
+  version="1.1"
+  content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36&quot; version=&quot;8.5.2&quot; editor=&quot;www.draw.io&quot; type=&quot;google&quot;&gt;&lt;diagram id=&quot;77b2c0d0-6641-9bb1-094b-813c071cc9f5&quot; name=&quot;Good Star&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;f91dcf89-bc2c-c2f9-4224-51319909076d&quot; name=&quot;Aabar-BVI&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;55d06464-61c0-84e0-7719-e72090406e39&quot; name=&quot;Tanore&quot;&gt;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&lt;/diagram&gt;&lt;diagram id=&quot;b7bcd41b-efc2-aaac-9d0f-f3703828e9bb&quot; name=&quot;Options Buyback&quot;&gt;7V1bc6M4Fv41PCaFJNDlEV+yMzXdVV3bW3N5xDZO2HFMBpPuZH/9Slxs7sYgIZy4q7saCxlk6Zyj71xloPnz279C9+Xpa7DxdgY0D0/uJvhpoIUBocn/8aZtsNskDSBpeHajp0KPF/fR+752d16h28pd//0YBq/79Nunvn/4m+wJAJi5h/zi+Y9PUXKH2vENtDTQPAyCKLl6fpt7OzFQf5MfwkPDXZA9O/T2UZcvoC2wrRUiNgDIw972Ln3CD3f36mW/A+/4s2ZPQMxX9J7+bPzPqxjkbBvso7uD/z/e6vAOEL+8nW7yq8f4/yU1ZpbhLIylbbCZwZbGEhtsbrCH+GJhUGQsmcF4NyxanKUxs7M3r8Ljc9IW/oPEcLJGWBgZjLy3eMDR8443AH55iMLgb28e7IIw7oIoXCGMxfD93S7XvrE9urF4u7vzH/e8bc0n0uM3Zz+8MPL5ojvpjWd/sxEvnP188iPv+4u7Fm//yYmLt8Vk4Ik5NtMpenCf/d07b/jF2/3wxJP4jZ278nazI91k49gHey/92vd4YhcQH3+nGIf31rjc4EhEnNK94NmLwnfeJf1CRsHvyUcr/fjzRKAIpG1POdrM+rmH5PPj8cEn0uIXKXXVUxpGcIOQtzVNRtYWhHWUtrSMGTWoKUjB4X/nglyonV08iLvlxT5NNWhYjBwdlKc0/pw+C7RQQzP9PIbuxuezn7u3jf/IWTCLFVcMouqSAVizZFjFksGaJbONGedVIpiWWmKNRMuDwUjMzyjmZ2o4wKBzeWsHr3HtqM6lsxrl+qqLWAeEi/VY/pYkO7y3Y7Z1xKIviSAGukzZlsv0k7xelWW4kOpDXoz5Q/kW8cD7WJKeWSFQb8N3+vRjEEZPwWOwd3fLU2tJ0ufI1Xvzoz9FM5+g5NNf2Z09X8zcLfHxr/QB3n7jhGGMSNY793Dw10njg7/LHvxfL4reU0ZwX6OAN52G9iUIXqr8Akgv/mjfnpLJEjPUzh98QoPXcO21y5TIDR+9qKFPA5+F3s6N/B/F98sVeDUS72K2qUFDRDCMg+E9ROq5p/J+wTWsP+eoZRt1DJBxZMadMc/dkyMPNrDkFfPNmQ2K/3jLRMlzOvNS/DS+RO57rsNL4O+jQ+5l30TD6U0YFbdCAO2iWnKmvw3M1v623dqfXyQjLn07G36w3R74JJYlxXHGegqPZl3q8OLuO2lTqF5+JJpSgrVMg1nxBREqVlVlEqpXrHTxPhyGseXpWyf5kgyogZ17wzTUi33KwG5kmGZjnTiN1EDsxtWe/f6rvMWyrhFTI2ZrXCyqAh0AsSWNDwogHYanb2B6AqAAdAAFpJXB7sx7C1LcBxSMta9mFqoc2znbrb/3o/fYCuEYXCgkux61UoPjbBGLUSZ4SPDWXFwnFzNLoZUJ0GuQqkcD3yS2QICG4yarQcN3di9PLu/w/X3vhY98nNh9Fqu3Xx1ecoK0goguEYeNL5e8V08dWJWpium1XTZbwDpTld20sFy2zGYGA2K7ZlyAoFjscGGC4wtkUHAhDTW/KpFVNH6VGftNqtJLMa63Jy3UpiHEZGDDOgIAfH/WY3Hlz37A12lwVWdTOsFPWMSf90d0+s0LfU5Qwos4ZYNStu22W2JxPc/1RYoN9hsGSzyZDCr91oktL7VDIbNkh0Ip1K01FEkBq7gqBwSvUqHTc+6lfOdIkOjCyHTbHD8cntwXcfn6vHPWUZB3RH8RRPEtOPiRHwiH9CqIouD5LLWU/dhRUBL0wWu08/ecDvd7bx0ZJxd2Jv1raHhBAAPzOho+3qnsF0FB8h/7SQAeNrLLq1zj6B5tJ2A1FJDoIlRcUBIDB97iCLxwGUwwG2HCg9BtxBuaiS3tw2S980a8EojXMovEi4lG2oV10usYpJHATRIbli3DIYWwDWcpiO5KScJ5oIs5qiMJgqFD0XmSOPZLRh+EGy+s3beHEUuRVhCz7gljjBLCIMOUVI2jo5FOsxI/DP8enacA0owWyag4WED7SQPhJpPo6WMZko7gdS3C8gnj4MxQ0O5ZbcDBOSuqSdIHDcTGkBQxKyxj4+TXVLDxWOZYVDXHyqVmJaSJ2hilmWyPn4YrdbLUNtyBXNHQCJpuahuwbDV6W/VFtD0gABG79QsKFD27ccMrGOHEBrUwHBjjcWrMEpshFJtYR7OdRAyVN7kpAVIXW6WlYyKiFT9LcGU0q3jHuIA4lN6ZnaJAhPdrKf4KXDTLxYUMc2zo0PwUkOhgy7UEKiUliWZpJVMlgQxHpG7d21RDRIOYvunGOdYGI8JSMCK5xTTICXQ0CeiFxi8OdCwbss/EOZbjFq0zcY60tb+eOEdUl8ljC0vjLEnqWsTBFpm1SJbCLNeYcG+BZskkaax5ATeGM60ofC4IWuknDSTsigiUYHsWyKvHiYtghbIdd+WGEn35pdik5iX8UC76hmjOOqw+4mpXjd3f/y0vaQ3JUI+ULwmhk1qSGt+ZXMFPAIF6zMjwTsh/Id8ma0iuxahFiGrUGJg/G0LNtol2E9zQyIn+qZ9VI8QfQbjb8KavXuhHn2zToaUkeL1xYlmMpHQJx1ULs4NgUwBtyZWItUzdzrmkjnLt6EcrJAl+OsHWxbdwht3u+K5gsV5ZhmMpsFbVdA/jggbOPLah5mJ0HBBH0CSVDWJuEqb7eZx3wLslRlnbcB4upPvmkPFLZEHTUwDqIgpqMY6c0cuZhLoBdjWjNz68VloNMpO3/A5ZCrrVS2ZI2DxZya+mefPEHxbu9kudlST3rS6hwInU1AJoa5JkUw4VU8jvrI9zc+JBBFaEIlKnC9ZGtMXxa+ICCxfaSTAkr+jtP/swYZMOXswcs44cwSyeaPmuXWDC89aJ0bxmVjW8UUOK63jRXHpFkt1FJDXkto4gklQZqhjUpcbF1ilwDWrcLSe81X/aJSk8MWG1KXEmxqSPEjc01Auzy0q/lPrrcYnaMqw6Nal/to7KEHEcxeQrQxRAezmO4iYGssIy7dl95jkpYNHMJTNNU47dXHNp2D4MWKd9WEW6ASmECqhmnWI9tJIdFH5OO+gQ3lGPPW2oiuYp05NpPvkMm1rOaWMcxXxzppC0ttwEswPjJPk2WhhHRo6apgIN1XCCYSzz8UozTHQv6cQTSS0GLTxRk/ErPeKG6EFSQwPCNTmmSyYNeFNmZNk0CEKTdkzbqooIHZkRsbTY5OjMeC1RIpPwBl47K1ra9jNctcT97h8id3KVIntmT7YFy0nPrCyFa+st6IdVqb36XC7kalwuN4AiISQYnze32pnfc5oABVc16P/89uuXnExNUpPnFwZKoEbc0kUiy3mVNMFeWy1oalHRZdkOTKZVuKs6r+iUlGxhTQb9m5T/KFIed7Hl4Abse0VSXpUaihjron0qQFoATp0Jxz4HyZ4wm3WJ/cLaYr9wTeUfURB8maa9C+qGKjXHfhJSp+YIoK0VXdSfspOuWHIw7eLTnz1aTgXWvWjKc4H1QcLYEDrp7agNE2qorj7hzapL7gRuyJ3IYcIpA0Iy/GQ7gNvKmkGRcnE6S4OJJAyG44v4DLSUSZfC0MCllOhDxMdT3l1TBtegsYnazErlQ+OkyJpdyOSnuzUPunG7vDDdre2gdqXpbhXcorceDakrx01EDclZdgyMYI6s+F95/m9V+c6tNy7lFwFcs96jJRgRomYLvyUYtexp7WfnaSviQVTZYCDVFdgMryUEIAuKrmeZW41GOe4ujvEJ7JViNBrsVaWBwm61WvoXaDhbRVG+hfXG3R+Gu2W4OSau0Wamrkmx9m17vTGgNJvS1BlQVeKeRgakV8OAU9UIp8yTXZySg4/L7K0vUiiBn0Zw2I/jrdfPRqVtrPl02E/ISZ3Sa6UcPHtpMQpaOsJc/XmxdPiJMS2OzqprxY4PEXdOrhXpGmF/N0xj2BDVFJ8N45o4UPGOfn1l+zGelJukpo7+h0ZJWu3mtItuos9uTpWUiOx6KqCGEjRaiaHTYYRk6GGE/YlhBIfajRguIgY6NDOwF667+DxJUnYMKz9Pkqo9kw2MYRWpxrnxB5JrVuNu1pB6au10aDI4Z6FEE8/HZzVGFZFHPBO6UxI3TJkamiweVXCf3WzZY4oWh1KkZsB/wkenScC60OQ5p7QN2aQN56zGYDASTV4Me24k2YUk9RXEyih9dFrKpyKdF22FPbhcdkMuGeWCEqXGnFdTNcahrbMxODirMZkd8NBH9l0Kxy1UPFWC4U41fN8KQywOWLHQrUv5GkXoTpBR+mUOjkr152JTCMiOvEipKIvxVUz3Zum408xG2o3wkVk7ZrWkLxTH4Yppax4WuDeRnsKj1pUUiCsAr9aKvZ/05LJOVan0lewFprJwF33h3NbVhLvc4s3Ul1fkUHLSanNNLPeSilP+nGzvoSOYFzuozWdKsE9TbVag38Aujsbzh1Fik9EJESZBlu2BLQFbtl7xP3dgikSniuboR6A5RYVH+McwEJvhibJC9+Xpa7DxRI//Aw==&lt;/diagram&gt;&lt;diagram id=&quot;0d140cf4-ad98-70ec-af93-4c8747ae97da&quot; name=&quot;Cycle&quot;&gt;7VrPl6MoEP5rONpPQBGPMWN2D7OnPuzMkSgxbhvJKulO5q9fMPirZ00nY/LMvHS/zotUFUUB3wcFBuD5Zv9Hwbbrv0TMM4Dscs1i8QbwF4CQrT5KtBJZfBTAo2DD5LpnsWUJf45YxntmSxa9JIXY5aZ2a/t3GtceqNvx8SdPk7U0TqBdaXAI8LwQQh6fNvs5z3SgadwNYTGghbXzgufynApOTAh0XLiKMGGUEct4eGXZjtf9IJnyFSz1cMmD6TX5d6djDFYil1aZ/lDSmTJQbe+VtNWrp6T6Dl0QhCDwQEgAdQBdVJIF8JXEBz4GAQEhBTMI6LxuUsW9bBxUcbUBoGqoue4HVOq3dSr585ZFWvumpljJ1nKTGXUzz7aOOc2yuchEUTnCsctp7Ji+PFdd+YK0XSkL8cI7lhQtMSFKkxQsTtUQd3Sr6q8J9JUXku8HZwU2c60AycWGy+KgTEwFz4DkYCbJFN9aHMEai+sOhoiRsfJYThrHLQLUgwHBmYBAg4Aotyw/CxNoEBNq4qkGgYaCDXynevBA4DSgK0a24GpE+aGGFqUaWk1TLcaOHZkEZuiXYVZ5MWHCK2AO0z7o6JSgwx+BztSs5zsWUWmlueRFzjIr2aWxFdsIR8jhFlw6zHJIhC0XxrZFsOfzFbXt1dLuAuZjlEE6hLILCXF7R1/ZZslKdhmLPgzrJ6r8inj8ICkGU0VrCkIP+DagWG8p/hwEMxA6IJgDf6Zt/EUl8QFVZvAu6A7p3dCdoD7dEfQn5LszfpMZSjyCIo0TfuF+ciqLeY+9s5F2nQh+lzTo2oB13wEW+1NuUO4tsyK1iKlUxdaImqn/+ZVW1JNZ0jtUXyv9Urn+DPiuTr8CV+f9pqkqD1NnANXRq9BlMIJHTeeg8259R1PShdxyfWc/uHbx/HK4i03+jtZM5NzTmknHXS1AbwABzpNLq0VzVh0lPX3PQEOz0rRrWf8y4aLEeKhlpHKmhf4omwuPrIM+T4DV7gOT71P5rfP8XZs8ubqUq7n6ZmpUhaMOHZXxrCgqREcZK8s0OgoXaVZ7/odLeTBwZjsplEgUci0SoY5XX4XYGrtuauudYMcwGzK25FnQ3JzVJrnIeTMWXOdvJwmgxkvsiogPAM/YSFYkXA7YoP8nUsEzJtPXfvtXZYV/I1bgJ28iVqhRWkD7xqzQoKiXSoOWUURpi98b3jwaT9AZPMFT8QTatyOK+0mUHlEMGwxVYJcosEeTp8fcUPAZRHEmI8rIVzgVtCZiyU/NeiMpciN+DG8kn/xor/NO8oNMxo/hN1q/60YyliW320jOzrjgQxKFnEEUdzKiDL+FG0sUl3wS5UTGZYPhM7z3mFuKO90ZXhXbH+RUus5PiHD4Hw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+  <defs>
+    <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-f8cecc-1-ffffff-1-s-0"><stop offset="0%" style="stop-color:#ffebee"/><stop offset="100%" style="stop-color:#ffffff"/></linearGradient>
+  </defs>
+  <g transform="translate(0.5,0.5)">
+
+    <!-- Title -->
+    <rect class="goodstar1" style="" x="0" y="0" width="300" height="48" fill="#ef9a9a" stroke="#ef9a9a" pointer-events="none"/>
+    <g transform="translate(40.5,-0.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="206" height="74" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 24px; font-family: Arial; color: #fff; line-height: 1; vertical-align: top; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <h1 style="font-size:20px;font-weight:400;color:#fff;text-transform:uppercase;letter-spacing:2px;">Good Star阶段</h1>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="103" y="52" fill="#fff" text-anchor="middle" font-size="30px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 纽约华纳中心公寓 -->
+    <rect class="goodstar8" style="" x="81" y="974" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(85.5,978.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="120" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 121px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">纽约华纳中心公寓</span>
+              <span style="font-size: 15px"><br style="font-size: 15px"/></span>
+              <b style="font-size: 15px">3055万美元</b><br style="font-size: 15px"/>
+              <span style="font-size: 15px">6/7/2011</span>
+              <span style="font-size: 15px"><br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="60" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 一马公司 -->
+    <rect class="goodstar1" style="" x="361" y="74" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(367.5,89.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="29" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 26px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 107px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 26px">一马公司</b><br style="font-size: 26px"/></div>
+          </div>
+        </foreignObject>
+        <text x="53" y="28" fill="#000000" text-anchor="middle" font-size="26px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 一马沙地联营公司 -->
+    <rect class="goodstar1" style="" x="691" y="74" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(692.5,77.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="52" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 23px">一马沙地联营公司</b>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="58" y="36" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 3亿美元 30/9/2009 -->
+    <path class="goodstar1" style="" d="M 481 89 L 684.63 89" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar1" style="" d="M 689.88 89 L 682.88 92.5 L 684.63 89 L 682.88 85.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(554.5,72.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="62" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">3亿美元</b><br style="font-size: 14px"/>30/9/2009<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="31" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Good Star -->
+    <rect class="goodstar1" style="" x="361" y="224" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(365.5,241.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="110" height="25" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 23px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 112px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 23px">Good Star</b><br style="font-size: 23px"/></div>
+          </div>
+        </foreignObject>
+        <text x="55" y="24" fill="#000000" text-anchor="middle" font-size="23px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 7亿美元 30/9/2009 -->
+    <path class="goodstar1" style="" d="M 391 134 L 391 217.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar1" style="" d="M 391 222.88 L 387.5 215.88 L 391 217.63 L 394.5 215.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(357.5,140.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="66" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">7亿美元</b><br style="font-size: 15px"/>30/9/2009<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="33" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 3.3亿美元 20/5-25/10/2011 -->
+    <path class="goodstar2" style="" d="M 451 134 L 451 194 L 451 217.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar2" style="" d="M 451 222.88 L 447.5 215.88 L 451 217.63 L 454.5 215.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar2" style="" transform="translate(396.5,175.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="108" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">3.3亿美元</b><br style="font-size: 15px"/>20/5-25/10/2011<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="54" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <ellipse class="goodstar1" style="" cx="421" cy="402" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="goodstar1" style="" d="M 421 409 L 421 434 M 421 414 L 406 414 M 421 414 L 436 414 M 421 434 L 406 454 M 421 434 L 436 454" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar1" style="" transform="translate(390.5,461.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(215, 25, 28); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">刘特佐<br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="31" y="21" fill="#D7191C" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- ADKMIC -->
+    <rect class="goodstar8" style="" x="631" y="394" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(650.5,412.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">
+                <b style="font-size: 20px">ADKMIC</b>
+              </span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="40" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 刘福平 -->
+    <ellipse class="goodstar8" style="" cx="676" cy="602" rx="7.5" ry="7.5" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 676 609 L 676 634 M 676 614 L 661 614 M 676 614 L 691 614 M 676 634 L 661 654 M 676 634 L 691 654" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(645.5,661.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">刘福平<br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="31" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Shearman IOLA -->
+    <rect class="goodstar7" style="" x="36" y="594" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(37.5,600.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="116" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 116px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">
+                <b style="font-size: 20px">Shearman IOLA</b>
+              </span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="58" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Selune -->
+    <rect class="goodstar8" style="" x="361" y="594" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(387.5,612.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="66" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 67px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 20px">Selune</b><br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="33" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- DLA Piper -->
+    <rect class="goodstar10" style="" x="361" y="714" width="120" height="60" rx="9" ry="9" fill="url(#mx-gradient-f8cecc-1-ffffff-1-s-0)" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(372.5,732.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="97" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 98px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 20px">DLA Piper</b>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="49" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Oriole豪宅 -->
+    <rect class="goodstar10" style="" x="406" y="798.5" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(425.5,799.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 91px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">Oriole豪宅<br style="font-size: 17px"/>
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">3898万美元</b><br style="font-size: 17px"/></span>
+              <span style="font-size: 17px">30/11/2012</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="45" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Greene豪华公寓 -->
+    <rect class="goodstar10" style="" x="406" y="884" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(411.5,885.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="118" height="56" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 16px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 118px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 16px">Greene豪华公寓<br style="font-size: 16px"/></span>
+              <span style="font-size: 16px">
+                <b style="font-size: 16px">约1372万美元<br style="font-size: 16px"/></b>
+              </span>
+              <span style="font-size: 16px">12/2/2014</span>
+              <span style="font-size: 16px"><br style="font-size: 16px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="59" y="36" fill="#000000" text-anchor="middle" font-size="16px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 厄米塔格酒店 -->
+    <rect class="goodstar7" style="" x="81" y="694" width="130" height="60" fill="#ffebee" stroke="#f44336" transform="rotate(180,146,724)" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(82.5,694.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="126" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 126px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">厄米塔格酒店</span>
+              <b style="font-size: 17px">4480万美元</b>
+              <span style="font-size: 17px">15/1/2010</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="63" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Hillcrest房产 -->
+    <rect class="goodstar7" style="" x="81" y="764" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(88.5,764.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="114" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 115px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">Hillcrest房产</b>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+              <b style="font-size: 17px">约1700万美元<br style="font-size: 17px"/></b>
+              <span style="font-size: 17px">28/7-28/9/2010</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="57" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 劳雷尔公园公寓单位 -->
+    <rect class="goodstar7" style="" x="81" y="834" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(108.5,831.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="74" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 75px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">劳雷尔公园<br style="font-size: 14px"/></span>
+              <span style="font-size: 14px">公寓单位</span>
+              <span style="font-size: 14px"><br style="font-size: 14px"/></span>
+              <b style="font-size: 14px">2398万美元</b><br style="font-size: 14px"/>
+              <span style="font-size: 14px">5/2/2010</span>
+              <span style="font-size: 14px"><br style="font-size: 14px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="37" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 庞巴迪飞机 -->
+    <rect class="goodstar7" style="" x="81" y="904" width="130" height="60" fill="#ffebee" stroke="#f44336" transform="rotate(180,146,934)" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(92.5,904.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="106" height="58" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 108px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">庞巴迪飞机</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+              <b style="font-size: 17px">约3537万美元</b><br style="font-size: 17px"/>
+              <span style="font-size: 17px">31/3/2010</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="53" y="38" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- EMI -->
+    <rect class="goodstar9" style="" x="521" y="284" width="130" height="65" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar9" style="" transform="translate(523.5,290.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="125" height="51" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 126px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 15px">EMI<br style="font-size: 15px"/></span>
+              <span style="font-size: 15px">
+                <b style="font-size: 15px">约1亿零667万美元</b>
+              </span>
+              <span style="font-size: 15px"><br style="font-size: 15px"/></span>
+              <span style="font-size: 15px">29/6/2012</span>
+              <span style="font-size: 15px"><br style="font-size: 15px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="63" y="33" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 一号与二号沙地伙伴 -->
+    <ellipse class="goodstar5" style="" cx="201" cy="232" rx="7.5" ry="7.5" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <path class="goodstar5" style="" d="M 201 239 L 201 264 M 201 244 L 186 244 M 201 244 L 216 244 M 201 264 L 186 284 M 201 264 L 216 284" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar5" style="" transform="translate(118.5,291.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="165" height="20" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 18px">一号与二号沙地伙伴</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="83" y="19" fill="#000000" text-anchor="middle" font-size="18px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 一号大马官员 -->
+    <ellipse class="goodstar5" style="" cx="51" cy="232" rx="7.5" ry="7.5" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
+    <path class="goodstar5" style="" d="M 51 239 L 51 264 M 51 244 L 36 244 M 51 244 L 66 244 M 51 264 L 36 284 M 51 264 L 66 284" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar5" style="" transform="translate(-0.5,291.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="102" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(118, 42, 131); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">一号大马官<br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="51" y="21" fill="#762a83" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 纳吉 -->
+    <ellipse class="goodstar6" style="" cx="51" cy="362" rx="7.5" ry="7.5" fill="#af8dc3" stroke="#762a83" pointer-events="none"/>
+    <path class="goodstar6" style="" d="M 51 369 L 51 394 M 51 374 L 36 374 M 51 374 L 66 374 M 51 394 L 36 414 M 51 394 L 66 414" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar6" style="" transform="translate(30.5,421.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="41" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(118, 42, 131); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">纳吉<br style="font-size: 20px"/></div>
+          </div>
+        </foreignObject>
+        <text x="21" y="21" fill="#762a83" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- MO1 == Najib -->
+    <path class="goodstar6" style="" d="M 53 254 L 53 354 M 49 354 L 49 254 M 49 354" fill="none" stroke="#762a83" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 2450万美元 18/2-10/6/2011 -->
+    <path class="goodstar5" style="" d="M 361 254 L 207.37 254" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar5" style="" d="M 202.12 254 L 209.12 250.5 L 207.37 254 L 209.12 257.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar5" style="" transform="translate(224.5,234.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">2450万美元</b><br style="font-size: 17px"/>18/2-10/6/2011<br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 2000万美元 23/6-13/6/2011 -->
+    <path class="goodstar5" style="" d="M 201 254 L 171 254 L 57.37 254" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar5" style="" d="M 52.12 254 L 59.12 250.5 L 57.37 254 L 59.12 257.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar5" style="" transform="translate(69.5,234.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="113" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">2000万美元</b><br style="font-size: 17px"/>23/6-13/6/2011<br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="57" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 约5亿零896万美元 28/6/2011-4/9/2013 -->
+    <path class="goodstar8" style="" d="M 481 269 L 721 269 L 721 387.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 721 392.88 L 717.5 385.88 L 721 387.63 L 724.5 385.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(656.5,328.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="129" height="33" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 15px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 15px">约5亿零896万美元</b><br style="font-size: 15px"/>28/6/2011-4/9/2013<br style="font-size: 15px"/></div>
+          </div>
+        </foreignObject>
+        <text x="65" y="24" fill="#000000" text-anchor="middle" font-size="15px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.53亿美元 5/11/2012 -->
+    <path class="goodstar8" style="" d="M 721 454 L 721 624 L 682.37 624" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 677.12 624 L 684.12 620.5 L 682.37 624 L 684.12 627.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(678.5,468.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="85" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.53亿美元</b><br style="font-size: 17px"/>5/11/2012</div>
+          </div>
+        </foreignObject>
+        <text x="43" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 5475万美元 28/6/2011 -->
+    <g class="goodstar8" style="" transform="translate(681.5,519.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">5475万美元</b><br style="font-size: 17px"/>28/6/2011</div>
+          </div>
+        </foreignObject>
+        <text x="45" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.2亿美元 11/6/2012 -->
+    <g class="goodstar8" style="" transform="translate(688.5,563.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="76" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.2亿美元</b><br style="font-size: 17px"/>11/6/2012</div>
+          </div>
+        </foreignObject>
+        <text x="38" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.5亿美元 7/11/2012 -->
+    <path class="goodstar8" style="" d="M 669 600 L 546 600 L 546 454 L 442.37 454" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 437.12 454 L 444.12 450.5 L 442.37 454 L 444.12 457.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(507.5,513.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="76" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.5亿美元</b><br style="font-size: 17px"/>7/11/2012</div>
+          </div>
+        </foreignObject>
+        <text x="38" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.18亿美元 11/6/2012 -->
+    <g class="goodstar8" style="" transform="translate(505.5,461.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="85" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.18亿美元</b><br style="font-size: 17px"/>11/6/2012</div>
+          </div>
+        </foreignObject>
+        <text x="43" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 3000万美元 28/6/2011 -->
+    <path class="goodstar8" style="" d="M 676 624 L 487.37 624" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 482.12 624 L 489.12 620.5 L 487.37 624 L 489.12 627.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(530.5,604.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">3000万美元</b><br style="font-size: 17px"/>
+                <span style="font-size: 17px">28/6/2011</span><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="45" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.1亿美元 7/11/2012 -->
+    <path class="goodstar9" style="" d="M 421 424 L 421 454 L 421 587.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar9" style="" d="M 421 592.88 L 417.5 585.88 L 421 587.63 L 424.5 585.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar9" style="" transform="translate(382.5,494.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="76" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.1亿美元</b><br style="font-size: 17px"/>7/11/2012</div>
+          </div>
+        </foreignObject>
+        <text x="38" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 约3625万美元 21/8/2012 -->
+    <g class="goodstar9" style="" transform="translate(367.5,545.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="107" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">约3625万美元<br style="font-size: 17px"/></b>
+                <span style="font-size: 17px">21/8/2012</span>
+                <b style="font-size: 17px"><br style="font-size: 17px"/></b>
+              </span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="54" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 约3788万美元 29/11/2012 -->
+    <path class="goodstar10" style="" d="M 421 654 L 421 707.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 421 712.88 L 417.5 705.88 L 421 707.63 L 424.5 705.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(367.5,664.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="107" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">约3788万美元</b><br style="font-size: 17px"/>
+                <span style="font-size: 17px">29/11/2012</span><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="54" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1380万美元 5/2/2014 -->
+    <path class="goodstar10" style="" d="M 406 454 L 301 454 L 301 744 L 354.63 744" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 359.88 744 L 352.88 747.5 L 354.63 744 L 352.88 740.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(255.5,523.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1380万美元</b><br style="font-size: 17px"/>
+              <span style="font-size: 17px">5/2/2014</span><br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="45" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 2700万美元 6/7/2011 -->
+    <path class="goodstar8" style="" d="M 361 609 L 162.37 609" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 157.12 609 L 164.12 605.5 L 162.37 609 L 164.12 612.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(212.5,589.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">2700万美元</b><br style="font-size: 17px"/>
+                <span style="font-size: 17px">6/7/2011</span><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="45" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Shearman IOLA to L'Ermitage Hotel -->
+    <path class="goodstar7" style="" d="M 66 654 L 66 724 L 74.63 724" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar7" style="" d="M 79.88 724 L 72.88 727.5 L 74.63 724 L 72.88 720.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path fro DLA Piper to Oriole Mansion -->
+    <path class="goodstar10" style="" d="M 391 774 L 391 829 L 399.63 829" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 404.88 829 L 397.88 832.5 L 399.63 829 L 397.88 825.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 5亿美元 14/9/2010 -->
+    <path class="goodstar2" style="display: none" d="M 481 119 L 684.63 119" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar2" style="display: none" d="M 689.88 119 L 682.88 122.5 L 684.63 119 L 682.88 115.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar2" style="display: none" transform="translate(554.5,102.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="62" height="32" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 14px">5亿美元</b><br style="font-size: 14px"/>
+              <span style="font-size: 14px">14/9/2010</span><br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="31" y="23" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 陈金隆 -->
+    <ellipse class="goodstar3" style="" cx="331" cy="402" rx="7.5" ry="7.5" fill="#d7191c" stroke="#d7191c" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 331 409 L 331 434 M 331 414 L 316 414 M 331 414 L 346 414 M 331 434 L 316 454 M 331 434 L 346 454" fill="none" stroke="#d7191c" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(300.5,461.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="61" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(215, 25, 28); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">陈金隆</div>
+          </div>
+        </foreignObject>
+        <text x="31" y="21" fill="#D7191C" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">陈金隆</text>
+      </switch>
+    </g>
+
+    <!-- 一马公司一号领导 -->
+    <ellipse class="goodstar3" style="" cx="201" cy="402" rx="7.5" ry="7.5" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 201 409 L 201 434 M 201 414 L 186 414 M 201 414 L 216 414 M 201 434 L 186 454 M 201 434 L 216 454" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(163.5,461.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="74" height="41" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 18px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">一马公司<br style="font-size: 18px"/>一号领导<br style="font-size: 18px"/></div>
+          </div>
+        </foreignObject>
+        <text x="37" y="30" fill="#000000" text-anchor="middle" font-size="18px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 3000万美元 20/12/2010 -->
+    <path class="goodstar3" style="" d="M 391 284 L 391 344 L 331 344 L 331 387.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 331 392.88 L 327.5 385.88 L 331 387.63 L 334.5 385.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(297.5,324.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="94" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <span style="font-size: 17px">
+                  <b style="font-size: 17px">3000万美元</b>
+                </span>
+                <br style="font-size: 17px"/>20/12/2010</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="47" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 500万美元 22/12/2010 -->
+    <path class="goodstar3" style="" d="M 331 424 L 207.37 424" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 202.12 424 L 209.12 420.5 L 207.37 424 L 209.12 427.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(223.5,404.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="85" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">500万美元</b><br style="font-size: 17px"/>
+              <span style="font-size: 17px">22/12/2010</span><br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="43" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 总督酒店集团 -->
+    <rect class="goodstar10" style="" x="256" y="974" width="130" height="65" fill="#ffebee" stroke="#f44336" transform="rotate(180,321,1006.5)" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(280.5,983.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="80" height="46" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 81px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span>总督<br/></span>
+              <span>酒店集团</span>
+              <span><br/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="40" y="33" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 斯特拉顿阁楼与公寓 -->
+    <rect class="goodstar3" style="" x="606" y="729" width="130" height="65" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(607.5,737.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="126" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 126px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">斯特拉顿阁楼与公寓</span>
+              <span style="font-size: 14px"><br style="font-size: 14px"/>
+                <b style="font-size: 14px">3500万美元</b><br style="font-size: 14px"/>
+                <span style="font-size: 14px">27/5/2010</span><br style="font-size: 14px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="63" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1244万美元 2/8/2010 -->
+    <path class="goodstar10" style="" d="M 156 639 L 289 639 L 289 967.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 289 972.88 L 285.5 965.88 L 289 967.63 L 292.5 965.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(243.5,781.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="90" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1244万美元</b><br style="font-size: 17px"/>2/8/2010<br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="45" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 约1825万美元 26/10/2012 -->
+    <path class="goodstar10" style="" d="M 361 759 L 354 759 L 354 967.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 354 972.88 L 350.5 965.88 L 354 967.63 L 357.5 965.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar10" style="" transform="translate(292.5,924.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="107" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 17px">
+                <b style="font-size: 17px">约1825万美元</b><br style="font-size: 17px"/></span>
+              <span style="font-size: 17px">26/10/2012</span>
+              <span style="font-size: 17px"><br style="font-size: 17px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="54" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path from Good Star to Stratton -->
+    <path class="goodstar3" style="" d="M 481 254 L 786 254 L 786 764 L 736 764 L 736 768.37" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 736 763.12 L 739.5 770.12 L 736 768.37 L 732.5 770.12 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 达列奥拜 -->
+    <ellipse class="goodstar3" style="" cx="676" cy="882" rx="7.5" ry="7.5" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 676 889 L 676 914 M 676 894 L 661 894 M 676 894 L 691 894 M 676 914 L 661 934 M 676 914 L 691 934" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(634.5,941.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="82" height="22" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 20px">达列奥拜</span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="41" y="21" fill="#000000" text-anchor="middle" font-size="20px" font-family="Helvetica" font-weight="bold">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 1.53亿美元 5/10/2009-12/1/2010 -->
+    <path class="goodstar3" style="" d="M 481 239 L 816 239 L 816 904 L 682.37 904" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 677.12 904 L 684.12 900.5 L 682.37 904 L 684.12 907.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(687.5,884.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="157" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">1.53亿美元</b><br style="font-size: 17px"/>5/10/2009-12/1/2010<br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="79" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Palantir Technologies -->
+    <rect class="goodstar3" style="" x="616" y="974" width="130" height="65" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(617.5,973.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="126" height="65" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 126px; white-space: normal; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <span style="font-size: 14px">Palantir Technologies<br style="font-size: 14px"/>
+                <b style="font-size: 14px">200万美元</b><br style="font-size: 14px"/>
+                <span style="font-size: 14px">15/3/2010</span><br style="font-size: 14px"/></span>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="63" y="40" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 华尔街之狼 -->
+    <rect class="goodstar3" style="" x="606" y="798.5" width="130" height="60" fill="#ffebee" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar3" style="" transform="translate(606.5,804.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="128" height="48" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 129px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">《华尔街之狼》<br style="font-size: 14px"/>
+              <b>约<span style="font-size: 14px">1017万美元</span>
+              </b><br style="font-size: 14px"/>
+              <span style="font-size: 14px">12/4/2011-</span>10/9/2012<br style="font-size: 14px"/></div>
+          </div>
+        </foreignObject>
+        <text x="64" y="31" fill="#000000" text-anchor="middle" font-size="14px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- 刘特佐拥有ADKMIC -->
+    <path class="goodstar8" style="" d="M 421 424 L 628 424" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="goodstar8" style="" cx="631" cy="424" rx="3" ry="3" fill="#f44336" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar8" style="" transform="translate(508.5,414.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="34" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">拥有</div>
+          </div>
+        </foreignObject>
+        <text x="17" y="18" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">拥有</text>
+      </switch>
+    </g>
+
+    <!-- Path from Good Star to 华尔街之狼 -->
+    <path class="goodstar3" style="" d="M 481 254 L 786 254 L 786 829 L 742.37 829" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 737.12 829 L 744.12 825.5 L 742.37 829 L 744.12 832.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from DLA Piper to Greene -->
+    <path class="goodstar10" style="" d="M 391 774 L 391 914 L 399.63 914" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar10" style="" d="M 404.88 914 L 397.88 917.5 L 399.63 914 L 397.88 910.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Shearman IOLA to Hillcrest房产 -->
+    <path class="goodstar7" style="" d="M 66 654 L 66 794 L 74.63 794" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar7" style="" d="M 79.88 794 L 72.88 797.5 L 74.63 794 L 72.88 790.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Shearman IOLA to Park Laurel Condominium -->
+    <path class="goodstar7" style="" d="M 66 654 L 66 864 L 74.63 864" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar7" style="" d="M 79.88 864 L 72.88 867.5 L 74.63 864 L 72.88 860.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Shearman Bombardier Jet -->
+    <path class="goodstar7" style="" d="M 66 654 L 66 934 L 74.63 934" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar7" style="" d="M 79.88 934 L 72.88 937.5 L 74.63 934 L 72.88 930.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- Path from Shearman IOLA to Time Warner Penthouse -->
+    <path class="goodstar8" style="" d="M 66 654 L 66 1004 L 74.63 1004" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar8" style="" d="M 79.88 1004 L 72.88 1007.5 L 74.63 1004 L 72.88 1000.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 约3亿6800万美元 21/10/2009-13/10/2010 -->
+    <path class="goodstar7" style="" d="M 361 269 L 336 269 L 336 314 L 126 314 L 126 587.63" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar7" style="" d="M 126 592.88 L 122.5 585.88 L 126 587.63 L 129.5 585.88 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <g class="goodstar7" style="" transform="translate(37.5,514.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="176" height="38" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <b style="font-size: 17px">约3亿6800万美元</b><br style="font-size: 17px"/>21/10/2009-13/10/2010<br style="font-size: 17px"/></div>
+          </div>
+        </foreignObject>
+        <text x="88" y="28" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">[Not supported by viewer]</text>
+      </switch>
+    </g>
+
+    <!-- Path of Jho Low buys EMI -->
+    <path class="goodstar9" style="" d="M 429 400 L 479 400 L 479 317 L 514.63 317" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar9" style="" d="M 519.88 317 L 512.88 320.5 L 514.63 317 L 512.88 313.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 刘特佐 == 陈金隆 -->
+    <path class="goodstar4" style="" d="M 421 426 L 331 426 M 331 422 L 421 422 M 331 422" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+
+    <!-- 刘特佐拥有Good Star -->
+    <path class="goodstar1" style=";" d="M 421 394 L 421 287" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <ellipse class="goodstar1" style=";" cx="421" cy="284" rx="3" ry="3" fill="#f44336" stroke="#f44336" pointer-events="none"/>
+    <g class="goodstar1" style=";" transform="translate(403.5,329.5)">
+      <switch>
+        <foreignObject style="overflow:visible;" pointer-events="all" width="34" height="18" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: inline-block; font-size: 17px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <div xmlns="http://www.w3.org/1999/xhtml" style="display:inline-block;text-align:inherit;text-decoration:inherit;">拥有</div>
+          </div>
+        </foreignObject>
+        <text x="17" y="18" fill="#000000" text-anchor="middle" font-size="17px" font-family="Helvetica">拥有</text>
+      </switch>
+    </g>
+
+    <!-- Path from 达列奥拜 to Palantir Technologies -->
+    <path class="goodstar3" style="" d="M 676 904 L 596 904 L 596 1007 L 609.63 1007" fill="none" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/>
+    <path class="goodstar3" style="" d="M 614.88 1007 L 607.88 1010.5 L 609.63 1007 L 607.88 1003.5 Z" fill="#f44336" stroke="#f44336" stroke-miterlimit="10" pointer-events="none"/></g>
+</svg>
