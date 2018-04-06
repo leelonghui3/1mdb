@@ -10,11 +10,11 @@
 		<meta property="og:locale" content="zh_cn">
 		<meta property="og:type" content="article">
 		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/zh/">
-		<meta property="og:title" content="重温一马公司案">
-		<meta property="og:description" content="从吉隆坡烧起的全球洗钱网络">
+		<meta property="og:title" content="重温一马公司案：从吉隆坡烧起的全球洗钱网络">
+		<meta property="og:description" content=" 《当今大马》尝试化繁为简，让读者了解盘根错节的一马公司洗钱过程。">
 		<meta property="og:site_name" content="Malaysiakini">
 		<meta property="article:author" content="https://www.facebook.com/mkinicn/">
-		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/zh/img/zh_fb_1200x630.png">
+		<meta property="og:image" content="https://pages.malaysiakini.com/1mdb/zh/img/zh_fb_1200x630_2.png">
 		<meta property="article:publisher" content="https://www.facebook.com/mkinicn/">
 		<meta property="article:published_time" content="2018-04-05T22:30:00+08:00">
 		<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.5/css/uikit.min.css">
