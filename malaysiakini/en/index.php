@@ -9,13 +9,8 @@
 		<meta property="fb:app_id" content="217374841612391">
 		<meta property="og:locale" content="en_GB">
 		<meta property="og:type" content="article">
-<<<<<<< HEAD
-		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/zh/">
-		<meta property="og:title" content="【 被窃走的一马资金 】 重温美国充公行动">
-=======
 		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/en/">
 		<meta property="og:title" content="'Stolen' 1MDB Funds: The DOJ lawsuit revisited">
->>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 		<meta property="og:description" content="In light of the seizure of The Equanimity, Malaysiakini revisits the DOJ's forfeiture suits and walk through the money trail.">
 		<meta property="og:site_name" content="Malaysiakini">
 		<meta property="article:author" content="https://www.facebook.com/MalaysiaKini/">
