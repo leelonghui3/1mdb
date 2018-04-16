@@ -31,7 +31,7 @@
 				letter-spacing:0.5px;
 				padding-bottom:30px;
 			}
-			figure{margin:1em 0;padding:1em;border:1px solid #ddd;-webkit-filter: grayscale(100%);filter: grayscale(100%);}
+			figure{margin:1em 0;padding:1em;border:1px solid #ddd;-webkit-filter: grayscale(0%);filter: grayscale(0%);}
 			.uk-navbar{color:#fff;background:#212121;height:60px!important;line-height:60px!important;}
 			.uk-navbar .uk-navbar-nav a{color:#999;height:60px;line-height:60px;}
 			.uk-navbar .uk-navbar-nav li.uk-active a{background:#fff;}
@@ -141,8 +141,8 @@
 					<a href="#intro" data-uk-smooth-scroll="{offset:60}"><i class="uk-icon-chevron-down uk-icon-large"></i></a>
 				</div>
 			</figcaption>
-			<div class="uk-position-top-left">
-				<img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini">
+			<div class="uk-position-top-left" style="padding:20px">
+				<a href="https://www.malaysiakini.com/zh"><img src="https://static01.malaysiakini.com/desktop/img/mk-logo-zh.svg" width="150" alt="当今大马"></a>
 			</div>
 			<div class="uk-position-top-right">
 				<ul class="uk-subnav" style="padding:20px">
