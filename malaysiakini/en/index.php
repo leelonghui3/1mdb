@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 	<head>
 		<title>'Stolen' 1MDB Funds: The DOJ lawsuit revisited</title>
 		<meta charset="utf-8">
@@ -9,8 +9,13 @@
 		<meta property="fb:app_id" content="217374841612391">
 		<meta property="og:locale" content="en_GB">
 		<meta property="og:type" content="article">
+<<<<<<< HEAD
+		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/zh/">
+		<meta property="og:title" content="【 被窃走的一马资金 】 重温美国充公行动">
+=======
 		<meta property="og:url" content="https://pages.malaysiakini.com/1mdb/en/">
 		<meta property="og:title" content="'Stolen' 1MDB Funds: The DOJ lawsuit revisited">
+>>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 		<meta property="og:description" content="In light of the seizure of The Equanimity, Malaysiakini revisits the DOJ's forfeiture suits and walk through the money trail.">
 		<meta property="og:site_name" content="Malaysiakini">
 		<meta property="article:author" content="https://www.facebook.com/MalaysiaKini/">
@@ -52,7 +57,7 @@
 		<script type="text/javascript" src="js/noframework.waypoints.min.js"></script>
 		<script type="text/javascript" src="js/jquery.waypoints.min.js"></script>
 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5abf54ee9653b8a5"></script>
-		
+
 		<script type='text/javascript'>
 				var googletag = googletag || {};
 				googletag.cmd = googletag.cmd || [];
@@ -67,9 +72,9 @@
 					node.parentNode.insertBefore(gads, node);
 				})();
 		</script>
-		
+
 		<script type='text/javascript' defer>
-			
+
 			var mrec1_slot, mre2_slot;
 
 			googletag.cmd.push(function() {
@@ -81,7 +86,7 @@
 				googletag.pubads().collapseEmptyDivs(true);
 				googletag.enableServices();
 			});
-			
+
 			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446540080416-1'); });
 			googletag.cmd.push(function() { googletag.display('div-gpt-ad-1446540080416-2'); });
 
@@ -92,9 +97,15 @@
 		<section class="uk-visible-small">
 			<div class="uk-block uk-text-center uk-visible-small" style="padding-bottom:0">
 				<div class="uk-container uk-container-center uk-margin-top">
+<<<<<<< HEAD
+					<h1 class="uk-article-title">被窃走的一马资金</h1>
+					<p class="uk-article-lead uk-text-uppercase" style="font-family:serif;letter-spacing:1px;">重温美国充公行动</p>
+					<p style="font-size:16px">李龙辉与《当今大马》 &nbsp; | &nbsp; 2018年4月X日</p>
+=======
 					<h1 class="uk-article-title">'Stolen' 1MDB Funds:</h1>
 					<p class="uk-article-lead uk-text-uppercase" style="font-family:serif;letter-spacing:1px;">The DOJ lawsuit revisited</p>
 					<p style="font-size:16px">by Lee Long Hui &nbsp; | &nbsp; 31 March 2018</p>
+>>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 				</div>
 				<div class="">
 					<img src="img/cover-1920x1080.jpg" width="100%">
@@ -128,7 +139,7 @@
 				</div>
 			</nav>
 		</section>
-		
+
 		<!-- Desktop title -->
 		<figure class="uk-overlay uk-hidden-small" style="margin:0;padding:0">
 			<img src="img/cover-1920x1080.jpg" width="100%">
@@ -149,7 +160,7 @@
 				</ul>
 			</div>
 		</figure>
-		
+
 		<nav class="uk-navbar uk-position-z-index uk-hidden-small" data-uk-sticky="{clsactive: 'uk-navbar-attached'}">
 			<div class="uk-navbar-content uk-text-center">
 				<a href="https://www.malaysiakini.com/en" class="uk-navbar-brand uk-hidden-small" style="margin:-1px 0 0 -30px!important"><img src="https://static01.malaysiakini.com/img/mk-app-icon.svg" width="60" height="60" alt="Malaysiakini"></a>
@@ -177,7 +188,7 @@
 				</ul>
 			</div>
 		</nav>
-	
+
 		<!-- Introduction -->
 		<section id="intro" class="uk-block">
 			<div class="uk-width-small-1-1 uk-width-medium-2-3 uk-container uk-container-center">
@@ -204,7 +215,7 @@
 				<hr>
 			</div>
 		</section>
-	
+
 		<!-- GOOD STAR PHASE -->
 		<section id="goodstar" class="uk-block" style="border-top:3px solid #212121">
 			<div class="uk-grid uk-grid-collapse uk-position-relative" data-uk-grid-margin>
@@ -237,7 +248,7 @@
 							<figure>
 								<img src="svg/goodstar/goodstar-2.svg" alt="" width="100%">
 							</figure>
-		
+
 							<p>Three months later, 1MDB-PSI joint venture received an additional loan of US$500 million from 1MDB. In May 2011, 1MDB had issued an extra US$330 million credit to the joint venture, but the money ended up in Good Star’s account.</p>
 						</div>
 						<hr>
@@ -327,7 +338,7 @@
 				</div>
 			</div>
 		</section>
-	
+
 		<!-- AABAR-BVI PHASE -->
 		<section id="aabarbvi" class="uk-block" style="border-top:3px solid #212121">
 			<div class="uk-grid uk-grid-collapse uk-position-relative" data-uk-grid-margin>
@@ -353,8 +364,13 @@
 						<hr>
 						<div id="aabarbvi-2" class="uk-block">
 							<p>1MDB received the proceeds of each of the bond issue in 2012, but the proceeds were almost immediately transferred to an entity called Aabar Investments PJS Limited (Aabar-BVI), a British Virgin Islands-registered corporation.</p>
+<<<<<<< HEAD
+
+							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC or Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
+=======
 		
 							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC and Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
+>>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-2.svg" alt="" width="100%">
 							</figure>
@@ -498,7 +514,7 @@ silent film &quot;Metropolis&quot;.</p>
 						<h2 class="uk-article-title uk-text-bold" style="padding-left:15px;border-left:10px solid #90CAF9;">Tanore Phase</h2>
 						<div id="tanore-1" class="uk-block">
 							<p>In March 2013, 1MDB issued a US$3-billion bonds to generate funds for investment in a joint venture with Aabar called Abu Dhabi Malaysia Investment Company (ADMIC). The money was supposed to be used for the Tun Razak Exchange (TRX) project, a financial centre in Kuala Lumpur that has yet to be completed.</p>
-		
+
 							<p>However, more than US$1.26 billion in proceeds was diverted to a bank account held in the name of Tanore Finance Corporation through three overseas investments funds and a company, namely Devonshire Capital Growth Fund (Devonshire), Enterprise and Cistenique, and Granton Property Holdings Limited which was owned by Eric Tan (Jho Low). Tanore had no legitimate affiliation with 1MDB or ADMIC, according to the DOJ.</p>
 							<figure>
 								<img src="svg/tanore/tanore-1.svg" alt="" width="100%">
@@ -637,7 +653,7 @@ silent film &quot;Metropolis&quot;.</p>
 						<hr>
 						<div id="buyback-2" class="uk-block">
 							<p>Subsequently, some of the loan proceeds were also indirectly transferred to Jasmine Loo and MO1, through two entity named Affinity Equity International Partners Limited and Blackrock Commodities (Global) Limited.</p>
-		
+
 							<p>Despite the similarity in names, the DOJ noted that Blackrock Commodities (Global) Limited had no affiliation with the global investment management company BlackRock Inc.</p>
 							<figure>
 								<img src="svg/buyback/buyback-2.svg" alt="" width="100%">
@@ -830,7 +846,7 @@ silent film &quot;Metropolis&quot;.</p>
 				</div>
 			</div>
 		</section>
-		
+
 		<!-- What's Next? -->
 		<section id="next" class="uk-block" style="background:#f5f5f5;border-top:3px solid #212121;">
 			<div class="uk-width-small-1-1 uk-width-medium-2-3 uk-container uk-container-center">
@@ -847,8 +863,12 @@ silent film &quot;Metropolis&quot;.</p>
 				<div class="addthis_inline_share_toolbox" style="margin:30px auto 0"></div>
 			</div>
 		</section>
+<<<<<<< HEAD
+
+=======
 		
 		
+>>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 		<!-- Footer -->
 		<footer class="uk-block uk-block-secondary">
 			<div class="uk-container uk-container-center">
@@ -871,7 +891,7 @@ silent film &quot;Metropolis&quot;.</p>
 				</div>
 			</div>
 		</footer>
-		
+
 		<!--
 <script type="text/javascript">
 	$(window).on('beforeunload', function () {
@@ -883,7 +903,7 @@ silent film &quot;Metropolis&quot;.</p>
 		<script type="text/javascript" src="js/aabarbvi.js"></script>
 		<script type="text/javascript" src="js/tanore.js"></script>
 		<script type="text/javascript" src="js/buyback.js"></script>
-		
+
 		<!-- Google Tag Manager -->
 		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
