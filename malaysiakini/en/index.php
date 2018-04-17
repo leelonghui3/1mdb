@@ -92,15 +92,9 @@
 		<section class="uk-visible-small">
 			<div class="uk-block uk-text-center uk-visible-small" style="padding-bottom:0">
 				<div class="uk-container uk-container-center uk-margin-top">
-<<<<<<< HEAD
-					<h1 class="uk-article-title">被窃走的一马资金</h1>
-					<p class="uk-article-lead uk-text-uppercase" style="font-family:serif;letter-spacing:1px;">重温美国充公行动</p>
-					<p style="font-size:16px">李龙辉与《当今大马》 &nbsp; | &nbsp; 2018年4月X日</p>
-=======
 					<h1 class="uk-article-title">'Stolen' 1MDB Funds:</h1>
 					<p class="uk-article-lead uk-text-uppercase" style="font-family:serif;letter-spacing:1px;">The DOJ lawsuit revisited</p>
 					<p style="font-size:16px">by Lee Long Hui &nbsp; | &nbsp; 31 March 2018</p>
->>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 				</div>
 				<div class="">
 					<img src="img/cover-1920x1080.jpg" width="100%">
@@ -359,13 +353,8 @@
 						<hr>
 						<div id="aabarbvi-2" class="uk-block">
 							<p>1MDB received the proceeds of each of the bond issue in 2012, but the proceeds were almost immediately transferred to an entity called Aabar Investments PJS Limited (Aabar-BVI), a British Virgin Islands-registered corporation.</p>
-<<<<<<< HEAD
-
-							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC or Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
-=======
 		
 							<p>Aabar-BVI bore a similar name to the IPIC’s Aabar, but there was no affiliation between IPIC and Aabar-BVI. 1MDB later conceded that 1MDB might been a "<a href="https://www.malaysiakini.com/news/337682" target="_blank">victim of fraud</a>".</p>
->>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 							<figure>
 								<img src="svg/aabarbvi/aabarbvi-2.svg" alt="" width="100%">
 							</figure>
@@ -858,12 +847,7 @@ silent film &quot;Metropolis&quot;.</p>
 				<div class="addthis_inline_share_toolbox" style="margin:30px auto 0"></div>
 			</div>
 		</section>
-<<<<<<< HEAD
-
-=======
 		
-		
->>>>>>> bd2124e56fac5279480c9e4b06058ebe5edd9e84
 		<!-- Footer -->
 		<footer class="uk-block uk-block-secondary">
 			<div class="uk-container uk-container-center">
